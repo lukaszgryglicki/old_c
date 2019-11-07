@@ -1,0 +1,4 @@
+CREATE VIEW srednia_ocen(srednia)
+AS SELECT avg(ocena)
+FROM ocena
+WHERE ocena.czyliczona='t'

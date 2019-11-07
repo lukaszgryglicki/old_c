@@ -1,0 +1,48 @@
+DBclass is used to calculate averages etc. in a class
+For example: You can define classes, subjects, students, their marks
+and compute averages and other
+
+support for saving results *WILL* be added __soon__
+
+program uses own DB
+
+to setup manually do the following:
+	a) compile by btyping: make (gmake)
+		-if compiles OK
+		-else change CFLAGS,CLINK in Makefile
+		 to point places where PostgreSQL
+		 headers and libraries are
+	b) create database used by program
+		-login as DB admin
+		-do: 
+			createdb morgoth
+			psql -f ./Morgoth.SQL
+		-now You can start program by:
+			./DBclass
+		-install program in /usr/local/bin
+		 by copying file DBclass here
+	c) You can try use 'make install'
+	d) Program was initially written in polish so
+	    table names are polish. Meaning:
+	    uczen:     student
+	    	imie:		name
+		nazwisko:	surname
+		idklasy:	idclass
+		iducznia:	idstudent
+	    klasa:     class
+	    	nazwa:		name
+		idklasy:	idclass
+	    przedmiot: subject
+	    	nazwa:		name
+		idprzedmiotu:	idsubject
+	    ocena:     mark
+	    	ocena:		value
+		czyliczona:	isComputed
+		iducznia:	idstudent
+		idprzedmiotu:	idsubject
+		idoceny:	idmark
+	    tak: yes
+	    nie: no
+Good Luck!
+		
+

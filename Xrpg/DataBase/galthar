@@ -1,0 +1,457 @@
+9
+70 Sila
+70 Wytrzymalosc
+70 Sprawnosc
+70 Zrecznosc
+70 Inteligencja
+70 Moc_Umyslu
+70 Moc_Magiczna
+70 Prezencja
+70 Charyzma
+17
+42
+Czlowiek 0 0 0 0 10 0 0 0 0 
+Kranolud 10 5 0 5 5 -10 -5 -5 5 
+Niziolek -5 -5 5 10 0 5 0 0 0 
+Elf_Lesny 3 2 5 -5 5 -5 -5 5 5 
+Elf_Wysoki -5 -5 0 0 5 5 5 5 0 
+Elf_Srebrny -5 -5 0 -5 10 0 0 5 10 
+Elf_Zloty -5 -5 5 -10 5 5 5 10 0 
+Elf_Eteralny -10 -10 -10 -20 10 20 20 5 5 
+Elf_Szary 5 0 15 -10 5 10 10 5 5 
+Elf_Czarny 10 5 25 -5 15 20 10 15 15 
+Bialy_Daargon -10 -5 10 -25 10 5 5 10 10 
+Blekitny_Daargon -10 -10 30 -25 5 5 5 5 5 
+Zielony_Daargon -5 -5 10 -20 10 5 5 5 5 
+Czerwony_Daargon 5 5 0 -25 5 10 10 0 0 
+Zolty_Daargon -15 -15 10 15 -10 5 5 5 0 
+Czarny_Daargon 10 10 20 -30 0 -10 -10 10 10 
+Granatowy_Daargon -5 -5 -5 -25 5 15 15 -5 20 
+Wojownik 5 5 5 0 -5 0 0 0 0 
+Szermierz 0 -5 10 0 0 5 0 0 0 
+Lucznik -5 0 10 5 0 0 0 0 0 
+Gwardzista 5 5 5 0 5 0 -10 0 5 
+Straznik 10 5 0 0 0 -5 0 0 0 
+Kusznik 10 10 -5 5 0 -10 -5 0 0 
+Rycerz 10 10 10 0 5 -10 -10 5 5 
+Palladyn 15 15 15 0 10 -15 -15 5 15 
+Najemnik 5 5 0 0 0 0 0 0 -5 
+Barbarzynca 20 20 5 0 -10 -5 -5 0 5 
+Kawaler 10 5 5 -5 0 0 -5 0 0 
+Zolnierz 5 5 5 0 0 -5 -5 5 -5 
+Dowodca 10 0 5 5 5 -10 -10 0 5 
+Tancerz 0 0 25 0 0 -5 -10 0 0 
+Tarczownik 5 10 5 0 5 -5 -15 5 0 
+Zwiadowca 0 0 15 0 -5 0 0 5 -5 
+Lowca 5 5 10 5 5 -15 -15 5 5 
+Mag -5 -5 -5 0 5 10 10 -5 0 
+Czarnoksieznik -10 -5 -5 0 10 10 10 -5 0 
+Nekromanta 5 5 5 0 5 10 10 -15 5 
+Demonolog 10 10 5 0 5 10 10 0 15 
+Iluzjonista 0 0 5 5 -5 5 5 -5 0 
+Poszukiwacz_Przygod 5 5 5 5 0 -10 -10 5 5 
+Fechtmistrz 0 0 10 5 5 -5 -10 5 0 
+Kowal 10 0 0 10 5 -10 -10 0 5 
+Rzemieslnik 5 0 0 5 0 0 0 0 0 
+Alchemik 0 -10 -5 0 5 5 5 5 5 
+Medyk -5 -5 0 0 10 5 5 0 0 
+Medrzec 0 0 0 -5 15 0 0 0 0 
+Poeta -5 -5 0 10 0 0 0 5 5 
+Artysta 0 -5 0 5 5 0 0 5 0 
+Zlodziej -5 -5 5 10 0 -5 -5 0 5 
+Morderca 5 -5 10 10 -5 -5 -5 0 5 
+Giermek 0 5 0 0 5 0 0 5 0 
+Poslaniec -10 10 10 -10 10 0 0 0 0 
+Chlop 5 5 0 0 -5 -15 -15 -5 -5 
+Mieszczanin -5 -5 0 0 10 5 5 5 -5 
+Arystokrata -10 -10 -5 -5 5 15 15 10 15 
+Lowca_Nocy 5 5 25 5 10 5 5 0 25 
+Mnich -5 5 -5 -5 5 0 0 0 15 
+Kaplan 5 5 5 -5 5 -15 -15 5 20 
+Druid 5 5 5 0 0 -15 -15 5 10 
+154
+Walka_Wrecz 5 0 0 1 0
+Unik 6 2 2 1 0
+Walka_Mieczem 5 2 0 1 0
+Walka_Szabla 5 2 1 1 0
+Szermierka 5 2 -1 1 0
+Opowiadanie 5 4 1 1 4
+Aktorstwo 5 7 -1 1 4
+Wyksztalcenie 5 4 0 1 4
+Pisanie_Proza 5 4 0 1 4
+Rzucanie_Czarow 5 5 0 1 1
+Unik_Magiczny 3 5 -2 1 1
+Ceremonia 5 5 -1 1 1
+Pobranie_Mocy 5 5 0 1 1
+Moc_Ognia 5 5 0 1 1
+Moc_Wody 5 5 0 1 1
+Moc_Powietrza 5 5 0 1 1
+Moc_Ziemi 5 5 0 1 1
+Moc_Smierci 5 5 0 1 1
+Moc_Teczy 5 5 0 1 1
+Moc_Demoniczna 5 5 -5 1 1
+Moc_Zelaza 5 5 1 1 1
+Walka_Toporem 5 2 0 1 0
+Walka_Mlotem 5 2 0 1 0
+Walka_Kijem 5 8 0 1 0
+Walka_Rapierem 5 2 0 1 0
+Walka_Sejmitarem 5 2 0 1 0
+Walka_Korbaczem 5 2 0 1 0
+Walka_Maczuga 5 2 0 1 0
+Walka_Halabarda 5 2 0 1 0
+Walka_Wlocznia 5 2 0 1 0
+Walka_Kopia 5 2 0 1 0
+Walka_Sztyletem 5 2 0 1 0
+Walka_Bulawa 5 2 0 1 0
+Walka_Berdyszem 5 2 -4 1 0
+Silny_Cios 5 0 0 1 0
+Celny_Cios 5 2 0 1 0
+Precyzyjny_Cios 5 2 -2 1 0
+Skrytobojczy_Cios 5 2 -5 1 0
+Markowany_Cios 5 2 0 1 0
+Miazdzacy_Cios 5 2 -1 1 0
+Cios_Kobry 5 2 -3 1 0
+Cios_z_Powietrza 4 3 1 1 0
+Cios_Tarcza 5 0 0 1 0
+Szybka_Manewracja 5 2 -1 1 0
+Walka_Arytmiczna 5 2 -2 1 0
+Riposta 6 2 2 1 0
+Bron_Strzelecka 5 2 0 1 0
+Celowanie 5 2 0 1 0
+Celny_Strzal 5 2 0 1 0
+Pozycja_Ofensywna 5 2 -1 1 0
+Pozycja_Defensywna 5 2 -1 1 0
+Taniec_Bitewny 4 2 -1 1 0
+Akrobatyczny_Atak 6 2 0 1 0
+Wybicie_Broni 5 0 -2 1 0
+Zachowanie_Rownowagi 5 0 0 1 0
+Parowanie_Tarcza 5 2 2 1 0
+Parowanie_Bronia 6 2 2 1 0
+Oburecznosc 5 3 -1 1 0
+Drugi_Atak 5 2 -2 1 0
+Szarza 5 2 3 1 0
+Walka_z_Konia 5 2 0 1 0
+Woltyzerka 5 2 0 1 0
+Walka_Pazurami 6 2 0 1 0
+Olbrzymia_Sila 5 0 0 1 0
+Kondycja 5 1 0 1 0
+Kamienna_Skora 4 1 0 1 0
+Dowodzenie 5 8 0 1 0
+Maskowanie 5 4 0 1 0
+Skradanie_sie 5 2 0 1 0
+Tropienie 5 4 0 1 0
+Lowiectwo 5 4 0 1 0
+Orientacja_w_Terenie 5 4 0 1 0
+Rozkaz 6 8 0 1 0
+Strategia 5 4 0 1 0
+Taktyka 5 4 0 1 0
+Musztra 5 8 0 1 0
+Czujny_Sen 5 4 0 1 0
+Szosty_Zmysl 5 4 0 1 0
+Marsz 5 1 0 1 0
+Jazda_Konna 5 2 0 1 0
+Ogluszenie 5 0 0 1 0
+Ucieczka 5 2 0 1 0
+Strzelanie_z_Konia 5 3 0 1 0
+Udzwig 5 0 0 1 0
+Formowanie_Szyku 5 4 0 1 0
+Polityka 5 4 0 1 0
+Zmiana_Postaci 5 1 5 1 0
+Latanie 5 2 -1 1 0
+Zioniecie 6 5 0 1 0
+Niewidzialnosc 6 5 0 1 0
+Msza_Sw 5 8 0 1 2
+Teologia 5 8 0 1 2
+Blogoslawienstwo 5 5 0 1 2
+Moc_Zycia 5 8 0 1 2
+Moc_Boga 5 8 0 1 2
+Moc_Cienia 5 8 0 1 2
+Medytacja 5 8 0 1 2
+Modlitwa 5 8 0 1 2
+Porozumienie_Ze_Zwierzeciem 5 8 0 1 2
+Zmiana_Ksztaltu 5 7 0 1 2
+Cios_w_Plecy 5 2 3 1 3
+Kieszonkostwo 5 3 -2 1 3
+Zreczne_Palce 5 3 0 1 3
+Zniszczenie_Zamka 5 3 -1 1 3
+Pulapki 5 3 0 1 3
+Wazenie_Trucizn 5 4 -1 1 3
+Robienie_Zamieszania 5 4 3 1 3
+Czytanie_i_Pisanie 5 4 0 1 4
+Zimna_Krew 5 8 0 1 4
+Kamienna_Twarz 5 8 0 1 4
+Mocna_Glowa 5 1 0 1 4
+Urok_Osobisty 5 7 0 1 4
+Moda_i_Styl 5 4 0 1 4
+Uwodzenie 5 7 0 1 4
+Medycyna 5 4 0 1 4
+Nauki_Scisle 5 4 0 1 4
+Heraldyka 5 4 0 1 4
+Klamstwo 5 8 0 1 4
+Wykrycie_Klamstwa 5 8 0 1 4
+Poezja 5 7 0 1 4
+Piwowarstwo 5 4 0 1 4
+Gra_na_Instrumencie 5 7 0 1 4
+Malarstwo 5 7 0 1 4
+Rzezbiarstwo 5 7 0 1 4
+Architektura 5 4 0 1 4
+Aktorstwo 5 7 0 1 4
+Hazard 5 4 0 1 4
+Spiew 5 7 0 1 4
+Taniec 5 7 0 1 4
+Masaz 5 3 0 1 4
+Akrobatyka 5 2 0 1 4
+Plywanie 5 2 0 1 4
+Tresura 5 8 -1 1 2
+Terenoznastwo 5 4 0 1 4
+Wspinaczka 5 2 0 1 4
+Kupiectwo 5 8 0 1 4
+Ocena_Wartosci 5 4 -1 1 3
+Zielarstwo 5 4 0 1 2
+Kulturoznastwo 5 4 0 1 4
+Wiedza_o_... 5 4 0 1 4
+Gornictwo 5 4 0 1 4
+Kowalstwo 5 0 0 1 4
+Gotowanie 5 4 0 1 4
+Polow_Ryb 5 3 -1 1 4
+Nawigacja 5 4 0 1 4
+Znajomosc_... 5 4 0 1 4
+Zegluga 5 1 0 1 4
+Literatura 5 4 0 1 4
+Historia 5 4 0 1 4
+Geografia 5 4 0 1 4
+Jezyk_... 5 4 0 1 4
+Sprint 5 2 -1 1 0
+Chodzenie_po_Drzewach 5 2 0 1 0
+Praca_na_Roli 5 1 0 1 4
+5
+Wojownicze_i_Wojenne
+Magiczne
+Kaplanskie_i_Druidyczne
+Zlodziejskie_itp
+Inne
+11
+0
+1
+3
+6
+15
+35
+75
+125
+275
+500
+1000
+0
+5
+16
+0
+2
+3
+5
+8
+13
+21
+34
+55
+89
+100
+125
+150
+175
+200
+500
+0
+0
+0
+0
+0
+0
+0
+0
+0
+39
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+6
+DataBase/galthar
+400
+10
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+2
+0
+1
+2
+Moc_Wody
+znak_Aard

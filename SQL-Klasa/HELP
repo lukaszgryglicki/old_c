@@ -1,0 +1,52 @@
+
+====================================================================
+| Pomoc do programu MySQL-Klasa autor MorgothDBMA tel: 693-582-014 |
+====================================================================
+
+1) Bezposrednie zapytanie SQL (ekspert)
+	np: sql select * from przedmioty
+	pamietaj , ze polecenie "sql" trzeba wpisac malymi literami
+	to co po "sql" np sql sEleCT Cos to trafi do bazy w tym przypadku
+	bedzie to 'select cos', kwerendy beda zmieniane na male litery
+2) Aby uruchomic baze danych wpisz (zaawansowane)
+	SQL  (uruchomi shell z poleceniem mysql KLASA)
+	XSQL (uruchomi X-MySQL klienta z baza KLASA)
+	Aby uruchomic baze wpisz po prostu SQL lub XSQL
+	Pamietaj, ze w poleceniach sa rozrozniane litery np: 
+	sql to co innego niz Sql, a w kwerendach nie wiec:
+	sql select * from Bla 
+	to to samo co:
+	sql SELECT * from bLA
+3) Odwolanie do systemu (zaawansowane)
+	sys polecenie
+	Wykona w shell'u polecenie (bez zmieniania wielkosci liter)
+4) Polecenia:
+	pomoc,p,help,h,? 	(wyswietla ten plik lub komunikat bledu)
+	koniec,quit,k,q 	(zakancza dzialanie aplikacji)
+	sql polecenie 		(wywoluje 'polecenie' w MySQL)
+	SQL  			(wywoluje server MySQL)
+	XSQL 			(wywoluje server X-MySQL)
+	XSQLA 			(wywoluje X-MySQL-Admin)
+	wyczysc historie,
+	historia,clh		(czysci plik HISTROY)
+5) Polecenia 'dodaj'
+	'dodaj ucznia'
+	skladnia: dodaj ucznia Klasa Nazwisko Imie NumerWDzienniku
+	np:       dodaj ucznia IIe Iksinski Jan 25
+	spowoduje to:
+		-sprawdzenie czy klasa 'IIe' istnieje, jesli nie to blad
+		-sprawdzenie w klasie 'IIe' czy zajety juz numer 25
+		jesli tak to zapyta czy kontynuowac
+		-wysle dane ('Jan','Iksinski',25,ID_klasy_IIe) do MySQL
+	wersja interaktywna: wpisz tylko 'dodaj' lub tylko 'dodaj ucznia'
+
+
+
+===================================================================
+| Jezeli pomoc nie zmiescila sie na jednym ekranie to mozna go    |
+| przewinac, aby to zrobic nacisnij 'SCROLL LOCK' na klawiaturze  |
+| i nastepnie ogladaj ekran poslugujac sie strzalkami w gore i    |
+| w dol (mozna to robic w dowolnej chwili dzialania programu)     |
+| aby wylaczyc podglad nacisnij jeszcze raz 'SCROLL LOCK'         |
+===================================================================
+

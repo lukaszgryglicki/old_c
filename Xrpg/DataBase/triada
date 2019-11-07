@@ -1,0 +1,591 @@
+13
+10 SILA
+10 KONDYCJA
+10 WYTRZYMALOSC
+10 SPRAWNOSC
+10 ZRECZNOSC
+10 SZYBKOSC
+10 PERCEPCJA
+10 MADROSC
+10 CHARYZMA
+10 PREZENCJA
+10 OPANOWANIE
+10 ZMYSL_MAG
+10 MOC_MAG
+16
+43
+czlowiek 0 0 0 0 0 0 2 0 0 0 0 0 0 
+elf -1 -2 -2 1 0 0 0 1 1 2 1 2 2 
+zloty_elf -2 -2 -2 -1 1 -1 0 1 2 4 1 1 1 
+ird 0 -1 -1 0 0 0 1 1 1 2 1 3 4 
+drow 1 1 1 6 1 4 3 -3 1 1 4 5 3 
+krasnolud 1 1 2 0 1 -2 0 1 -1 -2 1 -1 -2 
+gnom -1 0 -1 2 3 1 1 -2 -1 0 -2 1 2 
+hobbit 0 -1 2 0 1 -1 2 1 -1 1 0 0 1 
+ast -5 -2 -4 1 1 -1 2 0 1 2 1 3 3 
+sirin -1 -1 -2 1 3 1 1 -1 -1 6 0 0 -1 
+saleta 2 2 4 2 -3 1 -2 -3 -2 -1 -1 -1 -2 
+kot -2 2 -3 6 -1 6 2 -2 -1 1 -1 -2 2 
+wampir_krolewski 25 6 125 25 2 25 4 2 15 3 -2 3 4 
+pol-elf -1 0 -1 1 0 0 1 0 0 1 0 1 1 
+Neile 35 25 150 22 -2 35 4 -5 4 -8 -3 -8 -8 
+wampir_polmartwy 25 6 130 20 0 22 2 0 1 -2 -4 0 2 
+wojownik 1 1 1 1 0 1 -1 -1 0 0 -1 -2 -2 
+najemnik 1 1 1 1 0 0 -1 -1 1 -1 -1 -2 -1 
+bandyta 1 1 1 1 0 1 -1 -2 1 0 -1 -2 -2 
+zlodziej 0 1 -1 2 3 1 1 -1 -1 -1 1 -2 -2 
+morderca 1 1 0 1 2 1 0 -1 0 -1 2 -1 -3 
+herszt 1 1 1 2 -1 1 1 -3 2 -1 -1 -2 -2 
+straznik 1 1 1 1 0 1 0 -1 1 0 -1 -2 -3 
+gwardzista 1 1 1 2 0 1 1 0 1 1 0 -3 -3 
+poszukiwacz_przyg. 0 1 1 1 0 0 1 0 0 0 0 -1 0 
+zolnierz 1 2 1 1 -1 1 -1 -1 -1 0 0 -2 -2 
+kawalerzysta 2 1 2 1 1 1 -1 -2 0 0 -1 -2 -2 
+dowodca 1 1 1 2 0 1 1 0 2 0 0 -2 -3 
+zwiadowca 0 1 0 1 2 2 1 1 -1 0 0 -2 -2 
+lucznik 1 1 -1 1 2 1 1 -1 0 0 0 -2 -3 
+kusznik 2 1 0 1 2 1 0 -1 0 0 0 -2 -2 
+tarczownik 2 2 2 1 1 -2 -1 -1 0 0 1 -2 -2 
+rycerz 1 1 1 2 -1 -1 1 1 1 1 0 -3 -3 
+giermek 0 1 0 0 1 0 -1 0 0 0 0 -1 -1 
+palladyn 1 1 1 1 -2 -2 1 1 2 2 0 0 -4 
+kaplan 0 -1 -1 0 2 0 1 3 3 1 1 0 -1 
+czarodziej -2 -2 -2 -1 2 -1 1 2 1 1 1 2 2 
+czarnoksieznik -2 -2 -1 -1 1 -1 1 2 1 -1 0 2 2 
+strateg 0 0 0 0 1 0 2 2 1 0 0 -1 -1 
+wiedzmin 2 2 5 6 -1 4 2 2 1 -3 1 1 -4 
+fechtmistrz 1 0 1 3 1 2 1 -1 0 0 -1 -2 -3 
+osilek 3 2 3 1 0 -2 -1 -2 1 0 -1 -2 -2 
+szlachcic 0 0 -1 1 1 0 1 1 1 1 0 -1 -1 
+poeta -1 -1 -1 -1 2 0 2 2 1 1 1 -2 -1 
+artysta -1 -1 -1 -1 1 0 2 1 1 1 1 -1 -1 
+marynarz 1 1 1 1 1 1 -1 0 -1 0 -1 -2 -3 
+bosman 1 1 2 1 2 1 0 -1 1 0 -1 -3 -3 
+kapitan 0 1 1 1 2 0 2 2 2 0 0 -2 -3 
+pirat 1 1 1 1 2 2 -1 -2 -1 -1 -2 -2 -2 
+lekarz 0 0 1 0 2 1 2 2 0 0 2 -2 -2 
+rzemieslnik 1 0 0 1 2 1 0 2 0 0 0 -2 -1 
+kowal 2 1 1 1 2 0 0 1 0 0 0 -2 -2 
+chlop 0 0 0 0 0 0 -1 -1 0 1 -1 -2 -1 
+kucharz 0 0 0 0 1 1 1 1 0 0 -1 -2 -2 
+alchemik 0 0 -1 0 3 1 1 2 0 -1 0 0 -2 
+nocny_lowca 1 1 1 1 2 1 0 0 2 0 -1 -1 -1 
+jezdziec_smoka 0 1 0 1 1 1 0 -1 3 0 1 -2 -2 
+druid -1 -1 0 0 0 0 1 2 2 1 3 0 -2 
+Thristeh 2 2 5 3 -2 2 1 -3 0 -1 -1 -2 -2 
+217
+celny_cios 3 4 0 1 0
+celny_strzal 3 4 0 1 0
+celowanie 3 6 0 1 0
+dowodzenie 3 8 1 1 2
+druga_bron 3 4 -2 2 0
+militaria 3 7 0 1 0
+musztra 3 8 0 1 2
+okrzyk_bojowy 3 8 0 1 0
+ostatnie_sily 3 2 0 1 0
+precyzyjny_cios 3 4 -2 2 0
+riposta 3 5 2 2 0
+silny_cios 3 0 0 1 0
+strategia 3 7 0 1 0
+strz._z_konia 3 4 -1 2 0
+szarza 3 0 3 1 0
+szermierka 3 4 0 1 0
+szybka_regeneracja 3 2 0 3 0
+szybki_cios 3 5 0 1 0
+taktyka 3 7 0 1 0
+tarczownik 3 2 0 1 0
+ucieczka 3 5 0 1 3
+uniki 4 3 0 1 0
+walka_sztyletem 3 4 2 1 0
+walka_mieczem 3 3 0 1 0
+walka_szabla 3 3 1 1 0
+walka_toporem 3 0 -1 1 0
+walka_wrecz 3 0 1 1 0
+bronie_strzeleckie 3 4 0 1 0
+walka_arytmiczna 3 6 0 3 0
+walka_osaczonego 3 5 -1 2 0
+walka_z_konia 3 4 -1 1 0
+wyczucie_ciosu 3 6 0 1 0
+zimna_krew 3 10 0 1 2
+ars_amandi 3 9 0 1 2
+etykieta 3 7 0 2 2
+kamienna_twarz 3 10 0 1 2
+mocna_glowa 3 2 1 1 2
+moda_i_styl 3 9 0 1 2
+polityka 3 7 -1 2 2
+prow._rozmowy 3 6 0 1 2
+przesluchanie 3 8 0 1 2
+urok_osobisty 3 9 0 1 2
+uwodzenie 3 9 0 1 2
+wplywy 3 8 0 1 2
+zarzadzanie 3 8 0 1 3
+jazda_konna 3 3 0 1 3
+olbrzymia_sila 3 0 0 1 0
+kondycja 3 1 0 1 3
+zreczne_palce 3 4 0 1 3
+wytrzymalosc 3 2 0 1 0
+akrobatyka 3 3 -1 2 3
+szosty_zmysl 3 6 0 1 3
+wyksztalcenie 3 7 0 1 2
+czytanie_pisanie 3 7 1 1 2
+potencial_mag 3 11 0 2 1
+emancja_mocy 3 12 0 2 1
+lowiectwo 3 7 0 1 3
+marsz 3 1 1 1 3
+maskowanie 3 6 0 1 3
+plywanie 3 2 1 1 3
+terenoznawstwo 3 7 0 1 3
+tresura 3 7 0 1 3
+posluch_u_zwierzat 3 8 0 1 3
+tropienie 3 6 0 1 3
+wiedza_o... 3 7 0 1 3
+kieszonkowstwo 3 4 1 1 3
+kupiectwo 3 8 0 1 3
+oszacowanie 3 6 0 1 3
+ocena_wartosci 3 6 0 1 3
+pamiec 3 7 0 1 3
+przeszukanie 3 6 0 1 3
+pulapki 3 6 0 1 3
+skradanie_sie 3 4 0 1 3
+targowanie_sie 3 8 0 1 2
+wspinaczka 3 0 0 1 3
+wytrzychowanie 3 4 0 1 3
+zastraszenie 3 8 0 1 2
+zabojczy_cios 3 4 0 2 0
+znajomosc_ulicy 3 7 1 1 2
+kulturoznawstwo 3 7 0 1 3
+leczenie 3 7 0 1 2
+medycyna 3 7 0 1 2
+nauczanie 3 7 0 1 2
+nauki_scisle 3 6 0 1 2
+poezja 3 7 0 1 2
+teologia 3 7 0 1 3
+zielarstwo 3 7 0 1 3
+ciesielstwo 3 4 0 1 3
+flisactwo 3 4 0 1 3
+gornictwo 3 0 0 1 3
+kowalstwo 3 0 0 1 3
+krawiectwo 3 4 0 1 3
+gotowanie 3 4 0 1 3
+piwowarstwo 3 7 2 1 2
+rybolowstwo 3 7 0 1 3
+zlotnictwo 3 7 0 1 3
+nawigacja 3 7 0 1 3
+nurkowanie 3 2 0 1 3
+sterowanie 3 4 1 1 3
+wiedza_o_morzach 3 7 0 1 3
+wiedza_o_rzekach 3 7 0 1 3
+wioslowanie 3 0 0 1 3
+zeglowanie 3 4 0 1 3
+gra_na_instr. 3 4 0 1 2
+aktorstwo 3 6 0 1 2
+komponowanie 3 6 0 2 2
+literatura 3 7 0 1 3
+tworzenie_wierszy 3 7 1 1 3
+rysowanie 3 4 0 1 3
+kartografia 3 7 0 1 3
+szulerstwo 3 4 0 1 2
+hazard 3 4 0 1 2
+gry_towarzyskie 3 4 0 1 2
+spiew 3 9 0 1 2
+taniec 3 3 0 1 2
+tortury 3 8 0 1 3
+zonglerka 3 4 0 1 3
+bestiologia 3 7 0 1 3
+eliksiry_wiedzm. 3 7 0 2 4
+historia 3 7 0 1 3
+jezyki_obce 3 7 0 1 3
+historia_magii 3 11 0 2 1
+masaz 3 4 0 1 2
+masaz_erotyczny 3 4 0 2 2
+odpornosc_na_truc. 3 2 0 2 4
+wazenie_trucizn 3 7 0 1 3
+drugi_atak 3 3 -2 2 0
+trzeci_atak 3 3 -3 3 4
+berserker 3 0 2 3 4
+rzucanie_czarow 3 11 0 2 1
+ceremonie_magiczne 3 7 0 2 1
+magia_elementarna 3 7 0 1 1
+kontrola_mocy 3 12 0 2 1
+pobranie_mocy 3 12 0 2 1
+odpornosc_magiczna 3 11 1 2 1
+magia_bojowa 3 11 0 2 1
+magia_iluzji 3 11 0 2 1
+magia_oslonna 3 11 0 2 1
+magia_kontroli 3 11 0 2 1
+magia_komunikacyjna 3 11 0 2 1
+magia_urokow 3 11 0 2 1
+magia_nekromancka 3 11 0 2 1
+magia_demonol. 3 11 0 2 1
+magia_sugestii 3 11 0 2 1
+magia_zywiolow 3 11 0 2 1
+magia_ciala 3 11 0 2 1
+sztuczki_sztyletem 3 4 0 1 0
+znajomosc_wsi 3 7 0 1 2
+znajomosc_miasta 3 7 0 1 2
+sprint 3 5 1 1 3
+woltyzerka 3 3 1 1 0
+szybka_manewracja 3 5 0 2 0
+czule_zmysly 3 6 0 1 3
+parowanie_tarcza 3 4 0 1 0
+udzwig 3 0 0 1 0
+formowanie_szykow 3 5 0 1 0
+magia_umyslu 3 11 0 2 1
+heraldyka 3 7 0 1 2
+polerowanie 3 4 0 1 3
+blogoslawienstwo 3 8 0 1 1
+msza_sw. 3 8 0 2 1
+moc_ognia 3 8 0 2 1
+moc_wody 3 8 0 2 1
+moc_powietrza 3 8 0 2 1
+moc_ziemi 3 8 0 2 1
+moc_zycia 3 8 0 2 1
+moc_smierci 3 8 0 2 1
+medytacja 3 8 0 1 1
+modlitwa 3 8 0 1 1
+chodzenie_po_drz. 3 4 0 1 3
+magia_renegacka 3 11 2 5 4
+intryga_dworska 3 6 0 2 2
+klamstwo 3 8 0 1 2
+wykr._klamstwa 3 6 0 1 2
+cios_w_plecy 3 0 4 1 3
+kopanie 3 0 0 1 3
+znajomosc_podziemi 3 7 0 1 3
+kucie_korytarzy 3 0 0 1 3
+wynalazki 3 6 0 2 3
+niematerialnosc 3 11 1 3 4
+latanie 3 4 0 2 4
+weszenie 3 6 0 1 4
+gwalcenie 3 0 0 1 2
+przebieranie_sie 3 6 0 1 2
+wypatrywanie 3 6 1 1 3
+przedstawianie_sie 3 7 0 1 3
+historie_rodowe 3 7 0 1 3
+emancja_dobra 3 11 0 1 4
+emancja_zla 3 11 0 1 4
+krasomowstwo 3 8 1 1 3
+przekonywanie 3 8 0 1 3
+opanowanie_mart. 3 8 0 3 4
+odegnanie_martw. 3 8 0 3 4
+wiedza_o_potworach 3 7 0 1 3
+wiedza_o_martw. 3 7 0 1 3
+opowiadanie 3 8 0 1 3
+rzezbiarstwo 3 4 0 1 3
+skoki_na_linach 3 4 0 1 3
+opatrunek 3 7 0 1 3
+nast._zlamania 3 4 0 1 3
+tamowanie_krwotoku 3 7 0 1 3
+mikstury_alchem. 3 7 0 2 4
+przedzenie 3 4 0 1 3
+praca_na_roli 3 0 0 1 3
+obrzadzanie 3 7 0 1 3
+kontrola_umyslu 6 8 -4 3 4
+zmiana_postaci 6 11 -4 2 4
+kontrola_pogody 6 8 -4 3 4
+ssanie_krwi 6 0 -4 1 4
+opanowanie_rzadzy 3 8 -3 2 4
+walka_pazurami 4 3 -2 2 4
+opanowanie_smoka 3 8 -2 3 4
+lot_na_smoku 3 3 -2 3 4
+rozkaz_dla_smoka 3 8 -2 3 4
+walka_ze_smoka 3 6 -2 3 4
+odp._na_sm._str 3 10 -2 3 4
+orientacja_powietrzna 3 6 -2 1 4
+5
+bojowe
+magiczne
+spoleczne
+inne
+chronione
+16
+0
+1
+3
+6
+15
+35
+75
+155
+315
+635
+1275
+1600
+2000
+2250
+2500
+2750
+0
+1
+16
+0
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+725
+850
+-1
+-1
+-1
+0
+1
+0
+0
+0
+0
+2
+0
+0
+0
+26
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+DataBase/triada
+400
+10
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+DEFAULT_ITEM
+40
+0

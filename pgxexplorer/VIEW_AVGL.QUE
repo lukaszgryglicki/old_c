@@ -1,0 +1,8 @@
+CREATE VIEW vsredniel AS
+SELECT klasa.idklasy AS id, 
+klasa.nazwa, avg(ocena.ocena) AS srednia 
+FROM ocena, uczen, klasa 
+WHERE ((ocena.iducznia = uczen.iducznia) 
+AND (uczen.idklasy = klasa.idklasy)) 
+GROUP BY klasa.idklasy, klasa.nazwa 
+ORDER BY klasa.nazwa

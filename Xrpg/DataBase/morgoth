@@ -1,0 +1,793 @@
+13
+10 sila
+10 kondycja
+10 wytrztmalosc
+10 sprawnosc
+10 zrecznosc
+10 szybkosc
+10 percepcja
+10 madrosc
+10 charyzma
+10 prezencja
+10 opanowanie
+10 zmysl_magiczny
+10 moc_magiczna
+42
+105
+alien 8 6 8 12 -3 10 1 -8 -4 -6 -5 -3 -3 
+ast -6 -4 -5 -4 -4 -2 2 2 2 2 2 4 5 
+bialy_dargon 2 3 1 3 -1 4 2 -2 0 0 -1 2 3 
+cirael 1 1 0 2 0 2 1 0 1 1 -1 -2 -2 
+czarny_dargon -1 2 1 1 2 0 1 1 5 -4 -2 4 4 
+czerwony_dargon 4 2 2 2 -2 3 1 -1 2 -1 -3 2 9 
+czlowiek 0 0 0 0 0 0 2 0 0 0 0 0 0 
+drow 1 2 2 6 2 6 6 -3 2 1 4 3 4 
+dwearon 6 4 6 0 1 0 0 -1 0 -5 -1 -2 -3 
+elf -1 -1 -2 1 1 0 0 0 1 2 1 2 1 
+gnom 1 0 -1 2 3 1 2 -2 -2 -1 -2 0 0 
+goblin -1 1 -1 0 1 -1 0 -1 -1 -2 -1 1 2 
+hobbit -2 -1 3 1 2 0 1 2 -1 2 0 1 -1 
+ird -1 -2 -2 -1 1 -2 2 -1 1 2 0 3 4 
+kot -3 2 -3 6 1 6 4 -2 -2 -1 -2 -2 -3 
+krasnal 3 2 3 -1 1 -2 0 1 -1 -2 -1 -1 -2 
+liche 20 5 999 15 2 15 8 10 25 -4 4 25 999 
+likantrop_mniejszy 6 2 6 5 -2 5 -2 -3 2 -2 -2 -1 -1 
+likantrop_wiekszy 30 10 85 20 -5 20 -3 -5 6 -5 -3 -4 -4 
+minotaur 15 2 15 -2 -4 0 -2 -2 -2 -2 -2 2 0 
+neile 40 20 100 20 -5 30 5 -5 5 -5 2 -5 -5 
+niebieski_dargon 4 2 3 2 -3 2 1 0 1 0 0 2 3 
+ogr 10 2 10 -2 -5 -2 -5 -6 2 -5 -3 0 0 
+ork 2 4 2 0 -2 3 -1 -2 1 -2 -1 -2 -1 
+pol_ogr 2 1 3 0 -1 1 1 1 1 0 -1 3 4 
+pol-elf -1 0 -1 1 0 0 0 1 0 1 0 0 1 
+predator 10 4 20 -1 1 2 6 2 0 -4 2 0 -2 
+saleta 2 2 2 -1 -1 0 -2 -3 1 0 -1 0 0 
+sirin -4 -2 -4 2 2 3 0 -1 -2 6 0 1 2 
+skrzat 3 1 1 0 2 0 0 -1 -2 -1 -1 -1 0 
+srebrny_aler 1 1 1 2 -1 1 0 -1 0 -3 0 -1 2 
+svirnebli 2 2 2 2 2 1 0 -2 -1 -2 -1 -1 0 
+szary_dargon 6 3 5 2 -3 -2 -1 -1 3 1 2 1 -1 
+templariusz 2 0 20 2 -2 1 2 10 -1 -10 2 -5 -5 
+wampir_krolewski 20 8 100 25 5 25 4 4 10 2 -1 4 4 
+wampir_martwy 26 10 150 18 2 18 -2 -4 1 -4 -5 -3 -3 
+wampir_polmartwy 22 10 120 20 3 20 0 -2 4 -2 -3 0 -1 
+wampir_wyzwolony 20 8 100 25 5 25 4 4 12 2 1 4 4 
+zielony_dargon 2 2 4 2 1 0 3 2 1 2 0 0 0 
+zloty_aler 1 2 2 1 -2 1 -3 -3 -1 -3 0 1 -2 
+zloty_elf -1 -2 -2 -1 1 -2 0 1 2 3 1 1 2 
+zolty_dargon 1 1 2 1 1 0 2 3 4 0 1 3 20 
+akolita -1 0 -1 0 1 0 1 2 2 0 1 -1 -1 
+alchemik -1 1 1 -1 3 1 1 2 0 -1 -1 1 0 
+alfons 1 1 0 0 1 1 -1 -2 1 -1 -1 0 -1 
+alkoholik 0 0 -1 -1 -2 0 -1 -2 -1 -1 -2 -1 -1 
+artysta -1 -1 -1 -1 2 0 1 2 1 1 0 -1 -1 
+astronom -1 -1 0 -1 2 0 2 2 0 0 1 1 1 
+awanturnik 3 1 2 1 -1 0 -1 -2 0 -1 -3 -1 0 
+awatar 1 2 2 0 2 1 3 6 6 2 10 -1 -1 
+bard -1 0 1 0 2 0 1 2 2 2 1 -2 -2 
+barman 0 0 1 0 2 1 1 0 1 0 -1 -1 0 
+baron 0 0 1 2 1 1 0 1 2 1 0 -2 -3 
+bibliotekarz -1 0 0 0 2 1 0 2 -1 0 0 -1 -1 
+biolog -1 0 0 0 1 0 1 2 0 0 0 -1 -1 
+bledny_rycerz 2 1 2 2 -3 -2 0 1 2 1 1 -3 -2 
+bosman 2 1 2 2 2 1 0 0 1 -1 -1 -2 -2 
+burmistrz 0 -1 0 -1 1 0 1 1 2 0 0 -1 -2 
+chlop 1 1 1 0 -1 -1 -1 -1 -1 1 0 0 0 
+czarnoksieznik 1 0 0 1 0 -1 0 1 2 -1 0 2 1 
+czarny_rycerz 2 1 2 2 -3 -2 1 0 2 0 0 1 -1 
+czarodziej -1 -2 -2 -1 1 0 1 2 1 1 0 2 2 
+demonolog -1 -1 -1 -1 -1 -1 0 1 3 -1 2 2 3 
+detektyw 0 1 1 1 1 0 2 3 1 0 1 -3 -3 
+dowodca 1 0 1 1 -1 0 1 1 2 0 -1 -1 -1 
+dziesietnik 1 0 1 1 -1 0 1 1 2 0 -1 -1 -1 
+dziwka -1 0 2 0 1 1 -1 -2 -2 1 -1 -1 1 
+elementalista -1 -2 -1 0 1 -1 1 2 0 0 0 2 3 
+fechtmistrz 1 0 0 3 1 2 1 0 1 1 -1 -2 -2 
+gawedziarz 0 0 0 0 1 0 1 2 2 0 0 -2 -2 
+giermek 0 1 0 0 1 0 0 -1 0 1 0 0 -1 
+gornik 2 1 2 0 0 -1 -1 -1 0 -1 1 0 -1 
+gwardzista 2 2 2 2 0 1 1 1 1 1 0 -3 -3 
+handlarz 1 0 1 0 2 1 1 -1 1 -2 1 -2 -2 
+hazardzista 0 0 0 1 2 2 1 0 1 -1 -1 -2 -2 
+herszt 1 1 1 1 -1 0 -1 -1 2 -2 -1 -1 -1 
+historyk -1 -1 0 0 1 0 1 2 0 0 1 -1 -1 
+hrabia 0 0 1 2 1 1 1 1 2 1 1 -3 -3 
+iluzjonista -1 -1 -1 -1 2 1 1 2 1 1 1 2 0 
+jezdziec 1 1 0 2 0 1 0 -1 0 0 0 -1 -1 
+jezdziec_smoka 1 2 2 2 0 1 0 0 4 0 3 0 1 
+kapitan 1 1 1 2 1 1 1 2 2 0 1 -3 -3 
+kaplan -1 -1 -1 -1 2 -1 1 3 4 1 3 -1 -1 
+kat 2 0 0 2 2 1 -1 -1 1 -1 3 -2 -1 
+kawalerzysta 2 1 2 1 -1 2 -1 -1 0 0 -1 -1 -1 
+kelner 0 0 0 1 2 1 0 -1 -1 1 -1 0 0 
+komornik 1 0 2 0 0 1 0 -1 1 -1 -2 -1 -1 
+kowal 2 1 1 0 2 -1 0 1 0 0 0 -1 -1 
+kowal_run 1 -1 -1 -1 2 -1 1 1 0 0 2 2 1 
+kreator -1 -1 1 -1 1 -1 0 1 0 0 2 2 1 
+krol -1 -1 0 2 1 0 2 3 4 2 2 -3 -3 
+ksiaze -1 -1 0 1 1 0 1 2 3 2 1 -2 -2 
+kultysta 0 0 -1 -1 2 -1 1 2 3 1 3 -1 -1 
+kupiec 0 1 0 0 2 0 1 2 2 1 -1 -2 -2 
+kusznik 2 1 1 0 2 0 0 0 0 -1 -1 -1 -1 
+lekarz -1 0 -1 0 2 1 2 2 0 0 2 -1 -1 
+lotr 1 1 1 1 -1 0 -1 -1 0 -1 -1 0 -1 
+lowca 1 1 0 2 1 1 1 1 -1 -1 0 -2 -2 
+lowca_nagrod 2 1 2 2 0 2 1 -1 0 -1 0 -1 -3 
+lucznik 1 1 -1 1 2 1 1 0 0 0 0 -1 -1 
+mag_bojowy -1 -1 0 -1 0 -1 1 0 1 0 1 2 2 
+mag_komunikacji -1 0 -1 -1 0 1 1 1 0 0 0 2 2 
+mag_mocy -1 -2 -1 -1 0 -1 1 1 1 0 1 2 5 
+mag_umyslu -1 -1 -1 -1 -1 -1 1 2 4 1 1 2 1 
+marynarz 1 1 1 1 1 1 -1 -1 -1 -1 0 -1 0 
+mieczownik 1 0 1 2 0 1 0 -1 0 0 -1 0 1 
+mistrz_sztuk -1 0 1 1 1 1 2 3 3 1 2 3 4 
+mnich -1 -1 -1 -1 2 -1 1 3 4 1 3 -1 -1 
+nad-setnik 1 1 1 2 0 2 2 2 4 0 0 -3 -3 
+najemnik 2 1 1 2 0 1 -1 -1 -1 -1 0 -1 -1 
+nauczyciel -1 -1 0 -1 1 -1 1 2 1 0 2 0 0 
+nekromanta -1 -1 -1 -1 0 1 1 0 2 -1 1 2 2 
+ninja 4 2 1 4 2 4 2 -2 -1 -1 1 -4 -4 
+nomad 1 3 2 1 -1 3 -1 -1 -1 -1 -1 0 0 
+osilek 4 1 4 -1 -2 -2 -1 -1 1 1 -2 -1 0 
+palladyn 2 1 2 2 -3 -2 1 1 2 1 1 1 -2 
+pirat 1 1 1 1 1 1 -1 -1 -1 -1 -1 0 0 
+poeta -1 -1 0 0 1 -1 2 2 1 1 0 -1 -1 
+pol-bog 1 1 1 1 1 1 2 2 3 1 2 3 3 
+posel 0 1 1 1 0 3 1 0 0 0 1 -2 -2 
+poszukiwac_przygod 0 0 0 0 0 0 0 0 0 0 0 0 0 
+przewodnik 0 1 0 0 1 0 0 1 0 0 -1 -1 -1 
+renegat -1 -2 -2 -1 -1 -1 2 2 2 -1 1 5 5 
+rolnik 1 1 0 0 0 0 0 -1 -1 -1 0 0 -1 
+rybak 1 0 0 0 1 1 -1 -1 0 -1 1 0 0 
+rycerz 2 1 2 2 -2 -2 1 1 2 1 1 -2 -2 
+samuraj 2 1 2 2 1 2 0 -1 0 -1 0 -3 -3 
+setnik 1 1 1 1 -1 1 1 1 3 0 0 -2 -2 
+spiewak -1 0 0 0 1 0 0 2 1 2 -1 -1 0 
+stajenny 1 0 0 0 0 0 -1 -1 -1 0 0 0 0 
+szermierz 0 0 1 3 1 2 1 -1 -1 0 0 -2 -2 
+szewc 1 0 0 0 2 0 0 1 0 -1 0 -1 -1 
+szlachcic 0 0 1 2 1 1 0 0 1 1 0 -2 -3 
+szuler 0 0 0 1 2 2 1 0 1 -1 -1 -2 -2 
+tarczownik 2 1 2 0 -2 -2 -1 -1 0 0 1 -1 -1 
+teolog -1 0 0 0 0 0 1 2 2 0 1 -1 -1 
+teoretyk -1 -1 -1 -1 2 -1 2 2 2 1 1 1 0 
+tropiciel 0 2 0 2 2 1 1 1 -1 -1 0 -1 -1 
+wiedzmin 4 2 6 6 2 5 2 0 -1 -3 -1 2 -2 
+wojownik 1 1 1 1 0 1 0 -1 -1 0 -1 -1 -2 
+wojt 1 1 1 0 0 1 0 -1 1 -1 -1 0 -1 
+zabojca 1 0 1 2 2 1 0 -2 0 -1 1 -1 -2 
+zabojca 2 0 1 2 1 1 1 -2 1 -2 3 -2 -1 
+zebrak 0 0 -1 0 0 -1 -1 -1 -2 -2 -1 -1 -1 
+zlodziej 0 -1 -1 2 3 2 2 -2 -1 -1 1 -2 -2 
+zolnierz 1 2 1 1 -1 0 -1 -1 -1 0 -1 -1 -1 
+zwiadowca 0 2 0 2 2 3 2 1 -1 -1 1 -2 -3 
+261
+akrobatyka 3 3 0 2 7
+aktorstwo 3 6 0 1 4
+alchemia 3 7 0 1 5
+anatomia 3 7 0 1 5
+ars_amandi 3 9 0 1 4
+arytmiczna_walka 4 3 3 4 6
+astronomia 3 7 0 1 5
+atak_z_zaskoczenia 3 6 4 1 3
+bibliotekarstwo 3 7 0 1 5
+bijatyka 3 2 1 1 1
+biologia 3 7 0 1 5
+blogoslawienstwo 3 8 1 1 2
+blyskawiczny_cios 3 5 -1 2 6
+botanika 3 7 0 1 5
+bronie_strzeleckie 3 4 1 1 1
+celny_cios 3 6 0 1 1
+celny_strzal 3 6 1 1 1
+celowanie 3 6 1 1 1
+ceremonie_magiczne 3 11 -1 2 0
+choroboznawstwo 3 7 0 1 5
+ciesielstwo 3 4 0 1 4
+czarnoksiestwo 3 11 1 2 0
+czule_zmysly 3 6 0 1 7
+czytanie_z_warg 3 6 -1 1 7
+dargon-latanie 3 1 1 1 6
+dargon-niewidzialnosc 3 11 1 1 6
+dargon-specialna 3 8 2 1 6
+dargon-zianie 3 0 1 1 6
+demonologia 3 11 2 3 0
+dobre_wrazenie 3 9 1 1 4
+dolny_krzyz 4 3 4 5 6
+doskonaly_sluch 3 6 1 2 7
+doskonaly_wech 3 6 1 2 7
+dowodzenie 3 8 1 2 1
+dowodzenie 3 8 1 1 4
+drugi_atak 3 3 -2 2 1
+dwurecznosc 3 4 -1 2 1
+eksperymenty 3 7 0 1 5
+emancja_dobra 3 8 2 2 6
+emancja_zla 3 8 2 2 6
+empatia 3 6 1 1 4
+etykieta 3 7 1 2 4
+etykieta_wyzsza 3 7 -2 4 4
+filozofia 3 6 0 2 5
+fizyka 3 6 -1 2 5
+geografia 3 7 0 1 5
+glos_boski 3 10 -1 4 2
+gloszenie_kazan 3 8 0 1 2
+gornictwo 3 0 1 1 4
+gotowanie 3 4 1 1 4
+gry_karciane 3 6 1 1 4
+gry_w_kosci 3 4 1 1 4
+gwalcenie 3 0 2 1 4
+haftowanie 3 4 0 1 4
+hazard 3 4 0 1 3
+heraldyka 3 7 1 1 5
+historia 3 7 0 1 5
+historia_magii 3 7 0 1 0
+hodowla 3 7 0 1 7
+infrawizja 3 6 1 1 6
+jazda_konna 3 3 0 1 1
+jezyki_obce 3 7 0 1 5
+kamienna_twarz 3 10 1 1 4
+karate 4 3 2 3 1
+kodeks_rycerski 3 7 0 1 5
+kondycja 3 1 0 1 7
+konstuowanie 3 6 -1 1 7
+kontakt_z_bostwem 3 8 0 2 2
+kontrola_pogody 3 8 1 3 6
+kontrolowanie_umarlych 5 11 2 5 6
+kopanie 3 0 1 1 7
+kowalstwo 3 0 0 1 4
+kradziez_kieszonkowa 3 4 1 1 3
+krasomowstwo 3 8 2 1 4
+kucie 3 4 1 1 7
+kula_ciemnosci 3 11 2 2 6
+kule_ogniste 3 11 -1 2 6
+latanie 3 10 1 1 6
+legendoznawstwo 3 7 1 1 5
+lewitacja 3 11 1 2 6
+literatura 3 7 0 1 5
+lowiectwo 3 7 1 1 7
+magia_bojowa 3 11 0 2 0
+magia_ciala 3 11 0 2 0
+magia_elementarna 3 7 0 1 0
+magia_iluzji 3 11 0 2 0
+magia_komunikacyjna 3 11 0 2 0
+magia_lloth 4 11 2 4 0
+magia_runiczna 3 11 0 2 0
+magia_tworzaca 3 11 -1 2 0
+magia_umyslu 3 11 0 2 0
+magia_zmiennoksztaltna 3 11 1 2 0
+magiczne_przedmioty 3 11 0 2 0
+malarstwo 3 4 0 1 7
+maszerowanie 3 1 1 1 7
+matematyka 3 6 -1 2 5
+medycyna 3 7 0 1 5
+medytacja_kaplanska 3 10 1 2 2
+metalurgia 3 7 0 1 5
+meteorologia 3 7 0 1 5
+miazdzacy_cios 3 0 2 3 6
+militaria 3 7 0 1 1
+moc_ognia 3 8 1 1 2
+moc_powietrza 3 10 2 1 2
+moc_smierci 3 10 3 2 2
+moc_wody 3 10 1 1 2
+moc_ziemi 3 10 0 1 2
+moc_zycia 3 10 3 1 2
+mocna_glowa 3 2 0 1 4
+moda_i_styl 3 9 -1 1 4
+modlitwa 3 8 1 1 2
+modlitwa_rycerska 3 8 1 2 2
+morderczy_marsz 3 1 -1 2 6
+msza_sw 3 8 1 2 2
+musztra 3 8 1 1 1
+nasladownictwo 3 6 0 1 4
+nastawianie_zlaman 3 4 -1 2 5
+nawiazanie_rozmowy 3 8 2 1 4
+nekromancja 3 11 1 2 0
+niewidzialnosc 3 11 0 2 6
+nurkowanie 3 2 -1 2 7
+obezladnienie 3 0 0 1 1
+obrzadzanie 3 7 1 1 7
+ocena_wartosci 3 6 1 1 3
+odpornosc_magiczna 3 11 -1 2 0
+odpornosc_na_trucizny 3 2 2 2 6
+olbrzymia_sila 3 0 0 1 1
+opanowanie_rzadzy 2 10 -2 2 6
+operacje_magiczne 3 11 -1 2 0
+opieka_nad_koniem 3 7 0 1 7
+opowiadanie 3 8 0 1 4
+ostatnie_sily 3 2 0 1 1
+oszacowanie 3 6 0 1 3
+oszukiwanie 3 8 1 1 4
+parowanie_tarcza 3 0 1 1 1
+pasienie 3 7 2 1 7
+patrol 3 6 0 1 7
+perswazja 3 8 0 1 4
+pierwsza_pomoc 3 7 1 1 5
+pieszczenie 3 9 2 1 4
+pirotechnika 3 7 -1 2 5
+plywanie 3 2 0 1 7
+pobranie_mocy 3 11 0 2 0
+poezja 3 7 0 1 4
+polerowanie_zbroi 3 4 0 1 4
+polityka 3 7 -1 2 5
+polmaterialnosc 3 11 0 2 6
+polowanie 3 7 0 1 7
+pomyslowosc 3 6 0 1 7
+potencjal_magiczny 3 11 0 2 0
+prawo 3 7 0 1 5
+precyzyjny_cios 3 6 1 2 1
+przedstawianie_sie 3 7 2 1 4
+przedzenie 3 4 0 1 4
+przemowienie 3 8 1 1 2
+przepowiadanie_przyszlosci 3 8 -1 2 6
+przesluchanie 3 8 0 1 6
+przeszukanie 3 6 0 1 7
+recytacja 3 9 0 1 4
+renegacja 4 11 3 5 0
+retoryka 3 8 1 1 4
+riposta 3 5 2 2 1
+rozbrojenie 3 0 0 1 1
+rozkaz 3 8 0 1 7
+roznoszenie_posilkow 3 8 0 1 4
+runy_magiczne 3 11 0 2 0
+rybolowstwo 3 4 0 1 7
+rysowanie 3 4 1 1 7
+rzezbiarstwo 3 4 0 1 7
+rzucanie 3 0 0 1 1
+rzucanie_czarow 3 11 0 2 0
+silny_cios 3 0 0 1 1
+sledztwo 3 6 0 2 7
+sluzba 3 10 1 1 4
+sokoli_wzrok 3 6 2 2 6
+spanie_w_marszu 3 1 -1 2 6
+spiew 3 9 0 1 4
+spostrzegawczosc 3 6 1 1 7
+spostrzegawczosc 3 9 0 1 7
+sprint 3 5 1 1 7
+ssanie_krwi 4 0 3 3 6
+sterowanie 3 6 0 2 7
+strategia 3 7 0 1 5
+sugestywnosc 3 8 2 1 4
+szarza 3 0 3 1 1
+szermierka 3 3 2 2 1
+szosty_zmysl 3 6 2 1 7
+sztuki_walki... 3 3 2 2 1
+szukanie_poszlak 3 7 1 1 6
+szukanie_pulapek 3 6 1 1 3
+szukanie_wody 3 7 1 1 7
+szulerstwo 3 4 1 1 3
+szybka_manewracja 3 5 0 2 1
+szycie 3 4 0 1 7
+taktyka 3 7 0 1 5
+tamowanie_krwotoku 3 0 0 1 5
+taniec 3 9 0 1 4
+targowanie_sie 3 8 0 1 4
+teorie_magiczne 3 7 0 1 0
+terenoznawstwo 3 7 1 1 5
+termowizja 3 6 0 1 6
+terroryzowanie 3 8 1 1 7
+transport_mocy 3 11 0 2 0
+tropienie 3 6 0 1 7
+trzeci_atak 3 3 -4 4 1
+udzwig 3 0 1 1 7
+ukladanie_wierszy 3 6 1 1 5
+ukrycie_w_cieniu 3 6 1 1 3
+ukrywanie_sie 3 6 0 1 3
+uniki 4 3 0 1 1
+upiekszanie_sie 3 9 1 1 4
+uprawa_roli 3 0 1 1 4
+uwodzenie 3 9 0 1 4
+walka_bronia_improwizowana 3 3 -1 1 1
+walka_bronia... 3 3 0 1 1
+walka_kopia 3 0 2 1 1
+walka_mieczem 3 3 0 1 1
+walka_sztyletem 3 4 2 1 1
+walka_toporem 3 0 -1 1 1
+walka_w_powietrzu 3 3 -1 2 1
+walka_wrecz 3 0 1 1 1
+wiarygodnosc 3 8 0 1 2
+wiedza_o... 3 7 0 1 5
+wiez_ze_zwierzeciem 3 8 1 1 7
+winoznawstwo 3 7 2 1 5
+wioslowanie 3 0 0 1 4
+wlamania 3 0 1 1 3
+wmowienie 3 8 0 1 4
+woltyzerka 3 3 1 1 1
+wspinaczka 3 0 1 1 7
+wszechstronnosc 3 6 -1 2 6
+wykrycie_zrodla 3 11 2 1 0
+wyksztalcenie 3 7 0 1 5
+wypatrywanie 3 6 0 1 7
+wyrob_beltow 3 7 -1 2 5
+wyrob_narkotykow 3 7 -2 4 5
+wyrob_ozdob 3 4 0 1 4
+wyrob_strzal 3 7 0 1 5
+wytrzymalosc 3 2 0 1 1
+wywiad 3 8 0 1 7
+wzrok_astralny 3 11 0 2 0
+zabojczy_cios 3 0 3 2 3
+zachwalanie 3 8 1 1 4
+zakladanie_zagli 3 0 -1 2 7
+zarabianie_pieniedzy 3 6 2 4 4
+zarzadzanie 3 8 -1 2 4
+zastawianie_pulapek 3 4 0 1 3
+zastraszenie 3 8 1 1 7
+zebranie 3 8 2 1 7
+zeglowanie 3 6 1 1 7
+zielarstwo 3 7 0 1 5
+zimna_krew 3 10 0 1 7
+zmiana_postaci 3 11 0 1 6
+znajomosc_kultow 3 7 1 1 2
+znajomosc_lasu 3 7 0 1 5
+znajomosc_sladow 3 7 0 1 7
+znajomosc_wojska 3 7 0 1 5
+znajomosc_zwierzat 3 7 0 1 5
+zonglowanie 3 4 -1 1 4
+zwiad 3 6 0 1 7
+zwinne_palce 3 4 1 1 3
+8
+magia
+miecz
+kaplan
+zlodziej
+spoleczne
+naukowe
+specyficzne
+inne
+15
+0
+1
+3
+6
+15
+35
+75
+155
+315
+500
+800
+1300
+2100
+3400
+5000
+123
+1
+15
+0
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+200
+300
+500
+800
+-2
+-1
+-1
+0
+1
+0
+0
+0
+-1
+2
+0
+2
+3
+1083
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+1
+0
+0
+2
+2
+3
+2
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+4
+0
+0
+0
+0
+0
+1
+0
+0
+0
+1
+0
+0
+1
+1
+2
+1
+1
+3
+1
+3
+1
+1
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+1
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+0
+0
+0
+0
+0
+0
+0
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+12
+DataBase/morgoth
+400
+7
+miecz_1,5_reczny
+300
+miecz_1r
+200
+miecz_2_reczny
+430
+noz_mysliwski
+65
+sztylet
+50
+topor_1r
+350
+topor_2r
+500
+4
+2
+2
+magia_ciala
+leczenie
+3
+magia_bojowa
+pocisk_ognisty
+2
+1
+magia_bojowa
+fire
+5
+magia_bojowa
+pocisk_z_ognia
+4
+9
+magia_bojowa
+firebb
+25
+magia_bojowa
+magikowa_burza
+4
+magia_bojowa
+spell_bojowa
+100
+magia_lloth
+xkiller
+1
+12
+magia_bojowa
+fireball

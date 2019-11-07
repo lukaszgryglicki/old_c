@@ -1,0 +1,261 @@
+Mgenpardta	genpardta.c	/^int main(int lb, char** par)$/
+Mmain	main.c	/^INT main(INT lb, CHAR **par)$/
+Mpbar	pbar.c	/^int main(int lb, char** par)$/
+Mpgxtest	pgxtest.c	/^int main(int lb, char** par)$/
+PassInsertData	wizards.h	/^struct PassInsertData$/
+ProgressData	pbar.h	/^struct ProgressData$/
+WizData	wizards.h	/^struct WizData$/
+__dummy	main.c	/^void __dummy( GtkWidget *w,gpointer data)$/
+abort_query	wizards.c	/^INT abort_query(GtkWidget* w, gpointer data)$/
+about_box	main.c	/^void about_box(GtkWidget *w,gpointer data)$/
+about_clback	toolbar.c	/^INT about_clback(GtkWidget* w, gpointer d)$/
+about_window_new	toolbar.c	/^void about_window_new()$/
+add_to_memlist	mmsystem.c	/^void add_to_memlist(void* ptr)$/
+add_to_special_memlist	mmsystem.c	/^void add_to_special_memlist(struct mem_list** head/
+alarm_clock	signals.c	/^void alarm_clock(INT sec)$/
+alarm_stop	signals.c	/^void alarm_stop()$/
+apply_proc	main.c	/^void apply_proc(GtkWidget* w, gpointer d)$/
+auto_complete	sqlparser.c	/^INT auto_complete(CHAR* str, CHAR*** table)$/
+browse_table	main.c	/^void browse_table(CHAR* tabname)$/
+callback	gtktest.c	/^void callback(GtkWidget *widget, gpointer data)$/
+can_connect	main.c	/^INT can_connect(CHAR* templ)$/
+cancel_fs	gtkdialogs.c	/^void cancel_fs(GtkWidget* w, gpointer d)$/
+carrier	gtkdialogs.h	/^struct carrier$/
+changed_field	main.c	/^INT changed_field(GtkWidget* field, gpointer which/
+check_exec_proc	main.c	/^void check_exec_proc(GtkWidget* txt, gpointer dlg)/
+clear_result	query.c	/^void clear_result(PGresult** r)$/
+clear_txt_ctrl	main.c	/^void clear_txt_ctrl(GtkWidget* w)$/
+clear_wname	main.c	/^void clear_wname()$/
+close_results	main.c	/^void close_results( GtkWidget *w,gpointer data)$/
+cmenu_auto	main.c	/^void cmenu_auto(GtkWidget* w, gpointer data)$/
+cmenu_browse	main.c	/^void cmenu_browse(GtkWidget* w, gpointer data)$/
+cmenu_browse_all	entireDB.c	/^void cmenu_browse_all(GtkWidget* w, gpointer data)/
+cmenu_delete	main.c	/^void cmenu_delete(GtkWidget* w, gpointer data)$/
+cmenu_drop	main.c	/^void cmenu_drop(GtkWidget* w, gpointer data)$/
+cmenu_insert	main.c	/^void cmenu_insert(GtkWidget* w, gpointer data)$/
+cmenu_response	main.c	/^void cmenu_response(GtkWidget* w, gpointer data)$/
+connAlive	query.c	/^INT connAlive(PGconn* c)$/
+connect_db	query.c	/^PGconn* connect_db(CHAR* arg, CHAR* pass)$/
+connect_proc	main.c	/^INT connect_proc(GtkWidget* w, gpointer d)$/
+construct_components	main.c	/^void construct_components()$/
+construct_view_table	entireDB.c	/^GtkWidget* construct_view_table(CHAR* tabname)$/
+copy_database	main.c	/^void copy_database(GtkWidget* w, gpointer data)$/
+create_DB_from_file	main.c	/^void create_DB_from_file(GtkWidget* w, gpointer da/
+create_context_menus	main.c	/^void create_context_menus()$/
+create_database	main.c	/^void create_database(GtkWidget* w, gpointer data)$/
+create_global_auto_complete	main.c	/^void create_global_auto_complete(CHAR** table[8], /
+create_global_autocomplete_cmenu	main.c	/^GtkWidget* create_global_autocomplete_cmenu()$/
+create_pbar	entireDB.c	/^void create_pbar(CHAR* arg)$/
+create_query_from_fname	main.c	/^INT create_query_from_fname(CHAR* fname, GtkWidget/
+create_table	main.c	/^void create_table(GtkWidget* w, gpointer opt)$/
+ctable_wizard	wizards.c	/^CHAR* ctable_wizard()$/
+dadd_to_memlist	mmsystem.c	/^void dadd_to_memlist(void* ptr, CHAR* file, INT li/
+dadd_to_special_memlist	mmsystem.c	/^void dadd_to_special_memlist(struct dmem_list** he/
+dbenv	main.c	/^CHAR* dbenv()$/
+ddel_from_memlist	mmsystem.c	/^void ddel_from_memlist(void* ptr, CHAR* file, INT /
+ddel_from_special_memlist	mmsystem.c	/^void ddel_from_special_memlist(struct dmem_list** /
+debug	consoleout.c	/^INT debug(CHAR* fmt, ...)$/
+del_from_memlist	mmsystem.c	/^void del_from_memlist(void* ptr)$/
+del_from_special_memlist	mmsystem.c	/^void del_from_special_memlist(struct mem_list** he/
+delete_combos_proc	gtkdialogs.c	/^INT delete_combos_proc(GtkWidget* w, gpointer d)$/
+delete_combos_proc_wiz	wizards.c	/^INT delete_combos_proc_wiz(GtkWidget* w, gpointer /
+delete_current_row	main.c	/^void delete_current_row(GtkWidget* w, gpointer dat/
+delete_event	gtktest.c	/^gint delete_event( GtkWidget *widget, GdkEvent *ev/
+delete_event_proc	gtkdialogs.c	/^INT delete_event_proc()$/
+delete_proc	main.c	/^INT delete_proc(GtkWidget* w, gpointer d)$/
+delete_wizard	wizards.c	/^CHAR* delete_wizard(CHAR* tabname)$/
+destroy_all_components	main.c	/^void destroy_all_components()		\/* FIXME SOMEWHERE/
+destroy_fs	gtkdialogs.c	/^void destroy_fs(GtkWidget* w, gpointer d)$/
+destroy_global_auto_complete	main.c	/^void destroy_global_auto_complete()$/
+destroy_pbar	entireDB.c	/^void destroy_pbar()$/
+destroy_progress	pbar.c	/^void destroy_progress(GtkWidget  *widget, struct P/
+destroy_widget	gtkdialogs.c	/^void destroy_widget(GtkWidget* w)$/
+destruct_tab_view	main.c	/^void destruct_tab_view(GtkWidget* w, gpointer data/
+disconnect	main.c	/^void disconnect()$/
+disconnect_db	query.c	/^void disconnect_db(PGconn** c)$/
+discoteka	signals.c	/^void discoteka()$/
+dispatch_autocomplete	main.c	/^INT dispatch_autocomplete(GtkWidget* w, GdkEvent* /
+dispatch_cmenu	main.c	/^INT dispatch_cmenu(GtkWidget* w, GdkEvent* event)$/
+dmem_execute_printf	query.c	/^void dmem_execute_printf(struct dmem_list** mem, P/
+dmem_free_p3c	query.c	/^void dmem_free_p3c(struct dmem_list** mem, CHAR***/
+dmem_get_db_tables	query.c	/^INT dmem_get_db_tables(struct dmem_list** mem, PGc/
+dmem_list	mmsystem.h	/^struct dmem_list$/
+dmem_p3c_execute_printf	query.c	/^CHAR*** dmem_p3c_execute_printf(struct dmem_list**/
+dmem_pgres2pc3	query.c	/^CHAR*** dmem_pgres2pc3(struct dmem_list** mem, con/
+dmexecute_printf	query.c	/^void dmexecute_printf(PGconn* c, CHAR**** res, INT/
+dmfree	mmsystem.c	/^void dmfree(void** ptr, CHAR* file, INT line)$/
+dmfree_p3c	query.c	/^void dmfree_p3c(CHAR**** p, INT a, INT b, CHAR* fi/
+dmget_db_tables	query.c	/^INT dmget_db_tables(PGconn* c, CHAR*** dat, INT* n/
+dmmalloc	mmsystem.c	/^void* dmmalloc(INT siz, CHAR* file, INT line)$/
+dmp3c_execute_printf	query.c	/^CHAR*** dmp3c_execute_printf(PGconn* c,INT* row, I/
+dmpgres2pc3	query.c	/^CHAR*** dmpgres2pc3(const PGresult* r, INT* a, INT/
+dmrealloc	mmsystem.c	/^void* dmrealloc(void* orig, INT siz, CHAR* file, I/
+downcase	consoleout.c	/^void downcase(CHAR* ptr)$/
+dprint_memlist	mmsystem.c	/^void dprint_memlist(CHAR* file, INT line)$/
+dprint_special_memlist	mmsystem.c	/^void dprint_special_memlist(struct dmem_list* head/
+drop_control	entireDB.c	/^INT drop_control(GtkWidget* w, gpointer data)$/
+drop_database	main.c	/^void drop_database(GtkWidget* w, gpointer data)$/
+drop_table	main.c	/^void drop_table(CHAR* tabname, INT force)$/
+drop_tables	main.c	/^void drop_tables()$/
+drop_view	main.c	/^void drop_view(CHAR* tabname, INT force)$/
+drop_views	main.c	/^void drop_views()$/
+dsfree	mmsystem.c	/^void dsfree(struct dmem_list** headp, void** ptr, /
+dshred_memlist	mmsystem.c	/^void dshred_memlist(CHAR* file, INT line)$/
+dshred_special_memlist	mmsystem.c	/^void dshred_special_memlist(struct dmem_list** hea/
+dsmalloc	mmsystem.c	/^void* dsmalloc(struct dmem_list** headp, INT siz, /
+dummy_connect	main.c	/^INT dummy_connect(INT cn, CHAR* templ)$/
+entry_changed_proc	gtkdialogs.c	/^void entry_changed_proc(GtkWidget* w, gpointer d)$/
+entry_proc	gtkdialogs.c	/^void entry_proc(GtkWidget* w, gpointer d)$/
+env_dialog	main.c	/^void env_dialog(GtkWidget* www, gpointer d)$/
+error	consoleout.c	/^INT error(CHAR* fmt, ...)$/
+exec_test_prog	main.c	/^void exec_test_prog(GtkWidget* w, gpointer data)$/
+execute_fast	main.c	/^void execute_fast(GtkWidget* w, gpointer opt)$/
+execute_fast_one	main.c	/^void execute_fast_one(GtkWidget* w, gpointer opt)$/
+execute_fast_thr	main.c	/^void execute_fast_thr(GtkWidget* w, gpointer opt)$/
+execute_fast_two	main.c	/^void execute_fast_two(GtkWidget* w, gpointer opt)$/
+execute_printf	query.c	/^void execute_printf(PGconn* c, CHAR**** res, INT* /
+execute_printf_query	query.c	/^void execute_printf_query(PGconn* c,PGresult** r, /
+execute_proc	main.c	/^void execute_proc(GtkWidget* w, gpointer txt)$/
+execute_query	query.c	/^PGresult* execute_query(PGconn* c,  CHAR* query)$/
+execute_silent_query	query.c	/^PGresult* execute_silent_query(PGconn* c,  CHAR* q/
+fatal	consoleout.c	/^INT fatal(CHAR* fmt, ...)$/
+fatal_here	consoleout.c	/^INT fatal_here(CHAR* file, INT line, CHAR* fmt, ../
+fatal_nodb	main.c	/^void fatal_nodb(CHAR* dbname, CHAR* errstr, INT ki/
+fopen_printf	consoleout.c	/^FILE* fopen_printf(CHAR* mode, CHAR* fmt, ...)$/
+free_p3c	query.c	/^void free_p3c(CHAR**** p, INT a, INT b)$/
+free_pidata	wizards.c	/^void free_pidata()$/
+generate_delete_query	wizards.c	/^void generate_delete_query(GtkWidget* w, gpointer /
+generate_insert_query	wizards.c	/^void generate_insert_query(GtkWidget* w, gpointer /
+get_db_tables	query.c	/^INT get_db_tables(PGconn* c, CHAR*** dat, INT* nta/
+get_env	main.c	/^CHAR* get_env(CHAR* str)$/
+get_last_words	sqlparser.c	/^INT get_last_words(CHAR* target, CHAR* from, INT c/
+get_main_menu	main.c	/^void get_main_menu(GtkWidget *window, GtkWidget **/
+get_toolbar	toolbar.c	/^void get_toolbar(GtkWidget* w, GtkWidget **tb)$/
+global_free_mem	main.c	/^void global_free_mem(GtkWidget* w, gpointer data)$/
+gtk_connect_db	query.c	/^PGconn* gtk_connect_db(CHAR* arg, CHAR* pass, CHAR/
+gtk_dialog_getdbs	gtkdialogs.c	/^CHAR* gtk_dialog_getdbs(PGconn* connection, CHAR* /
+gtk_dialog_getfile	gtkdialogs.c	/^CHAR* gtk_dialog_getfile(const CHAR* mask, const C/
+gtk_dialog_getfile_printf	gtkdialogs.c	/^CHAR* gtk_dialog_getfile_printf(const CHAR* mask, /
+gtk_dialog_getnum	gtkdialogs.c	/^INT gtk_dialog_getnum(INT ua, INT ub, CHAR* msg)$/
+gtk_dialog_getnum_printf	gtkdialogs.c	/^INT gtk_dialog_getnum_printf(INT a, INT b, CHAR* f/
+gtk_dialog_getpass	gtkdialogs.c	/^CHAR* gtk_dialog_getpass(const CHAR* question)$/
+gtk_dialog_gettext	gtkdialogs.c	/^CHAR* gtk_dialog_gettext(const CHAR* question)$/
+gtk_dialog_gettext_big	gtkdialogs.c	/^CHAR* gtk_dialog_gettext_big(const CHAR* question)/
+gtk_dialog_gettext_big_printf	gtkdialogs.c	/^CHAR* gtk_dialog_gettext_big_printf(const CHAR* fm/
+gtk_dialog_gettext_printf	gtkdialogs.c	/^CHAR* gtk_dialog_gettext_printf(const CHAR* fmt, ./
+gtk_dialog_mbox	gtkdialogs.c	/^void gtk_dialog_mbox(const CHAR* title, const CHAR/
+gtk_dialog_printf	gtkdialogs.c	/^void gtk_dialog_printf(const CHAR* fmt, ...)$/
+gtk_dialog_printf_big	gtkdialogs.c	/^void gtk_dialog_printf_big(const CHAR* fmt, ...)$/
+gtk_dialog_printf_big_with_title	gtkdialogs.c	/^void gtk_dialog_printf_big_with_title(const CHAR* /
+gtk_dialog_printf_with_title	gtkdialogs.c	/^void gtk_dialog_printf_with_title(const CHAR* titl/
+gtk_dialog_with_2_buttons	gtkdialogs.c	/^INT gtk_dialog_with_2_buttons(const CHAR* question/
+gtk_dialog_yes_no	gtkdialogs.c	/^INT gtk_dialog_yes_no(const CHAR* question)$/
+gtk_dialog_yes_no_printf	gtkdialogs.c	/^INT gtk_dialog_yes_no_printf(const CHAR* fmt, ...)/
+gtk_scale_get_value	wizards.c	/^INT gtk_scale_get_value(GtkWidget* w, gpointer ptr/
+gtk_scale_set_value	wizards.c	/^void gtk_scale_set_value(GtkWidget* scale, gfloat /
+gtk_table_out	main.c	/^void gtk_table_out(CHAR* title, CHAR*** str_data, /
+init_wdata	wizards.c	/^void init_wdata()$/
+insert_wizard	wizards.c	/^CHAR* insert_wizard(CHAR* tabname)$/
+ln	consoleout.h	/^#define ln() putchar('\\n')$/
+load_database	main.c	/^void load_database(GtkWidget* w, gpointer data)$/
+load_proc	main.c	/^void load_proc(GtkWidget* w, gpointer txt)$/
+main_components	pgxexplorer.h	/^struct main_components$/
+mask_match	gtkdialogs.c	/^INT mask_match()$/
+mem_execute_printf	query.c	/^void mem_execute_printf(struct mem_list** mem, PGc/
+mem_free_p3c	query.c	/^void mem_free_p3c(struct mem_list** mem, CHAR**** /
+mem_get_db_tables	query.c	/^INT mem_get_db_tables(struct mem_list** mem, PGcon/
+mem_list	mmsystem.h	/^struct mem_list$/
+mem_p3c_execute_printf	query.c	/^CHAR*** mem_p3c_execute_printf(struct mem_list** m/
+mem_pgres2pc3	query.c	/^CHAR*** mem_pgres2pc3(struct mem_list** mem, const/
+menu_quit	main.c	/^INT menu_quit(GtkWidget *w, gpointer data)$/
+mexecute_printf	query.c	/^void mexecute_printf(PGconn* c, CHAR**** res, INT*/
+mfree	mmsystem.c	/^void mfree(void** ptr)$/
+mfree_p3c	query.c	/^void mfree_p3c(CHAR**** p, INT a, INT b)$/
+mget_db_tables	query.c	/^INT mget_db_tables(PGconn* c, CHAR*** dat, INT* nt/
+mkptr	main.c	/^gpointer mkptr(CHAR* str)$/
+mmalloc	mmsystem.c	/^void* mmalloc(INT siz)$/
+mp3c_execute_printf	query.c	/^CHAR*** mp3c_execute_printf(PGconn* c,INT* row, IN/
+mpgres2pc3	query.c	/^CHAR*** mpgres2pc3(const PGresult* r, INT* a, INT*/
+mrealloc	mmsystem.c	/^void* mrealloc(void* orig, INT siz)$/
+next_ctable_func	wizards.c	/^void next_ctable_func(GtkWidget* w, gpointer data)/
+no_proc	gtkdialogs.c	/^void no_proc(GtkWidget* w, gpointer d)$/
+numeric	main.c	/^INT numeric(CHAR* val)$/
+ok_combo_proc	gtkdialogs.c	/^void ok_combo_proc(GtkWidget* w, gpointer cmb)$/
+ok_combo_proc_wiz	wizards.c	/^void ok_combo_proc_wiz(GtkWidget* w, gpointer cmb)/
+ok_fs	gtkdialogs.c	/^void ok_fs(GtkWidget* w, gpointer d)$/
+ok_proc	gtkdialogs.c	/^void ok_proc(GtkWidget* w, gpointer d)$/
+p3c_execute_printf	query.c	/^CHAR*** p3c_execute_printf(PGconn* c,INT* row, INT/
+parse_cmdline	main.c	/^INT parse_cmdline(INT lb, CHAR** par, GtkWidget* w/
+parser_create	genpardta.c	/^void parser_create(char* i, char* o)$/
+parser_data	sqlparser.h	/^struct parser_data$/
+pgres2pc3	query.c	/^CHAR*** pgres2pc3(const PGresult* r, INT* a, INT* /
+post_start	main.c	/^void post_start(GtkWidget* w, gpointer data)$/
+prev_ctable_func	wizards.c	/^void prev_ctable_func(GtkWidget* w, gpointer data)/
+print_memlist	mmsystem.c	/^void print_memlist()$/
+print_results	consoleout.c	/^void print_results(CHAR*** res, INT a, INT b)$/
+print_special_memlist	mmsystem.c	/^void print_special_memlist(struct mem_list* head)$/
+priv_sig_proc	signals.c	/^void priv_sig_proc()$/
+process_parser	main.c	/^void process_parser(GtkWidget* w)$/
+progress_timeout	pbar.c	/^int progress_timeout(gpointer data)$/
+push_results	genpardta.c	/^void push_results(FILE* f, char** tab, int len, in/
+qexec_quit	main.c	/^void qexec_quit(GtkWidget *w,gpointer data)$/
+query_executor	main.c	/^void query_executor(GtkWidget* w, gpointer data)$/
+refresh_all	main.c	/^void refresh_all()$/
+refresh_tab_view	main.c	/^void refresh_tab_view(GtkWidget* w, gpointer data)/
+reload_bases	main.c	/^void reload_bases(CHAR* db, INT ask)$/
+remove_dups	genpardta.c	/^void remove_dups(char** tab, int len, char*** tabn/
+result_cache	main.h	/^struct result_cache$/
+return_value	gtkdialogs.c	/^void return_value(GtkWidget* w, gpointer ptr)$/
+rotate_book	entireDB.c	/^void rotate_book(GtkButton *button,GtkNotebook *no/
+run	genpardta.c	/^void run(FILE* in, FILE* out)$/
+save_database	main.c	/^void save_database(GtkWidget* w, gpointer data)$/
+save_entire_book	entireDB.c	/^void save_entire_book(GtkButton *button, GtkNotebo/
+save_proc	main.c	/^void save_proc(GtkWidget* w, gpointer txt)	\/* if /
+save_results	main.c	/^void save_results(GtkWidget* w, gpointer resd)		\//
+save_results_mainwnd	main.c	/^void save_results_mainwnd(GtkWidget* w, gpointer d/
+save_table	entireDB.c	/^INT save_table(FILE* f, CHAR** tables, INT page, I/
+save_table_book	entireDB.c	/^void save_table_book(GtkButton *button, GtkNoteboo/
+scale_changed_func	wizards.c	/^void scale_changed_func(GtkWidget* scale, gfloat d/
+sdebug	consoleout.c	/^INT sdebug(CHAR* fmt, ...)$/
+select_child_main_tree	main.c	/^void select_child_main_tree(GtkWidget* w, gpointer/
+select_child_tree	main.c	/^void select_child_tree(GtkWidget* w, gpointer data/
+select_final	main.c	/^void select_final(GtkWidget* w, gpointer data)		\//
+select_table_wizard	wizards.c	/^CHAR* select_table_wizard(INT all_opt)$/
+select_tree	main.c	/^void select_tree(GtkWidget* w, gpointer data)		\/*/
+select_view_wizard	wizards.c	/^CHAR* select_view_wizard()$/
+selected_field	main.c	/^void selected_field(GtkWidget* w, GdkEventAny* ev,/
+set_wname_tab	main.c	/^void set_wname_tab(CHAR* arg)$/
+setup_combo	gtkdialogs.c	/^INT setup_combo(PGconn* c, GtkWidget* w, GtkWidget/
+setup_combo_tables	wizards.c	/^INT setup_combo_tables(PGconn* c, GtkWidget* w, Gt/
+setup_combo_views	wizards.c	/^INT setup_combo_views(PGconn* c, GtkWidget* w, Gtk/
+setup_components	main.c	/^void setup_components()$/
+setup_signals	signals.c	/^void setup_signals()$/
+setup_txtscene	wizards.c	/^void setup_txtscene(GtkWidget* table)$/
+sfree	mmsystem.c	/^void sfree(struct mem_list** headp, void** ptr)$/
+shred_memlist	mmsystem.c	/^void shred_memlist()$/
+shred_special_memlist	mmsystem.c	/^void shred_special_memlist(struct mem_list** head)/
+sig_abort	signals.c	/^void sig_abort()$/
+sig_int	signals.c	/^void sig_int()$/
+smalloc	mmsystem.c	/^void* smalloc(struct mem_list** headp, INT siz)$/
+strhasdot	gtkdialogs.c	/^INT strhasdot(CHAR* str)$/
+subtree_DB_tables	main.c	/^void subtree_DB_tables()$/
+subtree_DB_triggers	main.c	/^void subtree_DB_triggers()$/
+subtree_DB_views	main.c	/^void subtree_DB_views()$/
+system_printf	consoleout.c	/^INT system_printf(CHAR* fmt, ...)$/
+tabsborder_book	entireDB.c	/^void tabsborder_book(GtkButton *button, GtkNoteboo/
+tdelete	main.c	/^void tdelete(GtkWidget* w, gpointer opt)$/
+tdrop_table	main.c	/^void tdrop_table(GtkWidget* w, gpointer opt)$/
+tdrop_view	main.c	/^void tdrop_view(GtkWidget* w, gpointer opt)$/
+test_gtk	gtktest.c	/^void test_gtk(PGconn* con, char* pass)$/
+tinsert	main.c	/^void tinsert(GtkWidget* w, gpointer opt)$/
+todo	main.c	/^void todo()$/
+update_database	main.c	/^void update_database(GtkWidget* w, gpointer data)$/
+update_entry	main.c	/^void update_entry(GtkWidget* w, gpointer d)$/
+update_env	main.c	/^void update_env()$/
+update_pidata	wizards.c	/^void update_pidata(GtkWidget* w, gpointer data)$/
+update_pidata_combo	wizards.c	/^void update_pidata_combo(GtkWidget* w, gpointer da/
+warn	consoleout.c	/^INT warn(CHAR* fmt, ...)$/
+wizards	main.c	/^void wizards(GtkWidget* w, gpointer data)$/
+write_html_end	entireDB.c	/^void write_html_end(FILE* f)$/
+write_html_header	entireDB.c	/^void write_html_header(FILE* f)$/
+yes_proc	gtkdialogs.c	/^void yes_proc(GtkWidget* w, gpointer d)$/

@@ -1,0 +1,4 @@
+CREATE VIEW vavg_mark AS
+SELECT avg(ocena.ocena) AS average 
+FROM ocena 
+WHERE (ocena.czyliczona = true)

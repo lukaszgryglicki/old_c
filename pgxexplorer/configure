@@ -1,0 +1,271 @@
+#!/bin/sh
+# Written by Morgoth DBMA, morgothdbma@o2.pl
+# This is part of PgXexplorer software, Open Source
+# on BSD licence, Libraries(interaces) used:
+# GNU GCC, AS (all stuff needed to compile C source into executable binary)
+# LibPQ-FE from PostgreSQL, GTK (GIMP Toolkit)
+# written in VIM editor, ctags used, CVS used
+# Currently only one author: MOrgoth DBMA
+# FILE: configure
+#./getsect /dev/ad0s2a 3247488 22 > conf
+echo "PgXexplorer configure, by MorgothDBMA >> morgothdbma@o2.pl"
+echo 'Checking for existing installation...'
+echo -n "Getting OS name... "
+OSNAME=$(uname)
+echo "$OSNAME"
+echo -n "Checking for GCC... "
+if [ -f "/usr/bin/gcc" ] || [ -f "/usr/local/bin/gcc" ] || [ -f "/bin/gcc" ]
+then
+	echo "gcc found"
+	GCC="gcc"
+else
+	echo "no - configure failed."
+	exit 1
+fi
+if [ "$1" = "--help" ] || [ "$1" = "-help" ]
+then
+	echo "Configure for pgxexplorer, no options are available"
+	exit 0
+fi
+echo 'Now directory where postges: bin/, lib/ are:'
+echo -n 'PostgreSQL directory [/usr/local/pgsql]: '
+read PGDIR
+if [ "$PGDIR" = "" ]
+then
+	PGDIR="/usr/local/pgsql"
+fi
+echo -n "Checking for PostgreSQL in $PGDIR/bin..."
+if [ -f "$PGDIR/bin/postmaster" ]
+then
+	echo -n " postmaster ok"
+	if [ -f "$PGDIR/lib/libpq.so" ]
+	then
+	    echo ", libpq ok"
+	else
+	    echo ", libpq.os not found, assuming linker will find it"
+	fi
+	PGLIBS="$PGDIR/lib"
+	PGINCL="$PGDIR/include"
+	echo "Postges libraries in $PGLIBS"
+	echo "Postgres includes in $PGINCL"
+	if [ "$PGDATA" = "" ]
+	then
+		echo "--- warning: no PGDATA is set, but this will not make things fail"
+		echo "--- you shold set your PGDATA variable to $PGDIR/data or somewhere else"
+	else
+		echo "Postgres data in $PGDATA"
+	fi
+	echo -n "Checking for GTK..."
+	GTKLIBS=$(gtk-config --libs)
+	GTKINCL=$(gtk-config --cflags)
+	if [ "$GTKLIBS" = "" ]
+	then
+		echo 'GtkConfig not found...'
+		exit 1
+	fi
+	echo "gtk-config"
+	#echo "GTK LINK flags: $GTKLIBS"
+	#echo "GTK CFLAGS: $GTKINCL"
+	echo "Requirements met, generating GNU Makefile"
+	if [ -f "./Makefile" ]
+	then
+	    echo -n "Makefile exists, overwrite? (Y/N) "
+	    read ovw
+	    if [ "$ovw" = "n" ] || [ "$ovw" = "N" ]
+	    then
+		echo "Not overwritten."
+		exit 1
+	    else
+		make clean
+		rm -f ./Makefile
+	    fi
+	fi
+	echo "Debug levels: "
+	echo "0) NO trace memory, just mallocs, no trace free, no_global_free"
+	echo "1) Some memory tracings, no out info, slower than 0 (do it default release)"
+	echo "2) Paranoid memory debug, but only memory is debugged"
+	echo "3) Paranoid function debug, memory is alocated as in 1 and silent"
+	echo "4) Paranoia, debug all events, memory A LOT OF INF ON SCREEN, VERY SLOW"
+	echo "5) 4 +ElectricFence debugging, You need to have libefence and LOTS of RAM"
+	echo -n "Debug level (5,4,3,2,1,0): "
+	read RELTYPE
+	echo '# Written by Morgoth DBMA, morgothdbma@o2.pl' > Makefile
+	echo '# This is part of PgXexplorer software, Open Source' >> Makefile
+	echo '# on BSD licence, Libraries(interaces) used:' >> Makefile
+	echo '# GNU GCC, AS (all stuff needed to compile C source into executable binary)' >> Makefile
+	echo '# LibPQ-FE from PostgreSQL, GTK (GIMP Toolkit)' >> Makefile
+	echo '# written in VIM editor, ctags used, CVS used' >> Makefile
+	echo '# Currently only one author: MOrgoth DBMA' >> Makefile
+	echo '# FILE: Makefile (automatically generated)' >> Makefile
+	echo "all: pgxtest pgxexplorer pbar" >>  Makefile
+if [ "$RELTYPE" = "5" ]
+then
+	echo "CFLAGS = -DCORE_DUMP -DSMALLOC -DDEBUG -Wall -std=c99 -pedantic -g3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -DCORE_DUMP -DSMALLOC -DDEBUG -Wall -std=c99 -pedantic -g3" >> Makefile 
+	echo "CLINK  = $GTKLIBS -L$PGLIBS -lpq -g3 -lefence" >> Makefile
+elif [ "$RELTYPE" = "4" ]
+then
+	echo "CFLAGS = -DCORE_DUMP -DSMALLOC -DDEBUG -Wall -std=c99 -pedantic -g3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -DCORE_DUMP -DSMALLOC -DDEBUG -Wall -std=c99 -pedantic -g3" >> Makefile 
+	echo "CLINK  = $GTKLIBS -L$PGLIBS -lpq -g3" >> Makefile
+elif [ "$RELTYPE" = "3" ]
+then
+	echo "CFLAGS = -DCORE_DUMP -DDEBUG -Wall -std=c99 -pedantic -g3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -DCORE_DUMP -DDEBUG -Wall -std=c99 -pedantic -g3" >> Makefile 
+	echo "CLINK  = $GTKLIBS -L$PGLIBS -lpq -g3" >> Makefile
+elif [ "$RELTYPE" = "2" ]
+then
+	echo "CFLAGS = -DCORE_DUMP -DSMALLOC -Wall -std=c99 -pedantic -g3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -DCORE_DUMP -DSMALLOC -Wall -std=c99 -pedantic -g3" >> Makefile 
+	echo "CLINK  = $GTKLIBS -L$PGLIBS -lpq -g3" >> Makefile
+elif [ "$RELTYPE" = "1" ]
+then
+	echo "CFLAGS = -Wall -std=c99 -pedantic -O3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -Wall -std=c99 -pedantic -O3" >> Makefile 
+	echo "CLINK  = -O3 $GTKLIBS -L$PGLIBS -lpq " >> Makefile
+elif [ "$RELTYPE" = "0" ]
+then
+	echo "CFLAGS = -DNO_TRACE_MEM -Wall -std=c99 -pedantic -O3 $GTKINCL -I$PGINCL" >> Makefile 
+	echo "CFLESS = -DNO_TRACE_MEM -Wall -std=c99 -pedantic -O3" >> Makefile 
+	echo "CLINK  = -O3 $GTKLIBS -L$PGLIBS -lpq " >> Makefile
+else
+	echo "Error, press 0..5 here."
+	exit 1
+fi
+	echo "GCC = gcc" >> Makefile
+	echo "main.o: main.c main.h gtkincl.h consoleout.h gtkdialogs.h pgxexplorer.h signals.h common.h entireDB.c mmsystem.h sqlparser.c sqlparser.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c main.c -o main.o" >> Makefile
+	echo "pgxexplorer: main.o consoleout.o gtkdialogs.o query.o signals.o toolbar.o entireDB.o mmsystem.o sqlparser.o wizards.o pbar" >> Makefile
+	echo "	\$(GCC) main.o consoleout.o gtkdialogs.o query.o signals.o toolbar.o entireDB.o mmsystem.o sqlparser.o wizards.o -o pgxexplorer \$(CLINK)" >> Makefile
+if [ "$RELTYPE" = "0" ]
+then
+	echo "	-strip -s pgxexplorer" >> Makefile 
+fi
+	echo "pgxtest: pgxtest.o consoleout.o query.o gtktest.o signals.o gtkdialogs.o mmsystem.o" >> Makefile
+	echo "	\$(GCC) -o pgxtest pgxtest.o consoleout.o query.o gtktest.o signals.o gtkdialogs.o mmsystem.o \$(CLINK)" >> Makefile
+	echo "pbar: pbar.c pbar.h common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -o pbar pbar.c \$(CLINK)" >> Makefile
+	echo "pgxtest.o: pgxtest.c consoleout.h query.h ilibpq.h common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c pgxtest.c" >> Makefile
+	echo "consoleout.o: consoleout.c consoleout.h common.h mmsystem.h" >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c consoleout.c" >> Makefile
+	echo "query.o: query.c consoleout.h query.h ilibpq.h signals.h signals.c common.h mmsystem.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c query.c" >> Makefile
+	echo "toolbar.o: toolbar.h toolbar.c main.h common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c toolbar.c" >> Makefile
+	echo "wizards.o: wizards.c wizards.h main.h common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c wizards.c" >> Makefile
+	echo "entireDB.o: entireDB.c entireDB.h main.h common.h ilibpq.h query.h gtkdialogs.h pgxexplorer.h mmsystem.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c entireDB.c" >> Makefile
+	echo "signals.o: signals.h signals.c gtkdialogs.h gtkdialogs.c common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c signals.c" >> Makefile
+	echo "gtktest.o: gtktest.c ilibpq.h query.h gtktest.h gtkincl.h common.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c gtktest.c" >> Makefile
+	echo "gtkdialogs.o: gtkdialogs.c gtkdialogs.h gtkincl.h ilibpq.h query.h consoleout.h common.h mmsystem.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c gtkdialogs.c" >> Makefile
+	echo "mmsystem.o: mmsystem.c mmsystem.h common.h gtkdialogs.h consoleout.h " >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c mmsystem.c" >> Makefile
+	echo "sqlparser.o: mmsystem.c mmsystem.h common.h consoleout.h consoleout.c" >> Makefile
+	echo "	\$(GCC) \$(CFLAGS) -c sqlparser.c" >> Makefile
+	echo "clean:" >> Makefile
+	echo "	-rm -f *.o pgxexplorer pgxtest pbar" >> Makefile
+	echo "install: pgxexplorer pbar" >> Makefile
+	echo "	cp ./pgxexplorer $PGDIR/bin/" >> Makefile
+	echo "	cp ./pgxtest $PGDIR/bin/" >> Makefile
+	echo "	cp ./pbar $PGDIR/bin/" >> Makefile
+	echo "package:" >> Makefile
+	echo "	mkdir PgXexplorer-0.32" >> Makefile
+	echo "	mkdir PgXexplorer-0.32/extra" >> Makefile
+	echo "	cp *.C *.c *.h *.s mkfile_parser PARSER.DAT tags configure INSTALL README IOTODO.sxw *.SQL *.QUE PgXexplorer-0.32/" >> Makefile
+	echo "	cp extra/Makefile.* extra/README extra/*.c extra/*.h extra/configure extra/*.SQL PgXexplorer-0.32/extra" >> Makefile
+	echo "	tar jcvf PgXexplorer-0.32.tar.bz2 PgXexplorer-0.32/" >> Makefile
+	echo "	rm -rf PgXexplorer-0.32/" >> Makefile
+	arch=`( uname -p )`
+	echo '/* Written by Morgoth DBMA, morgothdbma@o2.pl' > common.h
+	echo '# This is part of PgXexplorer software, Open Source' >> common.h
+	echo '# on BSD licence, Libraries(interaces) used:' >> common.h
+	echo '# GNU GCC, AS (all stuff needed to compile C source into executable binary)' >> common.h
+	echo '# LibPQ-FE from PostgreSQL, GTK (GIMP Toolkit)' >> common.h
+	echo '# written in VIM editor, ctags used, CVS used' >> common.h
+	echo '# Currently only one author: MOrgoth DBMA' >> common.h
+	echo '# FILE: common.h (automatically generated) */' >> common.h
+	echo "#ifndef __HAVE__COMMON__H__" >> common.h
+	echo "#define __HAVE__COMMON__H__" >> common.h
+	echo "#define INT int32_t" >> common.h
+	echo "#define INT32 int32_t" >> common.h
+	echo "#define INT64 int64_t" >> common.h
+	echo "#define CHAR char" >> common.h
+	echo "#define FLOAT float" >> common.h
+	if [ "$arch" = "i386" ]
+	then
+		echo "#define _MACHINE_32" >> common.h
+	elif [ "$arch" = "amd64" ] || [ "$arch" = "alpha" ] || [ "$arch" = "x86_64" ]
+	then
+		echo "#define _MACHINE_64" >> common.h
+	else
+		echo "WARNING: Unknown CPU architekture!"
+	fi
+	echo "#ifndef __MORGOTHDBMA_ILIBPQH__" > ilibpq.h
+	echo "#define __MORGOTHDBMA_ILIBPQH__" >> ilibpq.h
+if  [ "$OSNAME" = "Linux" ]
+	then
+	echo "where are signals in Your Linux?"
+	echo "1) <asm-i386/signal.h>"
+	echo "2) <asm/signal.h>"
+	echo "3) <signal.h>"
+	echo -n "Hmm: "
+	read siginc
+	echo "where is libpq-fe.h in Your Linux (assuming pgsql detected in include path)?"
+	echo "1) <pgsql/libpq-fe.h>"
+	echo "2) <libpq-fe.h>"
+	echo -n "Hmm: "
+	read lpqinc
+if [ "$siginc" = "1" ]
+then
+	echo "#include <asm-i386/signal.h>" >> common.h
+elif [ "$siginc" = "2" ]
+then
+	echo "#include <asm/signal.h>" >> common.h
+else
+	echo "#include <signal.h>" >> common.h
+fi
+if [ "$lpqinc" = "1" ]
+then
+	echo "#include <pgsql/libpq-fe.h>" >> common.h
+	echo "#include <pgsql/libpq-fe.h>" >> ilibpq.h
+else
+	echo "#include <libpq-fe.h>" >> common.h
+	echo "#include <libpq-fe.h>" >> ilibpq.h
+fi
+	echo "#include <getopt.h>" >> common.h
+	echo "#include <stdlib.h>" >> common.h
+elif [ "$OSNAME" = "FreeBSD" ]
+then
+	echo "#include <sys/types.h>" >> common.h
+	echo "#include <sys/wait.h>" >> common.h
+	echo "#include <libpq-fe.h>" >> ilibpq.h
+else
+	echo "				NOTICE!!!"
+	echo "************ Your OS \"$OSNAME\" is *NOT* supported yet!"
+	echo "************ Will generate Makefile, but You need to create"
+	echo "************ files: common.h and ilibpq.h by Yourself"
+fi
+	echo "#endif" >> common.h
+	echo "#endif" >> ilibpq.h
+	echo "Make targets are: all, pgxexplorer, pgxtest, *.o, clean, package, install"
+	echo -n "Configure extra/ prog also? (Y/N) "
+	    read als
+	    if [ "$als" = "n" ] || [ "$als" = "N" ]
+	    then
+		    echo "Not configure, manually cd extra/ && ./configure"
+		    echo "When You will be ready"
+		exit 
+	    else
+		cd extra/ && ./configure $PGDIR
+	    fi
+	echo "Now run GNU make to compile pgxexplorer."
+	echo "To compile DBclass just 'cd ./extra/' and type 'make'"
+else
+	echo ".no - configure failed."
+	exit 1
+fi

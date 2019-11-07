@@ -1,0 +1,6425 @@
+Base Name: db\morgoth.BM
+Password: 0x0
+Ilosc Cech: 15
+Ilosc Ras: 50
+Ilosc Profesji: 100
+Ilosc Umiejetnosci: 1000
+Nazwa cechy 0: _
+Nazwa cechy 1: _
+Nazwa cechy 2: _
+Nazwa cechy 3: _
+Nazwa cechy 4: _
+Nazwa cechy 5: _
+Nazwa cechy 6: _
+Nazwa cechy 7: _
+Nazwa cechy 8: _
+Nazwa cechy 9: _
+Nazwa cechy 10: _
+Nazwa cechy 11: _
+Nazwa cechy 12: _
+Nazwa cechy 13: _
+Nazwa cechy 14: _
+Nazwa Rasy 0: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 1: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 2: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 3: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 4: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 5: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 6: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 7: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 8: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 9: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 10: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 11: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 12: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 13: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 14: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 15: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 16: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 17: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 18: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 19: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 20: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 21: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 22: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 23: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 24: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 25: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 26: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 27: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 28: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 29: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 30: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 31: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 32: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 33: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 34: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 35: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 36: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 37: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 38: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 39: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 40: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 41: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 42: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 43: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 44: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 45: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 46: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 47: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 48: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Rasy 49: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 0: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 1: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 2: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 3: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 4: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 5: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 6: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 7: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 8: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 9: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 10: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 11: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 12: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 13: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 14: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 15: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 16: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 17: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 18: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 19: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 20: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 21: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 22: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 23: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 24: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 25: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 26: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 27: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 28: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 29: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 30: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 31: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 32: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 33: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 34: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 35: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 36: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 37: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 38: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 39: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 40: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 41: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 42: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 43: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 44: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 45: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 46: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 47: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 48: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 49: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 50: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 51: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 52: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 53: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 54: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 55: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 56: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 57: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 58: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 59: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 60: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 61: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 62: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 63: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 64: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 65: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 66: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 67: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 68: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 69: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 70: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 71: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 72: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 73: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 74: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 75: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 76: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 77: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 78: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 79: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 80: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 81: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 82: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 83: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 84: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 85: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 86: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 87: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 88: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 89: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 90: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 91: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 92: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 93: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 94: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 95: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 96: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 97: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 98: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa profesji 99: _
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Mod cechy 13: 0
+Mod cechy 14: 0
+Nazwa Umiejetnosci 0: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 1: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 2: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 3: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 4: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 5: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 6: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 7: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 8: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 9: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 10: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 11: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 12: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 13: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 14: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 15: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 16: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 17: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 18: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 19: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 20: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 21: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 22: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 23: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 24: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 25: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 26: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 27: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 28: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 29: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 30: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 31: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 32: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 33: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 34: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 35: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 36: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 37: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 38: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 39: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 40: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 41: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 42: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 43: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 44: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 45: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 46: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 47: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 48: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 49: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 50: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 51: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 52: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 53: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 54: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 55: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 56: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 57: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 58: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 59: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 60: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 61: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 62: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 63: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 64: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 65: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 66: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 67: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 68: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 69: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 70: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 71: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 72: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 73: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 74: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 75: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 76: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 77: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 78: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 79: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 80: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 81: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 82: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 83: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 84: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 85: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 86: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 87: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 88: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 89: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 90: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 91: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 92: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 93: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 94: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 95: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 96: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 97: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 98: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 99: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 100: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 101: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 102: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 103: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 104: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 105: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 106: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 107: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 108: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 109: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 110: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 111: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 112: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 113: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 114: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 115: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 116: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 117: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 118: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 119: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 120: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 121: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 122: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 123: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 124: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 125: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 126: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 127: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 128: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 129: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 130: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 131: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 132: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 133: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 134: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 135: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 136: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 137: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 138: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 139: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 140: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 141: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 142: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 143: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 144: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 145: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 146: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 147: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 148: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 149: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 150: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 151: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 152: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 153: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 154: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 155: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 156: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 157: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 158: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 159: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 160: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 161: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 162: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 163: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 164: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 165: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 166: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 167: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 168: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 169: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 170: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 171: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 172: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 173: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 174: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 175: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 176: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 177: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 178: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 179: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 180: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 181: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 182: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 183: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 184: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 185: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 186: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 187: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 188: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 189: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 190: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 191: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 192: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 193: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 194: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 195: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 196: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 197: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 198: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 199: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 200: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 201: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 202: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 203: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 204: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 205: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 206: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 207: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 208: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 209: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 210: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 211: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 212: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 213: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 214: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 215: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 216: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 217: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 218: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 219: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 220: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 221: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 222: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 223: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 224: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 225: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 226: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 227: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 228: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 229: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 230: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 231: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 232: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 233: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 234: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 235: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 236: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 237: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 238: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 239: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 240: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 241: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 242: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 243: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 244: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 245: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 246: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 247: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 248: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 249: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 250: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 251: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 252: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 253: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 254: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 255: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 256: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 257: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 258: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 259: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 260: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 261: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 262: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 263: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 264: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 265: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 266: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 267: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 268: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 269: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 270: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 271: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 272: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 273: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 274: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 275: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 276: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 277: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 278: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 279: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 280: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 281: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 282: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 283: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 284: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 285: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 286: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 287: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 288: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 289: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 290: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 291: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 292: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 293: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 294: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 295: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 296: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 297: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 298: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 299: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 300: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 301: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 302: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 303: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 304: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 305: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 306: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 307: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 308: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 309: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 310: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 311: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 312: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 313: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 314: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 315: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 316: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 317: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 318: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 319: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 320: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 321: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 322: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 323: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 324: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 325: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 326: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 327: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 328: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 329: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 330: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 331: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 332: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 333: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 334: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 335: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 336: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 337: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 338: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 339: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 340: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 341: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 342: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 343: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 344: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 345: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 346: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 347: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 348: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 349: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 350: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 351: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 352: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 353: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 354: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 355: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 356: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 357: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 358: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 359: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 360: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 361: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 362: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 363: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 364: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 365: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 366: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 367: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 368: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 369: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 370: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 371: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 372: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 373: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 374: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 375: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 376: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 377: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 378: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 379: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 380: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 381: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 382: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 383: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 384: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 385: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 386: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 387: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 388: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 389: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 390: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 391: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 392: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 393: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 394: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 395: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 396: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 397: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 398: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 399: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 400: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 401: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 402: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 403: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 404: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 405: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 406: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 407: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 408: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 409: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 410: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 411: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 412: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 413: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 414: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 415: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 416: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 417: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 418: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 419: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 420: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 421: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 422: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 423: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 424: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 425: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 426: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 427: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 428: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 429: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 430: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 431: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 432: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 433: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 434: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 435: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 436: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 437: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 438: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 439: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 440: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 441: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 442: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 443: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 444: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 445: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 446: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 447: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 448: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 449: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 450: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 451: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 452: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 453: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 454: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 455: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 456: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 457: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 458: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 459: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 460: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 461: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 462: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 463: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 464: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 465: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 466: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 467: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 468: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 469: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 470: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 471: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 472: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 473: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 474: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 475: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 476: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 477: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 478: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 479: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 480: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 481: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 482: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 483: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 484: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 485: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 486: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 487: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 488: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 489: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 490: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 491: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 492: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 493: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 494: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 495: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 496: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 497: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 498: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 499: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 500: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 501: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 502: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 503: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 504: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 505: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 506: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 507: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 508: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 509: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 510: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 511: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 512: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 513: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 514: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 515: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 516: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 517: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 518: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 519: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 520: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 521: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 522: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 523: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 524: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 525: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 526: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 527: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 528: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 529: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 530: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 531: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 532: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 533: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 534: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 535: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 536: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 537: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 538: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 539: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 540: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 541: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 542: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 543: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 544: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 545: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 546: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 547: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 548: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 549: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 550: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 551: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 552: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 553: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 554: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 555: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 556: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 557: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 558: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 559: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 560: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 561: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 562: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 563: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 564: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 565: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 566: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 567: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 568: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 569: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 570: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 571: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 572: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 573: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 574: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 575: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 576: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 577: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 578: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 579: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 580: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 581: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 582: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 583: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 584: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 585: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 586: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 587: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 588: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 589: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 590: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 591: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 592: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 593: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 594: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 595: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 596: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 597: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 598: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 599: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 600: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 601: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 602: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 603: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 604: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 605: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 606: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 607: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 608: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 609: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 610: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 611: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 612: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 613: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 614: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 615: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 616: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 617: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 618: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 619: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 620: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 621: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 622: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 623: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 624: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 625: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 626: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 627: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 628: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 629: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 630: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 631: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 632: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 633: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 634: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 635: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 636: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 637: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 638: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 639: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 640: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 641: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 642: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 643: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 644: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 645: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 646: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 647: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 648: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 649: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 650: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 651: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 652: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 653: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 654: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 655: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 656: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 657: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 658: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 659: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 660: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 661: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 662: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 663: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 664: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 665: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 666: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 667: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 668: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 669: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 670: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 671: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 672: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 673: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 674: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 675: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 676: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 677: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 678: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 679: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 680: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 681: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 682: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 683: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 684: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 685: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 686: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 687: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 688: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 689: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 690: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 691: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 692: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 693: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 694: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 695: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 696: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 697: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 698: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 699: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 700: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 701: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 702: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 703: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 704: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 705: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 706: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 707: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 708: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 709: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 710: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 711: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 712: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 713: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 714: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 715: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 716: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 717: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 718: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 719: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 720: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 721: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 722: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 723: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 724: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 725: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 726: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 727: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 728: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 729: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 730: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 731: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 732: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 733: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 734: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 735: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 736: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 737: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 738: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 739: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 740: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 741: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 742: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 743: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 744: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 745: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 746: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 747: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 748: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 749: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 750: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 751: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 752: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 753: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 754: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 755: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 756: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 757: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 758: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 759: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 760: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 761: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 762: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 763: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 764: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 765: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 766: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 767: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 768: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 769: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 770: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 771: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 772: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 773: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 774: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 775: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 776: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 777: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 778: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 779: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 780: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 781: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 782: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 783: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 784: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 785: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 786: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 787: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 788: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 789: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 790: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 791: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 792: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 793: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 794: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 795: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 796: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 797: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 798: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 799: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 800: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 801: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 802: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 803: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 804: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 805: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 806: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 807: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 808: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 809: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 810: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 811: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 812: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 813: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 814: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 815: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 816: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 817: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 818: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 819: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 820: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 821: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 822: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 823: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 824: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 825: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 826: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 827: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 828: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 829: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 830: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 831: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 832: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 833: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 834: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 835: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 836: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 837: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 838: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 839: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 840: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 841: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 842: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 843: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 844: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 845: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 846: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 847: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 848: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 849: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 850: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 851: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 852: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 853: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 854: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 855: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 856: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 857: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 858: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 859: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 860: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 861: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 862: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 863: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 864: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 865: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 866: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 867: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 868: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 869: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 870: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 871: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 872: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 873: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 874: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 875: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 876: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 877: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 878: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 879: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 880: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 881: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 882: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 883: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 884: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 885: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 886: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 887: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 888: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 889: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 890: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 891: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 892: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 893: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 894: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 895: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 896: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 897: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 898: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 899: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 900: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 901: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 902: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 903: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 904: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 905: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 906: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 907: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 908: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 909: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 910: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 911: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 912: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 913: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 914: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 915: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 916: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 917: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 918: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 919: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 920: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 921: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 922: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 923: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 924: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 925: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 926: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 927: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 928: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 929: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 930: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 931: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 932: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 933: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 934: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 935: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 936: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 937: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 938: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 939: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 940: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 941: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 942: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 943: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 944: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 945: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 946: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 947: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 948: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 949: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 950: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 951: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 952: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 953: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 954: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 955: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 956: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 957: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 958: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 959: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 960: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 961: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 962: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 963: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 964: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 965: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 966: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 967: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 968: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 969: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 970: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 971: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 972: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 973: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 974: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 975: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 976: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 977: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 978: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 979: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 980: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 981: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 982: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 983: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 984: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 985: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 986: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 987: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 988: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 989: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 990: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 991: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 992: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 993: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 994: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 995: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 996: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 997: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 998: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 999: _
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Start Value: 10
+Plus: 1
+Small Random: 1
+Large Random: 2

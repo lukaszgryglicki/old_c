@@ -1,0 +1,5 @@
+CREATE VIEW list(Stud_name, Stud_surname, Class)
+AS SELECT uczen.imie, uczen.nazwisko, klasa.nazwa 
+FROM uczen,klasa
+WHERE (klasa.idklasy = uczen.idklasy)
+ORDER BY uczen.nazwisko

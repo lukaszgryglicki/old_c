@@ -1,0 +1,5 @@
+#define DEBUG 0
+double function(double x, double i)
+{
+ return atan(x)*tan(i*x);
+}

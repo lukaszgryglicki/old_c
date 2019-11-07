@@ -1,0 +1,6 @@
+#!/bin/sh
+echo 'A shell script 4U'
+cd /data/cprogs/SQL-Klasa
+./sqlklasa
+echo 'OK'
+

@@ -1,0 +1,106 @@
+HTML File: char\Bard.html
+SAVE File: char\Bard.chr
+PD: 0
+Ilosc Cech: 13
+Suma: 15
+Nazwa 0: SILA
+Wartosc: 11
+Plusow: 0
+Nazwa 1: KONDYCJA
+Wartosc: 9
+Plusow: 0
+Nazwa 2: WYTRZYMALOSC
+Wartosc: 9
+Plusow: 0
+Nazwa 3: SPRAWNOSC
+Wartosc: 11
+Plusow: 0
+Nazwa 4: ZRECZNOSC
+Wartosc: 14
+Plusow: 0
+Nazwa 5: SZYBKOSC
+Wartosc: 10
+Plusow: 0
+Nazwa 6: PERCEPCJA
+Wartosc: 16
+Plusow: 0
+Nazwa 7: MADROSC
+Wartosc: 12
+Plusow: 0
+Nazwa 8: CHARYZMA
+Wartosc: 10
+Plusow: 0
+Nazwa 9: PREZENCJA
+Wartosc: 14
+Plusow: 0
+Nazwa 10: OPANOWANIE
+Wartosc: 10
+Plusow: 0
+Nazwa 11: ZMYSL_MAG
+Wartosc: 10
+Plusow: 0
+Nazwa 12: MOC_MAG
+Wartosc: 9
+Plusow: 0
+Ilosc Umiejetnosci: 14
+Nazwa 0: bronie_strzeleckie
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 1: prow._rozmowy
+Poziom: 1
+Test: 11
+Plusow: 0
+Nazwa 2: urok_osobisty
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 3: medycyna
+Poziom: 1
+Test: 9
+Plusow: 0
+Nazwa 4: poezja
+Poziom: 2
+Test: 12
+Plusow: 0
+Nazwa 5: taniec
+Poziom: 1
+Test: 8
+Plusow: 0
+Nazwa 6: wyksztalcenie
+Poziom: 1
+Test: 9
+Plusow: 0
+Nazwa 7: etykieta
+Poziom: 1
+Test: 9
+Plusow: 0
+Nazwa 8: gra_na_instr.
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 9: aktorstwo
+Poziom: 2
+Test: 14
+Plusow: 0
+Nazwa 10: gry_towarzyskie
+Poziom: 1
+Test: 10
+Plusow: 0
+Nazwa 11: spiew
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 12: uniki
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 13: opowiadanie
+Poziom: 2
+Test: 11
+Plusow: 0
+Imie: Serville
+Nazwisko: Geroth
+Plec: mezczyzna
+Rasa: czlowiek
+Profesja: artysta

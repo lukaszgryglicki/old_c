@@ -1,0 +1,120 @@
+HTML File: char\postac.html
+SAVE File: char\postac.chr
+PD: 68
+Ilosc Cech: 13
+Suma: 37
+Nazwa 0: SILA
+Wartosc: 14
+Plusow: 0
+Nazwa 1: KONDYCJA
+Wartosc: 12
+Plusow: 0
+Nazwa 2: WYTRZYMALOSC
+Wartosc: 12
+Plusow: 0
+Nazwa 3: SPRAWNOSC
+Wartosc: 22
+Plusow: 7
+Nazwa 4: ZRECZNOSC
+Wartosc: 11
+Plusow: 0
+Nazwa 5: SZYBKOSC
+Wartosc: 16
+Plusow: 5
+Nazwa 6: PERCEPCJA
+Wartosc: 12
+Plusow: 0
+Nazwa 7: MADROSC
+Wartosc: 8
+Plusow: 0
+Nazwa 8: CHARYZMA
+Wartosc: 10
+Plusow: 0
+Nazwa 9: PREZENCJA
+Wartosc: 12
+Plusow: 0
+Nazwa 10: OPANOWANIE
+Wartosc: 15
+Plusow: 0
+Nazwa 11: ZMYSL_MAG
+Wartosc: 13
+Plusow: 0
+Nazwa 12: MOC_MAG
+Wartosc: 10
+Plusow: 0
+Ilosc Umiejetnosci: 17
+Nazwa 0: opowiadanie
+Poziom: 1
+Test: 8
+Plusow: 0
+Nazwa 1: celny_cios
+Poziom: 3
+Test: 14
+Plusow: 0
+Nazwa 2: druga_bron
+Poziom: 6
+Test: 23
+Plusow: 0
+Nazwa 3: okrzyk_bojowy
+Poziom: 2
+Test: 11
+Plusow: 0
+Nazwa 4: ostatnie_sily
+Poziom: 2
+Test: 12
+Plusow: 0
+Nazwa 5: precyzyjny_cios
+Poziom: 2
+Test: 11
+Plusow: 0
+Nazwa 6: riposta
+Poziom: 6
+Test: 26
+Plusow: 5
+Nazwa 7: silny_cios
+Poziom: 2
+Test: 13
+Plusow: 0
+Nazwa 8: szermierka
+Poziom: 5
+Test: 20
+Plusow: 0
+Nazwa 9: szybki_cios
+Poziom: 5
+Test: 23
+Plusow: 0
+Nazwa 10: uniki
+Poziom: 6
+Test: 35
+Plusow: 0
+Nazwa 11: walka_szabla
+Poziom: 7
+Test: 32
+Plusow: 9
+Nazwa 12: wyczucie_ciosu
+Poziom: 2
+Test: 12
+Plusow: 0
+Nazwa 13: kondycja
+Poziom: 1
+Test: 9
+Plusow: 0
+Nazwa 14: szosty_zmysl
+Poziom: 2
+Test: 12
+Plusow: 0
+Nazwa 15: lowiectwo
+Poziom: 3
+Test: 13
+Plusow: 0
+Nazwa 16: maskowanie
+Poziom: 2
+Test: 12
+Plusow: 0
+Imie: Drizzt
+Nazwisko: Do'Urden
+Plec: mezczyzna
+Rasa: drow
+Profesja: fechtmistrz
+Average: 128
+Start Value: 10

@@ -1,0 +1,1609 @@
+Base Name: db\triada.BM
+Password: 0x7b
+Ilosc Cech: 13
+Ilosc Ras: 13
+Ilosc Profesji: 40
+Ilosc Umiejetnosci: 211
+Nazwa cechy 0: SILA
+Nazwa cechy 1: KONDYCJA
+Nazwa cechy 2: WYTRZYMALOSC
+Nazwa cechy 3: SPRAWNOSC
+Nazwa cechy 4: ZRECZNOSC
+Nazwa cechy 5: SZYBKOSC
+Nazwa cechy 6: PERCEPCJA
+Nazwa cechy 7: MADROSC
+Nazwa cechy 8: CHARYZMA
+Nazwa cechy 9: PREZENCJA
+Nazwa cechy 10: OPANOWANIE
+Nazwa cechy 11: ZMYSL_MAG
+Nazwa cechy 12: MOC_MAG
+Nazwa Rasy 0: czlowiek
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 2
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 0
+Nazwa Rasy 1: elf
+Mod cechy 0: -1
+Mod cechy 1: -2
+Mod cechy 2: -2
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 1
+Mod cechy 8: 1
+Mod cechy 9: 2
+Mod cechy 10: 1
+Mod cechy 11: 2
+Mod cechy 12: 2
+Nazwa Rasy 2: zloty_elf
+Mod cechy 0: -2
+Mod cechy 1: -2
+Mod cechy 2: -2
+Mod cechy 3: -1
+Mod cechy 4: 1
+Mod cechy 5: -1
+Mod cechy 6: 0
+Mod cechy 7: 1
+Mod cechy 8: 2
+Mod cechy 9: 4
+Mod cechy 10: 1
+Mod cechy 11: 1
+Mod cechy 12: 1
+Nazwa Rasy 3: ird
+Mod cechy 0: 0
+Mod cechy 1: -1
+Mod cechy 2: -1
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: 1
+Mod cechy 9: 2
+Mod cechy 10: 1
+Mod cechy 11: 3
+Mod cechy 12: 4
+Nazwa Rasy 4: drow
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 6
+Mod cechy 4: 1
+Mod cechy 5: 4
+Mod cechy 6: 3
+Mod cechy 7: -3
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 4
+Mod cechy 11: 5
+Mod cechy 12: 3
+Nazwa Rasy 5: krasnolud
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 2
+Mod cechy 3: 0
+Mod cechy 4: 1
+Mod cechy 5: -2
+Mod cechy 6: 0
+Mod cechy 7: 1
+Mod cechy 8: -1
+Mod cechy 9: -2
+Mod cechy 10: 1
+Mod cechy 11: -1
+Mod cechy 12: -2
+Nazwa Rasy 6: gnom
+Mod cechy 0: -1
+Mod cechy 1: 0
+Mod cechy 2: -1
+Mod cechy 3: 2
+Mod cechy 4: 3
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: -2
+Mod cechy 8: -1
+Mod cechy 9: 0
+Mod cechy 10: -2
+Mod cechy 11: 1
+Mod cechy 12: 2
+Nazwa Rasy 7: hobbit
+Mod cechy 0: 0
+Mod cechy 1: -1
+Mod cechy 2: 2
+Mod cechy 3: 0
+Mod cechy 4: 1
+Mod cechy 5: -1
+Mod cechy 6: 2
+Mod cechy 7: 1
+Mod cechy 8: -1
+Mod cechy 9: 1
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: 1
+Nazwa Rasy 8: ast
+Mod cechy 0: -5
+Mod cechy 1: -2
+Mod cechy 2: -4
+Mod cechy 3: 1
+Mod cechy 4: 1
+Mod cechy 5: -1
+Mod cechy 6: 2
+Mod cechy 7: 0
+Mod cechy 8: 1
+Mod cechy 9: 2
+Mod cechy 10: 1
+Mod cechy 11: 3
+Mod cechy 12: 3
+Nazwa Rasy 9: sirin
+Mod cechy 0: -1
+Mod cechy 1: -1
+Mod cechy 2: -2
+Mod cechy 3: 1
+Mod cechy 4: 3
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: -1
+Mod cechy 8: -1
+Mod cechy 9: 6
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: -1
+Nazwa Rasy 10: saleta
+Mod cechy 0: 2
+Mod cechy 1: 2
+Mod cechy 2: 4
+Mod cechy 3: 2
+Mod cechy 4: -3
+Mod cechy 5: 1
+Mod cechy 6: -2
+Mod cechy 7: -3
+Mod cechy 8: -2
+Mod cechy 9: -1
+Mod cechy 10: -1
+Mod cechy 11: -1
+Mod cechy 12: -2
+Nazwa Rasy 11: kot
+Mod cechy 0: -2
+Mod cechy 1: 2
+Mod cechy 2: -3
+Mod cechy 3: 6
+Mod cechy 4: -1
+Mod cechy 5: 6
+Mod cechy 6: 2
+Mod cechy 7: -2
+Mod cechy 8: -1
+Mod cechy 9: 1
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: 2
+Nazwa Rasy 12: wampir_krolewski
+Mod cechy 0: 25
+Mod cechy 1: 6
+Mod cechy 2: 125
+Mod cechy 3: 25
+Mod cechy 4: 2
+Mod cechy 5: 25
+Mod cechy 6: 4
+Mod cechy 7: 2
+Mod cechy 8: 15
+Mod cechy 9: 3
+Mod cechy 10: -2
+Mod cechy 11: 3
+Mod cechy 12: 4
+Nazwa profesji 0: wojownik
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 1
+Mod cechy 6: -1
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 1: najemnik
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: -1
+Mod cechy 7: -1
+Mod cechy 8: 1
+Mod cechy 9: -1
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -1
+Nazwa profesji 2: bandyta
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 1
+Mod cechy 6: -1
+Mod cechy 7: -2
+Mod cechy 8: 1
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 3: zlodziej
+Mod cechy 0: 0
+Mod cechy 1: 1
+Mod cechy 2: -1
+Mod cechy 3: 2
+Mod cechy 4: 3
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: -1
+Mod cechy 8: -1
+Mod cechy 9: -1
+Mod cechy 10: 1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 4: morderca
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 0
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: -1
+Mod cechy 10: 2
+Mod cechy 11: -1
+Mod cechy 12: -3
+Nazwa profesji 5: herszt
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 2
+Mod cechy 4: -1
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: -3
+Mod cechy 8: 2
+Mod cechy 9: -1
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 6: straznik
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: -1
+Mod cechy 8: 1
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 7: gwardzista
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 2
+Mod cechy 4: 0
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: 0
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 0
+Mod cechy 11: -3
+Mod cechy 12: -3
+Nazwa profesji 8: poszukiwacz_przyg.
+Mod cechy 0: 0
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: 1
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -1
+Mod cechy 12: 0
+Nazwa profesji 9: zolnierz
+Mod cechy 0: 1
+Mod cechy 1: 2
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: -1
+Mod cechy 5: 1
+Mod cechy 6: -1
+Mod cechy 7: -1
+Mod cechy 8: -1
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 10: kawalerzysta
+Mod cechy 0: 2
+Mod cechy 1: 1
+Mod cechy 2: 2
+Mod cechy 3: 1
+Mod cechy 4: 1
+Mod cechy 5: 1
+Mod cechy 6: -1
+Mod cechy 7: -2
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 11: dowodca
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 2
+Mod cechy 4: 0
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: 0
+Mod cechy 8: 2
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 12: zwiadowca
+Mod cechy 0: 0
+Mod cechy 1: 1
+Mod cechy 2: 0
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 2
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: -1
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 13: lucznik
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: -1
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 14: kusznik
+Mod cechy 0: 2
+Mod cechy 1: 1
+Mod cechy 2: 0
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 15: tarczownik
+Mod cechy 0: 2
+Mod cechy 1: 2
+Mod cechy 2: 2
+Mod cechy 3: 1
+Mod cechy 4: 1
+Mod cechy 5: -2
+Mod cechy 6: -1
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 16: rycerz
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 2
+Mod cechy 4: -1
+Mod cechy 5: -1
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 0
+Mod cechy 11: -3
+Mod cechy 12: -3
+Nazwa profesji 17: giermek
+Mod cechy 0: 0
+Mod cechy 1: 1
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 1
+Mod cechy 5: 0
+Mod cechy 6: -1
+Mod cechy 7: 0
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -1
+Mod cechy 12: -1
+Nazwa profesji 18: palladyn
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: -2
+Mod cechy 5: -2
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: 2
+Mod cechy 9: 2
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: -4
+Nazwa profesji 19: kaplan
+Mod cechy 0: 0
+Mod cechy 1: -1
+Mod cechy 2: -1
+Mod cechy 3: 0
+Mod cechy 4: 2
+Mod cechy 5: 0
+Mod cechy 6: 1
+Mod cechy 7: 3
+Mod cechy 8: 3
+Mod cechy 9: 1
+Mod cechy 10: 1
+Mod cechy 11: 0
+Mod cechy 12: -1
+Nazwa profesji 20: czarodziej
+Mod cechy 0: -2
+Mod cechy 1: -2
+Mod cechy 2: -2
+Mod cechy 3: -1
+Mod cechy 4: 2
+Mod cechy 5: -1
+Mod cechy 6: 1
+Mod cechy 7: 2
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 1
+Mod cechy 11: 2
+Mod cechy 12: 2
+Nazwa profesji 21: czarnoksieznik
+Mod cechy 0: -2
+Mod cechy 1: -2
+Mod cechy 2: -1
+Mod cechy 3: -1
+Mod cechy 4: 1
+Mod cechy 5: -1
+Mod cechy 6: 1
+Mod cechy 7: 2
+Mod cechy 8: 1
+Mod cechy 9: -1
+Mod cechy 10: 0
+Mod cechy 11: 2
+Mod cechy 12: 2
+Nazwa profesji 22: strateg
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 1
+Mod cechy 5: 0
+Mod cechy 6: 2
+Mod cechy 7: 2
+Mod cechy 8: 1
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -1
+Mod cechy 12: -1
+Nazwa profesji 23: wiedzmin
+Mod cechy 0: 2
+Mod cechy 1: 2
+Mod cechy 2: 5
+Mod cechy 3: 6
+Mod cechy 4: -1
+Mod cechy 5: 4
+Mod cechy 6: 2
+Mod cechy 7: 2
+Mod cechy 8: 1
+Mod cechy 9: -3
+Mod cechy 10: 1
+Mod cechy 11: 1
+Mod cechy 12: -4
+Nazwa profesji 24: fechtmistrz
+Mod cechy 0: 1
+Mod cechy 1: 0
+Mod cechy 2: 1
+Mod cechy 3: 3
+Mod cechy 4: 1
+Mod cechy 5: 2
+Mod cechy 6: 1
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 25: osilek
+Mod cechy 0: 3
+Mod cechy 1: 2
+Mod cechy 2: 3
+Mod cechy 3: 1
+Mod cechy 4: 0
+Mod cechy 5: -2
+Mod cechy 6: -1
+Mod cechy 7: -2
+Mod cechy 8: 1
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 26: szlachcic
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: -1
+Mod cechy 3: 1
+Mod cechy 4: 1
+Mod cechy 5: 0
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 0
+Mod cechy 11: -1
+Mod cechy 12: -1
+Nazwa profesji 27: poeta
+Mod cechy 0: -1
+Mod cechy 1: -1
+Mod cechy 2: -1
+Mod cechy 3: -1
+Mod cechy 4: 2
+Mod cechy 5: 0
+Mod cechy 6: 2
+Mod cechy 7: 2
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 1
+Mod cechy 11: -2
+Mod cechy 12: -1
+Nazwa profesji 28: artysta
+Mod cechy 0: -1
+Mod cechy 1: -1
+Mod cechy 2: -1
+Mod cechy 3: -1
+Mod cechy 4: 1
+Mod cechy 5: 0
+Mod cechy 6: 2
+Mod cechy 7: 1
+Mod cechy 8: 1
+Mod cechy 9: 1
+Mod cechy 10: 1
+Mod cechy 11: -1
+Mod cechy 12: -1
+Nazwa profesji 29: marynarz
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 1
+Mod cechy 5: 1
+Mod cechy 6: -1
+Mod cechy 7: 0
+Mod cechy 8: -1
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 30: bosman
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 2
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: -1
+Mod cechy 8: 1
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -3
+Mod cechy 12: -3
+Nazwa profesji 31: kapitan
+Mod cechy 0: 0
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 0
+Mod cechy 6: 2
+Mod cechy 7: 2
+Mod cechy 8: 2
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -3
+Nazwa profesji 32: pirat
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 2
+Mod cechy 6: -1
+Mod cechy 7: -2
+Mod cechy 8: -1
+Mod cechy 9: -1
+Mod cechy 10: -2
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 33: lekarz
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 1
+Mod cechy 3: 0
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 2
+Mod cechy 7: 2
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 2
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 34: rzemieslnik
+Mod cechy 0: 1
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: 2
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -1
+Nazwa profesji 35: kowal
+Mod cechy 0: 2
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 0
+Mod cechy 6: 0
+Mod cechy 7: 1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: 0
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 36: chlop
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 0
+Mod cechy 5: 0
+Mod cechy 6: -1
+Mod cechy 7: -1
+Mod cechy 8: 0
+Mod cechy 9: 1
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -1
+Nazwa profesji 37: kucharz
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: 0
+Mod cechy 3: 0
+Mod cechy 4: 1
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: 1
+Mod cechy 8: 0
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -2
+Mod cechy 12: -2
+Nazwa profesji 38: alchemik
+Mod cechy 0: 0
+Mod cechy 1: 0
+Mod cechy 2: -1
+Mod cechy 3: 0
+Mod cechy 4: 3
+Mod cechy 5: 1
+Mod cechy 6: 1
+Mod cechy 7: 2
+Mod cechy 8: 0
+Mod cechy 9: -1
+Mod cechy 10: 0
+Mod cechy 11: 0
+Mod cechy 12: -2
+Nazwa profesji 39: nocny_lowca
+Mod cechy 0: 1
+Mod cechy 1: 1
+Mod cechy 2: 1
+Mod cechy 3: 1
+Mod cechy 4: 2
+Mod cechy 5: 1
+Mod cechy 6: 0
+Mod cechy 7: 0
+Mod cechy 8: 2
+Mod cechy 9: 0
+Mod cechy 10: -1
+Mod cechy 11: -1
+Mod cechy 12: -1
+Nazwa Umiejetnosci 0: celny_cios
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 1: celny_strzal
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 2: celowanie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 3: dowodzenie
+Cecha test: 8
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 4: druga_bron
+Cecha test: 4
+Na poz: 3
+Mod test: -2
+Nazwa Umiejetnosci 5: militaria
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 6: musztra
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 7: okrzyk_bojowy
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 8: ostatnie_sily
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 9: precyzyjny_cios
+Cecha test: 4
+Na poz: 3
+Mod test: -2
+Nazwa Umiejetnosci 10: riposta
+Cecha test: 5
+Na poz: 3
+Mod test: 2
+Nazwa Umiejetnosci 11: silny_cios
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 12: strategia
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 13: strz._z_konia
+Cecha test: 4
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 14: szarza
+Cecha test: 0
+Na poz: 3
+Mod test: 3
+Nazwa Umiejetnosci 15: szermierka
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 16: szybka_regeneracja
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 17: szybki_cios
+Cecha test: 5
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 18: taktyka
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 19: tarczownik
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 20: ucieczka
+Cecha test: 5
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 21: uniki
+Cecha test: 3
+Na poz: 4
+Mod test: 0
+Nazwa Umiejetnosci 22: walka_sztyletem
+Cecha test: 4
+Na poz: 3
+Mod test: 2
+Nazwa Umiejetnosci 23: walka_mieczem
+Cecha test: 3
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 24: walka_szabla
+Cecha test: 3
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 25: walka_toporem
+Cecha test: 0
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 26: walka_wrecz
+Cecha test: 0
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 27: bronie_strzeleckie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 28: walka_arytmiczna
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 29: walka_osaczonego
+Cecha test: 5
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 30: walka_z_konia
+Cecha test: 4
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 31: wyczucie_ciosu
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 32: zimna_krew
+Cecha test: 10
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 33: ars_amandi
+Cecha test: 9
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 34: etykieta
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 35: kamienna_twarz
+Cecha test: 10
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 36: mocna_glowa
+Cecha test: 2
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 37: moda_i_styl
+Cecha test: 9
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 38: polityka
+Cecha test: 7
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 39: prow._rozmowy
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 40: przesluchanie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 41: urok_osobisty
+Cecha test: 9
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 42: uwodzenie
+Cecha test: 9
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 43: wplywy
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 44: zarzadzanie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 45: jazda_konna
+Cecha test: 3
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 46: olbrzymia_sila
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 47: kondycja
+Cecha test: 1
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 48: zreczne_palce
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 49: wytrzymalosc
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 50: akrobatyka
+Cecha test: 3
+Na poz: 3
+Mod test: -1
+Nazwa Umiejetnosci 51: szosty_zmysl
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 52: wyksztalcenie
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 53: czytanie_pisanie
+Cecha test: 7
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 54: potencial_mag
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 55: emancja_mocy
+Cecha test: 12
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 56: lowiectwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 57: marsz
+Cecha test: 1
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 58: maskowanie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 59: plywanie
+Cecha test: 2
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 60: terenoznawstwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 61: tresura
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 62: posluch_u_zwierzat
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 63: tropienie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 64: wiedza_o...
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 65: kieszonkowstwo
+Cecha test: 4
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 66: kupiectwo
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 67: oszacowanie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 68: ocena_wartosci
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 69: pamiec
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 70: przeszukanie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 71: pulapki
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 72: skradanie_sie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 73: targowanie_sie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 74: wspinaczka
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 75: wytrzychowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 76: zastraszenie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 77: zabojczy_cios
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 78: znajomosc_ulicy
+Cecha test: 7
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 79: kulturoznawstwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 80: leczenie
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 81: medycyna
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 82: nauczanie
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 83: nauki_scisle
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 84: poezja
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 85: teologia
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 86: zielarstwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 87: ciesielstwo
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 88: flisactwo
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 89: gornictwo
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 90: kowalstwo
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 91: krawiectwo
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 92: gotowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 93: piwowarstwo
+Cecha test: 7
+Na poz: 3
+Mod test: 2
+Nazwa Umiejetnosci 94: rybolowstwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 95: zlotnictwo
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 96: nawigacja
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 97: nurkowanie
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 98: sterowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 99: wiedza_o_morzach
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 100: wiedza_o_rzekach
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 101: wioslowanie
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 102: zeglowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 103: gra_na_instr.
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 104: aktorstwo
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 105: komponowanie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 106: literatura
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 107: tworzenie_wierszy
+Cecha test: 7
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 108: rysowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 109: kartografia
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 110: szulerstwo
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 111: hazard
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 112: gry_towarzyskie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 113: spiew
+Cecha test: 9
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 114: taniec
+Cecha test: 3
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 115: tortury
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 116: zonglerka
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 117: bestiologia
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 118: eliksiry_wiedzm.
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 119: historia
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 120: jezyki_obce
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 121: historia_magii
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 122: masaz
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 123: masaz_erotyczny
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 124: odpornosc_na_truc.
+Cecha test: 2
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 125: wazenie_trucizn
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 126: drugi_atak
+Cecha test: 3
+Na poz: 3
+Mod test: -2
+Nazwa Umiejetnosci 127: trzeci_atak
+Cecha test: 3
+Na poz: 3
+Mod test: -3
+Nazwa Umiejetnosci 128: berserker
+Cecha test: 0
+Na poz: 3
+Mod test: 2
+Nazwa Umiejetnosci 129: rzucanie_czarow
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 130: ceremonie_magiczne
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 131: magia_elementarna
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 132: kontrola_mocy
+Cecha test: 12
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 133: pobranie_mocy
+Cecha test: 12
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 134: odpornosc_magiczna
+Cecha test: 11
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 135: magia_bojowa
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 136: magia_iluzji
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 137: magia_oslonna
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 138: magia_kontroli
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 139: magia_komunikacyjna
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 140: magia_urokow
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 141: magia_nekromancka
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 142: magia_demonol.
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 143: magia_sugestii
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 144: magia_zywiolow
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 145: magia_ciala
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 146: sztuczki_sztyletem
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 147: znajomosc_wsi
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 148: znajomosc_miasta
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 149: sprint
+Cecha test: 5
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 150: woltyzerka
+Cecha test: 3
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 151: szybka_manewracja
+Cecha test: 5
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 152: czule_zmysly
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 153: parowanie_tarcza
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 154: udzwig
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 155: formowanie_szykow
+Cecha test: 5
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 156: magia_umyslu
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 157: heraldyka
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 158: polerowanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 159: blogoslawienstwo
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 160: msza_sw.
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 161: moc_ognia
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 162: moc_wody
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 163: moc_powietrza
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 164: moc_ziemi
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 165: moc_zycia
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 166: moc_smierci
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 167: medytacja
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 168: modlitwa
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 169: chodzenie_po_drz.
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 170: magia_renegacka
+Cecha test: 11
+Na poz: 3
+Mod test: 2
+Nazwa Umiejetnosci 171: intryga_dworska
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 172: klamstwo
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 173: wykr._klamstwa
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 174: cios_w_plecy
+Cecha test: 0
+Na poz: 3
+Mod test: 4
+Nazwa Umiejetnosci 175: kopanie
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 176: znajomosc_podziemi
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 177: kucie_korytarzy
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 178: wynalazki
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 179: niematerialnosc
+Cecha test: 11
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 180: latanie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 181: weszenie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 182: gwalcenie
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 183: przebieranie_sie
+Cecha test: 6
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 184: wypatrywanie
+Cecha test: 6
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 185: przedstawianie_sie
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 186: historie_rodowe
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 187: emancja_dobra
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 188: emancja_zla
+Cecha test: 11
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 189: krasomowstwo
+Cecha test: 8
+Na poz: 3
+Mod test: 1
+Nazwa Umiejetnosci 190: przekonywanie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 191: opanowanie_mart.
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 192: odegnanie_martw.
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 193: wiedza_o_potworach
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 194: wiedza_o_martw.
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 195: opowiadanie
+Cecha test: 8
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 196: rzezbiarstwo
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 197: skoki_na_linach
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 198: opatrunek
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 199: nast._zlamania
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 200: tamowanie_krwotoku
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 201: mikstury_alchem.
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 202: przedzenie
+Cecha test: 4
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 203: praca_na_roli
+Cecha test: 0
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 204: obrzadzanie
+Cecha test: 7
+Na poz: 3
+Mod test: 0
+Nazwa Umiejetnosci 205: kontrola_umyslu
+Cecha test: 8
+Na poz: 6
+Mod test: -4
+Nazwa Umiejetnosci 206: zmiana_postaci
+Cecha test: 11
+Na poz: 6
+Mod test: -4
+Nazwa Umiejetnosci 207: kontrola_pogody
+Cecha test: 8
+Na poz: 6
+Mod test: -4
+Nazwa Umiejetnosci 208: ssanie_krwi
+Cecha test: 0
+Na poz: 6
+Mod test: -4
+Nazwa Umiejetnosci 209: opanowanie_rzadzy
+Cecha test: 8
+Na poz: 3
+Mod test: -3
+Nazwa Umiejetnosci 210: walka_pazurami
+Cecha test: 3
+Na poz: 4
+Mod test: -2
+Start Value: 10
+Plus: 1
+Small Random: 1
+Large Random: 2

@@ -1,0 +1,44 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.3.1	//
+Free2	sqlkl.c	/^void Free2(char**& t, int co, int ro)$/;"	f
+Free3	sqlkl.c	/^void Free3(char***& t, int co, int ro)$/;"	f
+List	sqlkl.c	/^typedef struct List$/;"	s	file:
+MAXPATH	sqlkl.c	8;"	d	file:
+P3C2P2C	sqlkl.c	/^char** P3C2P2C(char*** in, int cols, int rows)$/;"	f
+Perr	sqlkl.c	/^inline void Perr(int er)$/;"	f
+Q	sqlkl.c	/^char*** Q(char* stat, int& cols, int& rows, int& err)$/;"	f
+add_to_last	sqlkl.c	/^pList add_to_last(pList& h, char* e)$/;"	f
+callback	sqlkl.c	/^void callback(char* cmd)$/;"	f
+clear_history	sqlkl.c	/^inline void clear_history()$/;"	f
+connect	sqlkl.c	/^int connect()$/;"	f
+connection	sqlkl.c	/^static MYSQL *connection=NULL;$/;"	v	file:
+current	sqlkl.c	/^pList head=NULL, current=NULL, new_cmds=NULL;$/;"	v
+data	sqlkl.c	/^ char* data;$/;"	m	struct:List	file:
+downcase	sqlkl.c	/^inline void downcase(int& str)$/;"	f
+downcase	sqlkl.c	/^void downcase(char* str)$/;"	f
+execute	sqlkl.c	/^void execute(char* cmd)$/;"	f
+free_list	sqlkl.c	/^void free_list()$/;"	f
+getch	sqlkl.c	/^int getch()$/;"	f
+getinput	sqlkl.c	/^void getinput(char*& cmd)$/;"	f
+head	sqlkl.c	/^pList head=NULL, current=NULL, new_cmds=NULL;$/;"	v
+help	sqlkl.c	/^void help()$/;"	f
+insert_student_query	sqlkl.c	/^char* insert_student_query(char** words, int from, int max)$/;"	f
+load_history	sqlkl.c	/^void load_history()$/;"	f
+main	sqlkl.c	/^int main(int lb, char** par)$/;"	f
+mysql	sqlkl.c	/^static MYSQL mysql;$/;"	v	file:
+new_cmds	sqlkl.c	/^pList head=NULL, current=NULL, new_cmds=NULL;$/;"	v
+next	sqlkl.c	/^ List* next;$/;"	m	struct:List	file:
+pList	sqlkl.c	/^typedef List* pList;$/;"	t	file:
+parser	sqlkl.c	/^char** parser(char* cmd, int& lbw)$/;"	f
+prepare_SQL_stmt	sqlkl.c	/^char* prepare_SQL_stmt(char** words, int from, int max)$/;"	f
+prepare_cmdline	sqlkl.c	311;"	d	file:
+prepare_insert_query	sqlkl.c	/^char* prepare_insert_query(char** words, int from, int& max)$/;"	f
+prev	sqlkl.c	/^ List* prev;$/;"	m	struct:List	file:
+readline	sqlkl.c	/^int readline(FILE* f, char*& buf)$/;"	f
+save_history	sqlkl.c	/^void save_history()$/;"	f
+takestring	sqlkl.c	/^void takestring(char*& par)$/;"	f
+white	sqlkl.c	/^int white(char zn)$/;"	f

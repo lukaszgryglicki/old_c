@@ -1,0 +1,42 @@
+
+# Written by Morgoth DBMA, morgothdbma@o2.pl
+# on BSD licence, Libraries(interaces) used:
+# GNU GCC, AS (all stuff needed to compile C source into executable binary)
+# LibPQ-FE from PostgreSQL, GTK (GIMP Toolkit)
+# written in VIM editor, ctags used, CVS used
+# Currently only one author: MOrgoth DBMA
+# FILE: README
+	This is an initial release of PgXexplorer (ver. 0.28)
+This program WILL be:
+	- graphic (GTK) explorer for PostgreSQL databases
+	- will support ADD/REMOVE/MODIFY tables and tables metadata
+	- currently supporst ADD/REMOVE
+	- will have Wizards for tables,views,triggers,queries etc.
+	- will support DB backup to FILE and import from file
+		(standard SQL file to use with psql -f FILE_IN.SQL
+		and pg_dump > FILE_OUT.SQL)
+	- will support query executing FROM file and from control in GTK
+	- query results will be displayed in table (ReadOnly)
+	- should support TRIGERS ADDING/REMOVING for tables
+		(written in SQL and eventually C)
+	- will support creating DataBases and removing it
+	- displays tables metadata, types and entire data in table on demand
+	- possible there will be design view with connections 
+		(FOREIGN/PRIMARY KEYS) <rather not>
+	- for initial plans, thats it, I/m open for propositions
+		(of functionaliity and help with coding)
+		(especially I want some documentation on GTK and CVS)
+For installing see INSTALL file
+	-file genpardta.c i asmqsort.s are needed to create parsers source files
+		sqlparser.c & sqlparser.h, they are used only once, so we don't
+		need to add them to project, if You want yto compile them yourself
+		try make -f mkfile_parser, this will compile only on *BSD
+		because qsort routine I'm using is written by me in Gnu-ASM
+		it uses *BSD kernel calling convention, so F.E solaris may fail
+		Linux & *BSD are known to work
+extra/
+	- contains example DB program, read docs in extra/ dir
+		AMD64 is now supported
+		first try v0.31
+
+	

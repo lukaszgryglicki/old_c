@@ -1,0 +1,35 @@
+
+# Written by Morgoth DBMA, morgothdbma@o2.pl
+# on BSD licence, Libraries(interaces) used:
+# GNU GCC, AS (all stuff needed to compile C source into executable binary)
+# LibPQ-FE from PostgreSQL, GTK (GIMP Toolkit)
+# written in VIM editor, ctags used, CVS used
+# Currently only one author: MOrgoth DBMA
+# FILE: INSTALL
+
+Initial  Release 0.1 , from 24.II.2004  by Morgoth DBMA
+	 Release 0.13, from 20.III.2004 by Morgoth DBMA
+	 release 0.14, from 22.III.2004 by Morgoth DBMA
+	 release 0.24, from 17.IV.2004  by Morgoth DBMA
+	 release 0.25, from 20.V.2004   by Morgoth DBMA
+To INSTALL:
+	./configure
+		answer where is your postgresql
+		for example you have postmaster here:
+		/dir/somewhere/on/server/bin/postmaster
+		answer:
+		/dir/somewhere/on/server
+		then answer r or d to question Release or Debug
+	make (gnumake, gmake)
+		this will build pgxexplorer and pgxtest
+		warnings will appear but in GTK sources (not mine)
+		run now ./pgxtest, IF all succeded then pgxexplorer
+		should work fine, pgxtest tests configure and 
+		all libraries needed, of course U need XServer running
+		at the moment U try to run ./pgxtest
+		now U  can run ./pgxexplorer from sources directory
+	make install (gmake install etc.)
+		this will copy pgxexplorer and pgxtest to Your
+		PostreSQL:/bin/
+Thats All Folks...
+

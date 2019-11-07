@@ -1,0 +1,90 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.3.1	//
+DBNAME	DBclass.c	14;"	d	file:
+ERR	DBclass.c	9;"	d	file:
+M_BEGIN	DBclass.c	10;"	d	file:
+M_END	DBclass.c	11;"	d	file:
+M_MIDDLE	DBclass.c	12;"	d	file:
+M_NONE	DBclass.c	13;"	d	file:
+_MACHINE_64	mach.h	3;"	d
+__HAVE__MACH__H__	mach.h	2;"	d
+addClass	DBclass.c	/^int addClass(char** userCmd, PGconn* connection)$/;"	f
+addMark	DBclass.c	/^int addMark(char** userCmd, PGconn* connection)$/;"	f
+addMarkByClass	DBclass.c	/^int addMarkByClass(char** userCmd, PGconn* connection)$/;"	f
+addMarkByStudent	DBclass.c	/^int addMarkByStudent(char** userCmd, PGconn* connection)$/;"	f
+addMarkBySubject	DBclass.c	/^int addMarkBySubject(char** userCmd, PGconn* connection)$/;"	f
+addStudent	DBclass.c	/^int addStudent(char** userCmd, PGconn* connection)$/;"	f
+addStudentsToClass	DBclass.c	/^int addStudentsToClass(PGconn* connection)$/;"	f
+addSubject	DBclass.c	/^int addSubject(char** userCmd, PGconn* connection)$/;"	f
+averageClass	DBclass.c	/^int averageClass(char** userCmd, PGconn* connection)$/;"	f
+averageClassByMark	DBclass.c	/^int averageClassByMark(char** userCmd, PGconn* connection)$/;"	f
+averageClassByMarkOne	DBclass.c	/^int averageClassByMarkOne(char** userCmd, PGconn* connection)$/;"	f
+averageClassOne	DBclass.c	/^int averageClassOne(char** userCmd, PGconn* connection)$/;"	f
+averageSchool	DBclass.c	/^int averageSchool(char** userCmd, PGconn* connection)$/;"	f
+averageSchoolByMark	DBclass.c	/^int averageSchoolByMark(char** userCmd, PGconn* connection)$/;"	f
+averageSchoolByMark2	DBclass.c	/^int averageSchoolByMark2(char** userCmd, PGconn* connection)$/;"	f
+averageStudent	DBclass.c	/^int averageStudent(char** userCmd, PGconn* connection)$/;"	f
+averageStudentInClass	DBclass.c	/^int averageStudentInClass(char** userCmd, PGconn* connection)$/;"	f
+averageSubject	DBclass.c	/^int averageSubject(char** userCmd, PGconn* connection)$/;"	f
+averageSubjectInClass	DBclass.c	/^int averageSubjectInClass(char** userCmd, PGconn* connection)$/;"	f
+clear_result	DBclass.c	/^void clear_result(PGresult** r)$/;"	f
+connect_db	DBclass.c	/^PGconn* connect_db(char* arg)$/;"	f
+countMarksByClass	DBclass.c	/^int countMarksByClass(char** userCmd, PGconn* connection)$/;"	f
+countMarksByClassOne	DBclass.c	/^int countMarksByClassOne(char** userCmd, PGconn* connection)$/;"	f
+countMarksSchool	DBclass.c	/^int countMarksSchool(char** userCmd, PGconn* connection)$/;"	f
+countMarksStudent	DBclass.c	/^int countMarksStudent(char** userCmd, PGconn* connection)$/;"	f
+countMarksStudentInClass	DBclass.c	/^int countMarksStudentInClass(char** userCmd, PGconn* connection)$/;"	f
+countStudentsInClass	DBclass.c	/^int countStudentsInClass(char** userCmd, PGconn* connection)$/;"	f
+countStudentsInSchool	DBclass.c	/^int countStudentsInSchool(char** userCmd, PGconn* connection)$/;"	f
+countSubject	DBclass.c	/^int countSubject(char** userCmd, PGconn* connection)$/;"	f
+countSubjectInClass	DBclass.c	/^int countSubjectInClass(char** userCmd, PGconn* connection)$/;"	f
+debug	DBclass.c	/^int debug(char* fmt, ...)$/;"	f
+deleteViews	DBclass.c	/^void deleteViews (PGconn* connection)$/;"	f
+disconnect_db	DBclass.c	/^void disconnect_db(PGconn** c)$/;"	f
+displayClasses	DBclass.c	/^int displayClasses(PGconn* connection)$/;"	f
+displayHelp	DBclass.c	/^void displayHelp()$/;"	f
+displayStudents	DBclass.c	/^int displayStudents(PGconn* connection)$/;"	f
+displaySubjects	DBclass.c	/^int displaySubjects(PGconn* connection)$/;"	f
+execute_query	DBclass.c	/^PGresult* execute_query(PGconn* c,  char* query)$/;"	f
+execute_silent_query	DBclass.c	/^PGresult* execute_silent_query(PGconn* c,  char* query)$/;"	f
+free_p3c	DBclass.c	/^void free_p3c(char**** p, int a, int b)$/;"	f
+getClassByID	DBclass.c	/^int getClassByID(PGconn* connection, int idklasy, char* nazwa)$/;"	f
+getDistinctClass	DBclass.c	/^int getDistinctClass(int* idklasy, PGconn* connection)$/;"	f
+getDistinctStudent	DBclass.c	/^int getDistinctStudent(int* id, PGconn* connection)$/;"	f
+getDistinctSubject	DBclass.c	/^int getDistinctSubject(int* idprzedmiotu, PGconn* connection)$/;"	f
+getStudentByID	DBclass.c	/^int getStudentByID(PGconn* connection, int iducznia, char* imie, char* nazwisko, char* klasa)$/;"	f
+getSubjectByID	DBclass.c	/^int getSubjectByID(PGconn* connection, int idprzedmiotu, char* nazwa)$/;"	f
+ln	DBclass.c	8;"	d	file:
+lsprintf	DBclass.c	/^int lsprintf(char* str, char* fmt, ...)$/;"	f
+m_mode	DBclass.c	/^static int m_mode = M_BEGIN;$/;"	v	file:
+main	DBclass.c	/^int main(int lb, char** par)$/;"	f
+mgetch	DBclass.c	/^int mgetch()$/;"	f
+modifyClass	DBclass.c	/^int modifyClass(char** userCmd, PGconn* connection)$/;"	f
+modifyIndexClass	DBclass.c	/^int modifyIndexClass(char** userCmd, PGconn* connection)$/;"	f
+modifyIndexStudent	DBclass.c	/^int modifyIndexStudent(char** userCmd, PGconn* connection)$/;"	f
+modifyIndexSubject	DBclass.c	/^int modifyIndexSubject(char** userCmd, PGconn* connection)$/;"	f
+modifyMark	DBclass.c	/^int modifyMark(char** userCmd, PGconn* connection)$/;"	f
+modifyStudent	DBclass.c	/^int modifyStudent(char** userCmd, PGconn* connection)$/;"	f
+modifyStudentIndirect	DBclass.c	/^int modifyStudentIndirect(PGconn* connection, char* userCmd,char* nazwisko, char* imie, int idklasy)$/;"	f
+modifySubject	DBclass.c	/^int modifySubject(char** userCmd, PGconn* connection)$/;"	f
+pgres2pc3	DBclass.c	/^char*** pgres2pc3(const PGresult* r, int* a, int* b)$/;"	f
+prepareUser	DBclass.c	/^int prepareUser(char** userCmd)$/;"	f
+print_results	DBclass.c	/^void print_results(char*** res, int a, int b)$/;"	f
+removeClass	DBclass.c	/^int removeClass(char** userCmd, PGconn* connection)$/;"	f
+removeMark	DBclass.c	/^int removeMark(char** userCmd, PGconn* connection)$/;"	f
+removeStudent	DBclass.c	/^int removeStudent(char** userCmd, PGconn* connection)$/;"	f
+removeSubject	DBclass.c	/^int removeSubject(char** userCmd, PGconn* connection)$/;"	f
+saveDBToFile	DBclass.c	/^void saveDBToFile()$/;"	f
+seeClasses	DBclass.c	/^void seeClasses(char** userCmd, PGconn* connection)$/;"	f
+seeMarks	DBclass.c	/^int seeMarks(char** userCmd, PGconn* connection)$/;"	f
+seeMarksAll	DBclass.c	/^int seeMarksAll(char** userCmd, PGconn* connection)$/;"	f
+seeMarksByStudents	DBclass.c	/^int seeMarksByStudents(char** userCmd, PGconn* connection)$/;"	f
+seeMarksBySubject	DBclass.c	/^int seeMarksBySubject(char** userCmd, PGconn* connection)$/;"	f
+seeStudents	DBclass.c	/^int seeStudents(char** userCmd, PGconn* connection)$/;"	f
+seeSubjects	DBclass.c	/^void seeSubjects(char** userCmd, PGconn* connection)$/;"	f
+shortstring	DBclass.c	/^void shortstring(char* par, int LEN)$/;"	f
+takestring	DBclass.c	/^void takestring(char* par)$/;"	f

@@ -1,0 +1,8 @@
+CREATE VIEW vsrednie_uczniow AS
+SELECT uczen.iducznia, klasa.idklasy, avg(ocena.ocena) 
+AS srednia 
+FROM uczen, ocena, 
+klasa WHERE (((uczen.idklasy = klasa.idklasy) 
+AND (ocena.iducznia = uczen.iducznia)) 
+AND (ocena.czyliczona = true)) 
+GROUP BY uczen.iducznia, klasa.idklasy

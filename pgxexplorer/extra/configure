@@ -1,0 +1,61 @@
+#!/bin/sh
+if [ "$1" = "" ]
+then
+	echo "usage: $0 path_to_postgres"
+	echo "example: $0 /usr/local/pgsql"
+	exit 1
+else
+PGDIR=$1
+echo -n "Checking for PostgreSQL in $PGDIR/bin..."
+if [ -f "$PGDIR/bin/postmaster" ]
+then
+	echo -n " postmaster ok"
+	if [ -f "$PGDIR/lib/libpq.so" ]
+	then
+	    echo ", libpq ok"
+	else
+	    echo ", libpq.os not found, assuming linker will find it"
+	fi
+	PGLIBS="$PGDIR/lib"
+	PGINCL="$PGDIR/include"
+	echo "Postges libraries in $PGLIBS"
+	echo "Postgres includes in $PGINCL"
+	
+	if [ "$PGDATA" = "" ]
+	then
+		echo "--- warning: no PGDATA is set, but this will not make things fail"
+		echo "--- you shold set your PGDATA variable to $PGDIR/data or somewhere else"
+	else
+		echo "Postgres data in $PGDATA"
+	fi
+	arch=`( uname -m )`
+	echo "#ifndef __HAVE__MACH__H__" > mach.h
+	echo "#define __HAVE__MACH__H__" >> mach.h
+	if [ "$arch" = "i386" ]
+	then
+		echo "#define _MACHINE_32" >> mach.h
+	elif [ "$arch" = "amd64" ] || [ "$arch" = "alpha" ] || [ "$arch" = "x86_64" ]
+	then
+		echo "#define _MACHINE_64" >> mach.h
+	else
+		echo "WARNING: Unknown CPU architekture!"
+	fi
+	echo -n "DEBUG (Y/N) "
+	read dbg
+	if [ "$dbg" = "n" ] || [ "$dbg" = "N" ]
+	then
+		rm -f ./Makefile 2>/dev/null
+		ln -s ./Makefile.release ./Makefile
+	else
+		echo "#define DEBUG" >> mach.h
+		rm -f ./Makefile 2>/dev/null
+		ln -s ./Makefile.debug ./Makefile
+	fi
+	echo "#endif" >> mach.h
+else
+	echo "no"
+	echo "Postgres not fount in $PGDIR"
+	exit 1
+fi
+fi
+

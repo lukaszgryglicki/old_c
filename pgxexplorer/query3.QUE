@@ -1,0 +1,8 @@
+SELECT przedmiot.nazwa,avg(ocena)
+FROM ocena,przedmiot,uczen,klasa
+WHERE ocena.idprzedmiotu=przedmiot.idprzedmiotu
+AND ocena.iducznia=uczen.iducznia
+AND uczen.idklasy=klasa.idklasy
+AND klasa.idklasy=7
+GROUP BY przedmiot.nazwa
+ORDER BY przedmiot.nazwa

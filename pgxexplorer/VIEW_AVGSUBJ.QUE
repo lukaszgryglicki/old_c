@@ -1,0 +1,11 @@
+CREATE VIEW vavg_subjs AS
+SELECT klasa.nazwa 
+AS "class", przedmiot.nazwa 
+AS subject, avg(ocena.ocena) 
+AS avg 
+FROM ocena, przedmiot, uczen, klasa 
+WHERE (((ocena.idprzedmiotu = przedmiot.idprzedmiotu) 
+AND (ocena.iducznia = uczen.iducznia)) 
+AND (uczen.idklasy = klasa.idklasy)) 
+GROUP BY przedmiot.nazwa, klasa.nazwa 
+ORDER BY klasa.nazwa, przedmiot.nazwa

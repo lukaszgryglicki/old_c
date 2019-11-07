@@ -1,0 +1,991 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.3.1	//
+ALL	dbase.h	37;"	d
+ASK	dbase.h	44;"	d
+ASortItemFunc	game.c	/^void ASortItemFunc(Wnd& wnd, void* ptr)$/;"	f
+ASortProfFunc	game.c	/^void ASortProfFunc(Wnd& wnd, void* ptr)$/;"	f
+ASortRaceFunc	game.c	/^void ASortRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+ASortSkillFunc	game.c	/^void ASortSkillFunc(Wnd& wnd, void* ptr)$/;"	f
+ASortSpellsFunc	game.c	/^void ASortSpellsFunc(Wnd& wnd, void* ptr)$/;"	f
+ATTRIB	dbase.h	5;"	d
+ATTRIBUTE	dbase.h	14;"	d
+AboutFunc	game.c	/^void AboutFunc(Wnd& wnd, void* ptr)$/;"	f
+AboutMM0	game.c	/^void AboutMM0(RPG* post)$/;"	f
+AboutQuit	xmwnd.h	/^void    Wnd :: AboutQuit(bool val)$/;"	f	class:Wnd
+AboutSave	game.c	/^void AboutSave(Wnd& wnd, void* ptr)$/;"	f
+AboutSavePicture	game.c	/^void AboutSavePicture(Wnd& wnd, void* ptr)$/;"	f
+AccessEditFunc	game.c	/^void AccessEditFunc(Wnd& wnd, void* ptr)$/;"	f
+AccessItemsFunc	game.c	/^void AccessItemsFunc(Wnd& wnd, void* ptr)$/;"	f
+AccessProfsFunc	game.c	/^void AccessProfsFunc(Wnd& wnd, void* ptr)$/;"	f
+AccessRacesFunc	game.c	/^void AccessRacesFunc(Wnd& wnd, void* ptr)$/;"	f
+AccessSkillsFunc	game.c	/^void AccessSkillsFunc(Wnd& wnd, void* ptr)$/;"	f
+AccessSpellsFunc	game.c	/^void AccessSpellsFunc(Wnd& wnd, void* ptr)$/;"	f
+AddEkwByHand	game.c	/^void AddEkwByHand(Wnd& wnd, void* far_ptr)$/;"	f
+AddEkwFromBase	game.c	/^void AddEkwFromBase(Wnd& wnd, void* far_ptr)$/;"	f
+AddEkwLineFunc	game.c	/^void AddEkwLineFunc(Wnd& wnd, void* far_ptr)$/;"	f
+AddItemFunc	game.c	/^void AddItemFunc(Wnd& wnd, void* ptr)$/;"	f
+AddProfFunc	game.c	/^void AddProfFunc(Wnd& wnd, void* ptr)$/;"	f
+AddRaceFunc	game.c	/^void AddRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+AddSkillFunc	game.c	/^void AddSkillFunc(Wnd& wnd, void* ptr)$/;"	f
+AddSpellFunc	game.c	/^void AddSpellFunc(Wnd& wnd, void* ptr)$/;"	f
+AddictionalSetup	xmwnd.h	/^void Wnd :: AddictionalSetup(void (*procfunc)(Wnd&,void*))$/;"	f	class:Wnd
+Alternative	game.c	/^void Alternative(RPG* p, FILE* f)$/;"	f
+ApplyAttributesFunc	game.c	/^void ApplyAttributesFunc(Wnd& wnd, void* far_ptr)$/;"	f
+BACKSPACE	mh.h	29;"	d
+BIG	dbase.h	48;"	d
+BIT24DISP	xmwnd.h	74;"	d
+Base	game.c	/^void Base(Wnd& wnd, void* ptr)$/;"	f
+BaseToHTML	game.c	/^void BaseToHTML(FILE* plik, char* name)$/;"	f
+BlackWings	xmwnd.h	/^void Wnd :: BlackWings() \/\/ puts black rectangles onto text!$/;"	f	class:Wnd
+Button	xmwnd.h	/^Button :: Button()$/;"	f	class:Button
+Button	xmwnd.h	/^Button :: Button(char* nam)$/;"	f	class:Button
+Button	xmwnd.h	/^Button :: Button(char* nam, int sa, int sb)$/;"	f	class:Button
+Button	xmwnd.h	/^Button :: Button(char* nam, int sa, int sb, int a, int b)$/;"	f	class:Button
+Button	xmwnd.h	/^Button :: Button(int sa, int sb)$/;"	f	class:Button
+Button	xmwnd.h	/^Button :: Button(int sa, int sb, int a, int b)$/;"	f	class:Button
+Button	xmwnd.h	/^class Button$/;"	c
+ButtonPressFunc	xmwnd.h	/^ void (*ButtonPressFunc)(Wnd&, int, int, int, void*);$/;"	m	class:Wnd
+ButtonPressXFunc	xmwnd.h	/^ void (*ButtonPressXFunc)(Wnd&, int, int, int, void*);     \/\/first default check for pressed button$/;"	m	class:Wnd
+ButtonReleaseFunc	xmwnd.h	/^ void (*ButtonReleaseFunc)(Wnd&, int, int, int, void*);$/;"	m	class:Wnd
+ButtonReleaseXFunc	xmwnd.h	/^ void (*ButtonReleaseXFunc)(Wnd&, int, int, int, void*);   \/\/them called user function if ButtonPressFunc set to$/;"	m	class:Wnd
+CATEG	dbase.h	17;"	d
+CAX	xmwnd.h	72;"	d
+CAY	xmwnd.h	73;"	d
+CERA	dbase.h	31;"	d
+CHARAKTER	dbase.h	28;"	d
+CHAR_PTR	xmwnd.h	31;"	d
+CHECKED	mh.h	26;"	d
+COMMON	dbase.h	8;"	d
+COST	dbase.h	45;"	d
+CTMP_FAST	mran.h	51;"	d
+CTMP_SLOW	mran.h	50;"	d
+C_TMP	mran.h	47;"	d
+CancelFunc	game.c	/^void CancelFunc(Wnd& wnd, void* ptr)$/;"	f
+CancelPressed	xmwnd.h	/^void Wnd :: CancelPressed()$/;"	f	class:Wnd
+CancelPressedND	xmwnd.h	/^void Wnd :: CancelPressedND()$/;"	f	class:Wnd
+ChangeBasePswd	game.c	/^void ChangeBasePswd(Wnd& wnd, void* ptr)$/;"	f
+ChangePostPass	game.c	/^void ChangePostPass(Wnd& wnd, void* ptr)$/;"	f
+CharFunc	game.c	/^void CharFunc(Wnd& wnd, void* ptr)$/;"	f
+CharPtrReturn	xmwnd.h	/^void Wnd :: CharPtrReturn()          \/\/Instrue Unused* struct to listen for char* values and$/;"	f	class:Wnd
+Character	game.c	/^void Character(Wnd& wnd, int exists = true)$/;"	f
+CharacterCard	game.c	/^void CharacterCard(Wnd& wnd, void* ptr)$/;"	f
+CharacterPD	game.c	/^void CharacterPD(Wnd& wnd)$/;"	f
+CheckBox	xmwnd.h	/^CheckBox :: CheckBox(char** dane, int lb)   \/\/constructor uses char** table, SHOULD THIS BE INITIALIZED FIRST$/;"	f	class:CheckBox
+CheckBox	xmwnd.h	/^CheckBox :: CheckBox(char** dane, int lb, int mscr)$/;"	f	class:CheckBox
+CheckBox	xmwnd.h	/^class CheckBox$/;"	c
+CheckPassChar	game.c	/^int CheckPassChar(Wnd& wnd)$/;"	f
+CheckPassword	game.c	/^int CheckPassword(DATA* db, Wnd& wnd)$/;"	f
+ClipArea	xmwnd.h	/^ClipArea::ClipArea(const Wnd* w)$/;"	f	class:ClipArea
+ClipArea	xmwnd.h	/^ClipArea::ClipArea(int wx, int wy)$/;"	f	class:ClipArea
+ClipArea	xmwnd.h	/^ClipArea::ClipArea(int wx, int wy, int _x, int _y)$/;"	f	class:ClipArea
+ClipArea	xmwnd.h	/^ClipArea::ClipArea(int wx, int wy, int _x, int _y, int mx, int my)$/;"	f	class:ClipArea
+ClipArea	xmwnd.h	/^ClipArea::ClipArea(int wx, int wy, int _x, int _y, int mx, int my, int llx, int lly, char** dat, int lin)$/;"	f	class:ClipArea
+ClipArea	xmwnd.h	/^class ClipArea$/;"	c
+Compress	game.c	/^void Compress(DATA* db)$/;"	f
+Compress	game.c	/^void Compress(RPG* post)$/;"	f
+CompressData	mh.h	/^void CompressData(char* data)$/;"	f
+Compute	game.c	/^void Compute(Wnd& wnd, int& max_spell)$/;"	f
+ConfigureFunc	xmwnd.h	/^ void (*ConfigureFunc)(Wnd&, int, int, void*);$/;"	m	class:Wnd
+ConfigureXFunc	xmwnd.h	/^ void (*ConfigureXFunc)(Wnd&, int, int, void*);$/;"	m	class:Wnd
+CreateButton	xmwnd.h	/^void Wnd :: CreateButton(int num, char* txt, int xx, int yy, void (*f)(Wnd&, void*),bool def = false, int bx = 80, int by = 25, void* add_data = NULL)$/;"	f	class:Wnd
+CreateCenterOKButton	xmwnd.h	/^void Wnd :: CreateCenterOKButton()$/;"	f	class:Wnd
+CreateCenterOtherButton	xmwnd.h	/^void Wnd :: CreateCenterOtherButton(int bbb)$/;"	f	class:Wnd
+CreateCharFunc	game.c	/^void CreateCharFunc(Wnd& wnd, void* ptr)$/;"	f
+CreateCheckBoxChild	xmwnd.h	/^char* Wnd :: CreateCheckBoxChild(char* txt, char** table, int lines, int scrl = 10, int wx = 300, int wy = 550)$/;"	f	class:Wnd
+CreateCheckBoxVert	xmwnd.h	/^char* Wnd :: CreateCheckBoxVert(char* txt, char** table, int lines, int scrl = 60, int wx = 700, int wy = 500)$/;"	f	class:Wnd
+CreateDB	game.c	/^int CreateDB(char* name, bool ab_new = false)$/;"	f
+CreateExCheckBoxVert	xmwnd.h	/^char* Wnd :: CreateExCheckBoxVert(char* txt, char** table, int lines, int scrl, int wx, int wy, int new_buttons, Button** btn_ptr)$/;"	f	class:Wnd
+CreateExWriteBox	xmwnd.h	/^char* Wnd :: CreateExWriteBox(char* txt, bool hidden, int max_len, int xx, int yy, int msx, int msy, int mx, int my)$/;"	f	class:Wnd
+CreateFunc	game.c	/^void CreateFunc(Wnd& wnd, void* ptr)$/;"	f
+CreateGC	xmwnd.h	/^void Wnd :: CreateGC()   \/\/if this fails PANIC$/;"	f	class:Wnd
+CreateGenderText	game.c	/^void CreateGenderText(Wnd& wnd, void* ptr)$/;"	f
+CreateLWriteBox	xmwnd.h	/^char* Wnd :: CreateLWriteBox(char* txt, bool hidden = false, int max_len = LONG_TXT, int xx = 300, int yy = 120)$/;"	f	class:Wnd
+CreateMBoxChild	xmwnd.h	/^void Wnd :: CreateMBoxChild(char* text, int bbb = MB_OK, int x = 300, int y = 250, int bx = DEFAULT, int by = DEFAULT)$/;"	f	class:Wnd
+CreateOKButton	xmwnd.h	/^void Wnd :: CreateOKButton(int xx, int yy)$/;"	f	class:Wnd
+CreateOtherButton	xmwnd.h	/^void Wnd :: CreateOtherButton(int xx, int yy, int bbb)$/;"	f	class:Wnd
+CreatePaletteChild	xmwnd.h	/^ulong Wnd :: CreatePaletteChild()$/;"	f	class:Wnd
+CreateRPG	game.c	/^int CreateRPG(char* name, bool ab_new = false)$/;"	f
+CreateScrl	xmwnd.h	/^void Wnd :: CreateScrl(int num, int xx, int yy, void (*f)(Wnd&, void*),bool def = false,int slen = 128, int max_len = 20, void* add_data = NULL)$/;"	f	class:Wnd
+CreateWriteBox	xmwnd.h	/^char* Wnd :: CreateWriteBox(char* txt, bool hidden = false, int max_len = TINY_TXT, int xx = 300, int yy = 120)$/;"	f	class:Wnd
+CreateYesNoChild	xmwnd.h	/^int Wnd :: CreateYesNoChild(char* txt, int sel = 0, int xx = 300, int yy = 250, int b1x = DEFAULT, int b1y = DEFAULT, int b2x = DEFAULT, int b2y = DEFAULT)$/;"	f	class:Wnd
+CutStr	mh.h	/^void CutStr(char*& str, int pref)$/;"	f
+D	xmwnd.h	/^typedef double D;$/;"	t
+DANE_POSTACI	dbase.h	23;"	d
+DATA	dbase.h	/^DATA :: DATA()$/;"	f	class:DATA
+DATA	dbase.h	/^struct DATA$/;"	s
+DEFAULT	xmwnd.h	36;"	d
+DEV_NULL	mran.h	46;"	d
+DIFF	dbase.h	16;"	d
+DIR_EXEC	dbase.h	38;"	d
+DataBaseFunc	game.c	/^void DataBaseFunc(Wnd& wnd, void* ptr)$/;"	f
+DeclareResponseTable	xmwnd.h	/^void Wnd :: DeclareResponseTable(long int par)  \/\/decalare which parts of DefaultResponse() activate$/;"	f	class:Wnd
+DecompressData	mh.h	/^void DecompressData(char* data)$/;"	f
+DefaultCheckBox	xmwnd.h	/^void Wnd :: DefaultCheckBox(char** data, int line, int scroll)$/;"	f	class:Wnd
+DefaultResponse	xmwnd.h	/^void* Wnd :: DefaultResponse()             \/\/Default Proc function (must be called manually by user$/;"	f	class:Wnd
+DefaultReturn	xmwnd.h	/^void* Unused :: DefaultReturn() const$/;"	f	class:Unused
+DefaultValues	game.c	/^void DefaultValues()$/;"	f
+DefaultWriteBox	xmwnd.h	/^void Wnd :: DefaultWriteBox(int len)                    \/\/occupies down-part of the Window$/;"	f	class:Wnd
+DelAllItemFunc	game.c	/^void DelAllItemFunc(Wnd& wnd, void* ptr)$/;"	f
+DelAllProfFunc	game.c	/^void DelAllProfFunc(Wnd& wnd, void* ptr)$/;"	f
+DelAllRaceFunc	game.c	/^void DelAllRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+DelAllSpellFunc	game.c	/^void DelAllSpellFunc(Wnd& wnd, void* ptr)$/;"	f
+DelGraph	xmwnd.h	/^void Wnd :: DelGraph()$/;"	f	class:Wnd
+DelItemFunc	game.c	/^void DelItemFunc(Wnd& wnd, void* ptr)$/;"	f
+DelLastItem	game.c	/^void DelLastItem(Wnd& wnd, void* ptr)$/;"	f
+DelLastProf	game.c	/^void DelLastProf(Wnd& wnd, void* ptr)$/;"	f
+DelLastRace	game.c	/^void DelLastRace(Wnd& wnd, void* ptr)$/;"	f
+DelLastSkill	game.c	/^void DelLastSkill(Wnd& wnd, void* ptr)$/;"	f
+DelLastSpell	game.c	/^void DelLastSpell(Wnd& wnd, void* ptr)$/;"	f
+DelPostLastEkw	game.c	/^void DelPostLastEkw(Wnd& wnd, void* far_ptr)$/;"	f
+DelProfFunc	game.c	/^void DelProfFunc(Wnd& wnd, void* ptr)$/;"	f
+DelRaceFunc	game.c	/^void DelRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+DelSkillFunc	game.c	/^void DelSkillFunc(Wnd& wnd, void* ptr)$/;"	f
+DelSpellFunc	game.c	/^void DelSpellFunc(Wnd& wnd, void* ptr)$/;"	f
+DeletePostEkwFunc	game.c	/^void DeletePostEkwFunc(Wnd& wnd, void* far_ptr)$/;"	f
+DeleteWndText	xmwnd.h	/^void Wnd :: DeleteWndText()$/;"	f	class:Wnd
+DenyResizeFunc	xmwnd.h	/^void DenyResizeFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+DisableButtonPressFunc	xmwnd.h	/^void Wnd :: DisableButtonPressFunc()    { out("wnd::disablebuttonpressfunc");this->ButtonPressFunc = NULL;   }$/;"	f	class:Wnd
+DisableButtonPressXFunc	xmwnd.h	/^void Wnd :: DisableButtonPressXFunc()   { out("wnd::disablebuttonpressxfunc");this->ButtonPressXFunc = NULL;  }$/;"	f	class:Wnd
+DisableButtonReleaseFunc	xmwnd.h	/^void Wnd :: DisableButtonReleaseFunc()  { out("wnd::disablebuttonreleasefunc");this->ButtonReleaseFunc = NULL; }$/;"	f	class:Wnd
+DisableButtonReleaseXFunc	xmwnd.h	/^void Wnd :: DisableButtonReleaseXFunc() { out("wnd::disablebuttonreleasexfunc");this->ButtonReleaseXFunc = NULL;}$/;"	f	class:Wnd
+DisableConfigureFunc	xmwnd.h	/^void Wnd :: DisableConfigureFunc()      { out("wnd::disableconfigurefunc");this->ConfigureFunc = NULL;     }$/;"	f	class:Wnd
+DisableConfigureXFunc	xmwnd.h	/^void Wnd :: DisableConfigureXFunc()     { out("wnd::disableconfigurexfunc");this->ConfigureXFunc = NULL;     }$/;"	f	class:Wnd
+DisableExposeFunc	xmwnd.h	/^void Wnd :: DisableExposeFunc()         { out("wnd::disableexposefunc");this->ExposeFunc = NULL;        }$/;"	f	class:Wnd
+DisableExposeXFunc	xmwnd.h	/^void Wnd :: DisableExposeXFunc()        { out("wnd::disableexposexfunc");this->ExposeXFunc = NULL;        }$/;"	f	class:Wnd
+DisableKeyPressFunc	xmwnd.h	/^void Wnd :: DisableKeyPressFunc()       { out("wnd::disablekeypressfunc");this->KeyPressFunc = NULL;      }$/;"	f	class:Wnd
+DisableKeyPressXFunc	xmwnd.h	/^void Wnd :: DisableKeyPressXFunc()      { out("wnd::disablekeypressxfunc");this->KeyPressXFunc = NULL;     }$/;"	f	class:Wnd
+DisableKeyReleaseFunc	xmwnd.h	/^void Wnd :: DisableKeyReleaseFunc()     { out("wnd::disablekeyreleasefunc");this->KeyReleaseFunc = NULL;    }$/;"	f	class:Wnd
+DisableKeyReleaseXFunc	xmwnd.h	/^void Wnd :: DisableKeyReleaseXFunc()    { out("wnd::disablekeyreleasexfunc");this->KeyReleaseXFunc = NULL;   }$/;"	f	class:Wnd
+DisableMotionNotifyFunc	xmwnd.h	/^void Wnd :: DisableMotionNotifyFunc()   { out("wnd::disablemotionnotifyfunc");this->MotionNotifyFunc = NULL;  }$/;"	f	class:Wnd
+DisableMotionNotifyXFunc	xmwnd.h	/^void Wnd :: DisableMotionNotifyXFunc()  { out("wnd::disablemotionnotifyxfunc");this->MotionNotifyXFunc = NULL;  }$/;"	f	class:Wnd
+DisableOtherEventFunc	xmwnd.h	/^void Wnd :: DisableOtherEventFunc()     { out("wnd::disableothereventfunc");this->OtherEventFunc = NULL;    }$/;"	f	class:Wnd
+DispatchExistingProf	game.c	/^int DispatchExistingProf(Wnd& wnd)$/;"	f
+DispatchExistingRace	game.c	/^int DispatchExistingRace(Wnd& wnd)$/;"	f
+DisplayChar	game.c	/^bool DisplayChar(char* nname)$/;"	f
+DisplayCharPict	game.c	/^void DisplayCharPict(Wnd& wnd, void* ptr)$/;"	f
+DoQuit	xmwnd.h	/^void    Wnd :: DoQuit()$/;"	f	class:Wnd
+DownCheckBox	xmwnd.h	/^void Wnd :: DownCheckBox()       { out("wnd::downcheckbox");if (cbox) cbox->DownScroll();}  \/\/BRIDGED CLASS FUNCTIONS$/;"	f	class:Wnd
+DownScroll	xmwnd.h	/^void CheckBox :: DownScroll()$/;"	f	class:CheckBox
+DownTenCheckBox	xmwnd.h	/^void Wnd :: DownTenCheckBox()    { out("wnd::down10checkbox");if (cbox) cbox->DownTenScroll();}$/;"	f	class:Wnd
+DownTenScroll	xmwnd.h	/^void CheckBox :: DownTenScroll()$/;"	f	class:CheckBox
+Draw	game.c	/^void Draw(char* par)$/;"	f
+DrawBtn	xmwnd.h	/^void Wnd :: DrawBtn(int num)$/;"	f	class:Wnd
+DrawButtons	xmwnd.h	/^void Wnd :: DrawButtons()$/;"	f	class:Wnd
+DrawCheckBox	xmwnd.h	/^void Wnd :: DrawCheckBox()$/;"	f	class:Wnd
+DrawClipArea	xmwnd.h	/^void Wnd :: DrawClipArea()$/;"	f	class:Wnd
+DrawFadedScrl	xmwnd.h	/^void Wnd :: DrawFadedScrl(int num)$/;"	f	class:Wnd
+DrawFrame	mgraph.h	/^void DrawFrame(Display* dsp, Window& win, ulong col, GC& gc, long fade, int thin, int sx, int ex, int sy, int ey)$/;"	f
+DrawHalfFrame	mgraph.h	/^void DrawHalfFrame(Display* dsp, Window& win, ulong col, GC& gc, long fade, int thin, int sx, int ex, int sy, int ey, bool upper)$/;"	f
+DrawLineTo	xmwnd.h	/^inline void Wnd :: DrawLineTo(int nx, int ny, ulong col)$/;"	f	class:Wnd
+DrawLinesOnWindowFunc	xmwnd.h	/^void DrawLinesOnWindowFunc(Wnd& wnd, int drag, int x, int y, void* far_ptr)$/;"	f
+DrawMovedLine	xmwnd.h	/^void Wnd :: DrawMovedLine(int nx, int ny, ulong col, int mx, int my)$/;"	f	class:Wnd
+DrawOnWindowFunc	xmwnd.h	/^void DrawOnWindowFunc(Wnd& wnd, int drag, int x, int y, void* far_ptr)$/;"	f
+DrawPaletteColor	xmwnd.h	/^void Wnd :: DrawPaletteColor()$/;"	f	class:Wnd
+DrawPost	game.c	/^void DrawPost(Wnd& wnd, void* ptr)$/;"	f
+DrawScrl	xmwnd.h	/^void Wnd ::DrawScrl(int num)$/;"	f	class:Wnd
+DrawScrolls	xmwnd.h	/^void Wnd :: DrawScrolls()$/;"	f	class:Wnd
+DrawWBox	xmwnd.h	/^void Wnd :: DrawWBox()$/;"	f	class:Wnd
+DrawWindow	xmwnd.h	/^void Wnd :: DrawWindow()$/;"	f	class:Wnd
+DrawWndPixel	xmwnd.h	/^void Wnd :: DrawWndPixel(ulong col, int x, int y)$/;"	f	class:Wnd
+Dsp	xmwnd.h	/^Dsp :: Dsp()              \/\/this is the GREAT dsp-constructor$/;"	f	class:Dsp
+Dsp	xmwnd.h	/^class Dsp                          \/\/very important class Wnd deriveres from it Display$/;"	c
+ENTER	mh.h	30;"	d
+ESCAPE	mh.h	31;"	d
+EV_BPRESS	xmwnd.h	49;"	d
+EV_BPRESSX	xmwnd.h	51;"	d
+EV_BRELEASE	xmwnd.h	50;"	d
+EV_BRELEASEX	xmwnd.h	52;"	d
+EV_CONFIG	xmwnd.h	46;"	d
+EV_CONFIGX	xmwnd.h	48;"	d
+EV_EXPOSE	xmwnd.h	45;"	d
+EV_EXPOSEX	xmwnd.h	47;"	d
+EV_KPRESS	xmwnd.h	55;"	d
+EV_KPRESSX	xmwnd.h	57;"	d
+EV_KRELEASE	xmwnd.h	56;"	d
+EV_KRELEASEX	xmwnd.h	58;"	d
+EV_MOTION	xmwnd.h	53;"	d
+EV_MOTIONX	xmwnd.h	54;"	d
+EV_OTHER	xmwnd.h	59;"	d
+EV_PARENTCALL	xmwnd.h	60;"	d
+EV_PROC	xmwnd.h	43;"	d
+EV_SETUP	xmwnd.h	44;"	d
+EXISTS	mh.h	24;"	d
+EdItemNumFunc	game.c	/^void EdItemNumFunc(Wnd& wnd, void* ptr)$/;"	f
+EdItemsFunc	game.c	/^void EdItemsFunc(Wnd& wnd, void* ptr)$/;"	f
+EdModProfFunc	game.c	/^void EdModProfFunc(Wnd& wnd, void* ptr)$/;"	f
+EdModRaceFunc	game.c	/^void EdModRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+EdNameProfFunc	game.c	/^void EdNameProfFunc(Wnd& wnd, void* ptr)$/;"	f
+EdNameRaceFunc	game.c	/^void EdNameRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+EdProfFunc	game.c	/^void EdProfFunc(Wnd& wnd, void* ptr)$/;"	f
+EdRaceFunc	game.c	/^void EdRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+EdSkillFunc	game.c	/^void EdSkillFunc(Wnd& wnd, void* ptr)$/;"	f
+EdSpellFunc	game.c	/^void EdSpellFunc(Wnd& wnd, void* ptr)$/;"	f
+EditAttrFunc	game.c	/^void EditAttrFunc(Wnd& wnd, void* ptr)$/;"	f
+EditCashFunc	game.c	/^void EditCashFunc(Wnd& wnd, void* far_ptr)$/;"	f
+EditCategFunc	game.c	/^void EditCategFunc(Wnd& wnd, void* ptr)$/;"	f
+EditCharFunc	game.c	/^void EditCharFunc(Wnd& wnd, void* ptr)$/;"	f
+EditFunc	game.c	/^void EditFunc(Wnd& wnd, void* ptr)$/;"	f
+EditGenderField	game.c	/^void EditGenderField(Wnd& wnd, void* ptr)$/;"	f
+EditLevelsFunc	game.c	/^void EditLevelsFunc(Wnd& wnd, void* ptr)$/;"	f
+EditProfField	game.c	/^void EditProfField(Wnd& wnd, void* ptr)$/;"	f
+EditProfsFunc	game.c	/^void EditProfsFunc(Wnd& wnd, void* ptr)$/;"	f
+EditRaceField	game.c	/^void EditRaceField(Wnd& wnd, void* ptr)$/;"	f
+EditRacesFunc	game.c	/^void EditRacesFunc(Wnd& wnd, void* ptr)$/;"	f
+EditSkillsFunc	game.c	/^void EditSkillsFunc(Wnd& wnd, void* ptr)$/;"	f
+EditSpellsFunc	game.c	/^void EditSpellsFunc(Wnd& wnd, void* ptr)$/;"	f
+EnableFrames	xmwnd.h	/^void Wnd :: EnableFrames(bool par)$/;"	f	class:Wnd
+EnableGraph	xmwnd.h	/^void Wnd :: EnableGraph(bool par, bool clean = true)$/;"	f	class:Wnd
+EnablePalette	xmwnd.h	/^void Wnd :: EnablePalette(bool par)$/;"	f	class:Wnd
+EnableText	xmwnd.h	/^void Wnd :: EnableText(bool e)$/;"	f	class:Wnd
+EnterGModifier	game.c	/^void EnterGModifier(Wnd& wnd, void* ptr)$/;"	f
+EnterOwnModifier	game.c	/^void EnterOwnModifier(Wnd& wnd, void* ptr)$/;"	f
+EnterProfModifier	game.c	/^void EnterProfModifier(Wnd& wnd, void* ptr)$/;"	f
+EnterRaceModifier	game.c	/^void EnterRaceModifier(Wnd& wnd, void* ptr)$/;"	f
+EraseCharFunc	game.c	/^void EraseCharFunc(Wnd& wnd, void* ptr)$/;"	f
+EraseFunc	game.c	/^void EraseFunc(Wnd& wnd, void* ptr)$/;"	f
+ExposeFunc	xmwnd.h	/^ void (*ExposeFunc)(Wnd&, void*);                        \/\/addresses of functions which are called by DefaultResponse when non-NULL$/;"	m	class:Wnd
+ExposeXFunc	xmwnd.h	/^ void (*ExposeXFunc)(Wnd&, void*);                        \/\/addresses of functions which are called by DefaultResponse when non-NULL$/;"	m	class:Wnd
+FALSE	dbase.h	11;"	d
+FALSE	mh.h	21;"	d
+FFastSave	game.c	/^void FFastSave(Wnd& wnd, void* ptr)$/;"	f
+FSaveBase	game.c	/^void FSaveBase(Wnd& wnd, void* ptr)$/;"	f
+FSort	mh.h	/^void FSort(char** table, int num)$/;"	f
+FSwap	mh.h	/^void FSwap(int i, int j, char** table)$/;"	f
+FadeClip	xmwnd.h	/^void Wnd :: FadeClip() \/\/ puts black rectangles onto text!$/;"	f	class:Wnd
+FadeScroll	xmwnd.h	/^void Wnd :: FadeScroll(int num)$/;"	f	class:Wnd
+FastLoad	game.c	/^int FastLoad(Wnd& wnd)$/;"	f
+FastSave	game.c	/^int FastSave(Wnd& wnd)$/;"	f
+ForceUnmap	xmwnd.h	/^void Wnd :: ForceUnmap()$/;"	f	class:Wnd
+FromBinary	mh.h	/^void FromBinary(FILE* in, FILE* out)$/;"	f
+GET_T	mh.h	/^static int GET_T = CHECKED;$/;"	v
+GenderEdit	game.c	/^void GenderEdit(Wnd& wnd, void* ptr)$/;"	f
+GenerateHTML	game.c	/^void GenerateHTML(Wnd& wnd, void* ptr)$/;"	f
+GetPosFromArea	xmwnd.h	/^void Scroll :: GetPosFromArea(int ar)$/;"	f	class:Scroll
+GetStrType	mh.h	/^void GetStrType(int par)$/;"	f
+HIDDEN	dbase.h	50;"	d
+HaveCheckBox	xmwnd.h	/^bool Wnd :: HaveCheckBox() const$/;"	f	class:Wnd
+HaveClipArea	xmwnd.h	/^bool Wnd :: HaveClipArea() const$/;"	f	class:Wnd
+HaveFrames	xmwnd.h	/^bool Wnd :: HaveFrames() const$/;"	f	class:Wnd
+HaveGraph	xmwnd.h	/^bool Wnd :: HaveGraph() const$/;"	f	class:Wnd
+HavePalette	xmwnd.h	/^bool Wnd :: HavePalette() const$/;"	f	class:Wnd
+HaveScroll	xmwnd.h	/^bool Wnd :: HaveScroll() const$/;"	f	class:Wnd
+HaveText	xmwnd.h	/^bool Wbox :: HaveText() const$/;"	f	class:Wbox
+HiddenWriteBox	xmwnd.h	/^void Wnd :: HiddenWriteBox(int len)                    \/\/occupies down-part of the Window$/;"	f	class:Wnd
+HugeCheckBox	xmwnd.h	/^void Wnd :: HugeCheckBox(char** data, int line, int scroll)$/;"	f	class:Wnd
+IMIE	dbase.h	24;"	d
+INT_PTR	xmwnd.h	32;"	d
+INVALID_KEY	mh.h	33;"	d
+ImprDrag	xmwnd.h	/^void    Wnd :: ImprDrag(int d)$/;"	f	class:Wnd
+ImproveAttrFunc	game.c	/^void ImproveAttrFunc(Wnd& wnd, void* far_ptr)$/;"	f
+ImproveSkillFunc	game.c	/^void ImproveSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+Init_event_ptr	xmwnd.h	/^void Wnd :: Init_event_ptr()$/;"	f	class:Wnd
+IntPtrReturn	xmwnd.h	/^void Wnd :: IntPtrReturn()           \/\/analogical for Int value cast (int) -> (void*) and then user$/;"	f	class:Wnd
+Invalidate	xmwnd.h	/^void Wnd :: Invalidate()$/;"	f	class:Wnd
+IsDead	dbase.h	/^ int IsDead;$/;"	m	struct:RPG
+KEYB_RESPONSES	xmwnd.h	18;"	d
+KEY_DOWN	xmwnd.h	70;"	d
+KEY_END	xmwnd.h	66;"	d
+KEY_HOME	xmwnd.h	65;"	d
+KEY_LEFT	xmwnd.h	67;"	d
+KEY_PGDOWN	xmwnd.h	64;"	d
+KEY_PGUP	xmwnd.h	63;"	d
+KEY_RIGHT	xmwnd.h	68;"	d
+KEY_TAB	xmwnd.h	71;"	d
+KEY_UP	xmwnd.h	69;"	d
+KeyPressClipControl	xmwnd.h	/^void KeyPressClipControl(Wnd& wnd, ulong code, void* ptr)$/;"	f
+KeyPressFunc	xmwnd.h	/^ void (*KeyPressFunc)(Wnd&, ulong, void*);$/;"	m	class:Wnd
+KeyPressXFunc	xmwnd.h	/^ void (*KeyPressXFunc)(Wnd&, ulong, void*);$/;"	m	class:Wnd
+KeyReleaseFunc	xmwnd.h	/^ void (*KeyReleaseFunc)(Wnd&, ulong, void*);$/;"	m	class:Wnd
+KeyReleaseXFunc	xmwnd.h	/^ void (*KeyReleaseXFunc)(Wnd&, ulong, void*);$/;"	m	class:Wnd
+Kill_event_ptr	xmwnd.h	/^void Wnd :: Kill_event_ptr()$/;"	f	class:Wnd
+LEAVE	xmwnd.h	34;"	d
+LESS_RESPONSES	xmwnd.h	16;"	d
+LONG_STR	xmwnd.h	29;"	d
+LONG_TXT	xmwnd.h	28;"	d
+LoadBase	game.c	/^int LoadBase(Wnd& wnd)$/;"	f
+LoadChar	game.c	/^int LoadChar(FILE* plik, Wnd& wnd)$/;"	f
+LoadCharPicture	game.c	/^int LoadCharPicture(Wnd& wnd, void* ptr, bool display = true)$/;"	f
+LoadDB	game.c	/^int LoadDB(char* name, Wnd& wnd)$/;"	f
+LoadDBFromFile	game.c	/^void LoadDBFromFile(DATA* db,FILE* plik, char* bnm, Wnd& w)$/;"	f
+LoadFunc	game.c	/^void LoadFunc(Wnd& wnd, void* ptr)$/;"	f
+LoadPost	game.c	/^int LoadPost(Wnd& wnd)$/;"	f
+LoadPostNoA	game.c	/^int LoadPostNoA(Wnd& wnd)$/;"	f
+MAGIC	dbase.h	18;"	d
+MAX_ATT	dbase.h	7;"	d
+MAX_CATEG	dbase.h	19;"	d
+MAX_EKW	dbase.h	21;"	d
+MAX_EKW_P	dbase.h	22;"	d
+MAX_LEVELS	dbase.h	20;"	d
+MAX_LEV_S	dbase.h	39;"	d
+MAX_SKI	dbase.h	12;"	d
+MAX_SP	dbase.h	47;"	d
+MAX_SPELL	dbase.h	40;"	d
+MAX_TYPE	dbase.h	9;"	d
+MAX_UM	dbase.h	36;"	d
+MB_CANCEL	xmwnd.h	23;"	d
+MB_NO	xmwnd.h	22;"	d
+MB_OK	xmwnd.h	20;"	d
+MB_RETRY	xmwnd.h	24;"	d
+MB_YES	xmwnd.h	21;"	d
+MEDIUM_TXT	xmwnd.h	26;"	d
+MEDI_RESPONSES	xmwnd.h	17;"	d
+MEDSTR	dbase.h	42;"	d
+MOC	dbase.h	/^ int MOC;$/;"	m	struct:RPG
+MOD	dbase.h	15;"	d
+MOST_RESPONSES	xmwnd.h	15;"	d
+MULTIPLE	dbase.h	13;"	d
+MainDataFunc	game.c	/^void MainDataFunc(Wnd& wnd, void* ptr)$/;"	f
+Main_Game	game.c	/^void Main_Game()$/;"	f
+MakeClipFromWindowText	xmwnd.h	/^void Wnd :: MakeClipFromWindowText(int sx, int sy, int ex, int ey)$/;"	f	class:Wnd
+ModAttFunc	game.c	/^void ModAttFunc(Wnd& wnd, void* far_ptr)$/;"	f
+ModColor	xmwnd.h	/^void Wnd :: ModColor(int r, int g, int b)$/;"	f	class:Wnd
+MotionNotifyFunc	xmwnd.h	/^ void (*MotionNotifyFunc)(Wnd&, int, int, int, void*);     \/\/ eXtendedButtonPress or eXtendedButtonRelease$/;"	m	class:Wnd
+MotionNotifyXFunc	xmwnd.h	/^ void (*MotionNotifyXFunc)(Wnd&, int, int, int, void*);$/;"	m	class:Wnd
+MoveDefScroll	xmwnd.h	/^void Wnd :: MoveDefScroll(int par)$/;"	f	class:Wnd
+MoveDown	xmwnd.h	/^void ClipArea :: MoveDown(int a=1)$/;"	f	class:ClipArea
+MoveLeft	xmwnd.h	/^void ClipArea :: MoveLeft(int a=1)$/;"	f	class:ClipArea
+MoveRight	xmwnd.h	/^void ClipArea :: MoveRight(int a=1)$/;"	f	class:ClipArea
+MoveUp	xmwnd.h	/^void ClipArea :: MoveUp(int a=1)$/;"	f	class:ClipArea
+MyDrawLine	xmwnd.h	/^void MyDrawLine(Display* dsp, Window& win, GC& gc, Wnd* wnd, int sx, int sy, int ex, int ey, ulong col)$/;"	f
+NAZWISKO	dbase.h	25;"	d
+NORMAL	mh.h	27;"	d
+NO_EXISTS	mh.h	25;"	d
+NO_ID	xmwnd.h	38;"	d
+NUM_EVENTS	xmwnd.h	42;"	d
+NU_FUNC	xmwnd.h	41;"	d
+NextDefault	xmwnd.h	/^void Wnd :: NextDefault()   \/\/select next button (not CLICK but SELECT)$/;"	f	class:Wnd
+NoEDenyResizeFunc	xmwnd.h	/^void NoEDenyResizeFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+NoResizeDrawWFunc	xmwnd.h	/^void NoResizeDrawWFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+NoWDrawConfigureFunc	xmwnd.h	/^void NoWDrawConfigureFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+NoWDrawExposeFunc	xmwnd.h	/^void NoWDrawExposeFunc(Wnd& wnd, void* ptr)$/;"	f
+OCZY	dbase.h	29;"	d
+OK	mh.h	20;"	d
+OS	mh.h	23;"	d
+OtherAttrFunc	game.c	/^void OtherAttrFunc(Wnd& wnd, void* ptr)$/;"	f
+OtherEventFunc	xmwnd.h	/^ void (*OtherEventFunc)(Wnd&, void*);$/;"	m	class:Wnd
+OwnProfFunc	game.c	/^void OwnProfFunc(Wnd& wnd, void* ptr)$/;"	f
+OwnRaceFunc	game.c	/^void OwnRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+OwnSkillFunc	game.c	/^void OwnSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+OwnSkillPD0Func	game.c	/^void OwnSkillPD0Func(Wnd& wnd, void* far_ptr)$/;"	f
+OwnSkillPDFunc	game.c	/^void OwnSkillPDFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PD	dbase.h	/^ int PD;$/;"	m	struct:RPG
+PDFunc	game.c	/^void PDFunc(Wnd& wnd, void* ptr)$/;"	f
+PDKillFunc	game.c	/^void PDKillFunc(Wnd& wnd, void* ptr)$/;"	f
+PLEC	dbase.h	34;"	d
+PMAttFunc	game.c	/^void PMAttFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PREDATE	xmwnd.h	30;"	d
+PROFESJA	dbase.h	27;"	d
+PalButtonPress	xmwnd.h	/^void PalButtonPress(Wnd& wnd, int key_n, int x, int y, void* ptr)$/;"	f
+PalButtonRelease	xmwnd.h	/^void PalButtonRelease(Wnd& wnd, int key_n, int x, int y, void* ptr)$/;"	f
+PalDenyResizeFunc	xmwnd.h	/^void PalDenyResizeFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+PalExposeFunc	xmwnd.h	/^void PalExposeFunc(Wnd& wnd, void* ptr)$/;"	f
+PalKeyRelease	xmwnd.h	/^void PalKeyRelease(Wnd& wnd, ulong code, void* ptr)$/;"	f
+PalMotionNotifyFunc	xmwnd.h	/^void PalMotionNotifyFunc(Wnd& wnd, int bt, int x, int y, void* ptr)$/;"	f
+PaletteExposeInfo	xmwnd.h	/^void PaletteExposeInfo(Wnd& wnd, void* ptr)$/;"	f
+PaletteFunc	game.c	/^void PaletteFunc(Wnd& wnd, void* ptr)$/;"	f
+ParentCallFunc	xmwnd.h	/^void Wnd :: ParentCallFunc(void (*external)(Wnd&, void*))$/;"	f	class:Wnd
+PostAddSkillCFunc	game.c	/^void PostAddSkillCFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostAddSkillFunc	game.c	/^void PostAddSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostAddSkillPD0Func	game.c	/^void PostAddSkillPD0Func(Wnd& wnd, void* far_ptr)$/;"	f
+PostAddSkillPDFunc	game.c	/^void PostAddSkillPDFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostAddSpellFunc	game.c	/^void PostAddSpellFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostDataFunc	game.c	/^void PostDataFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostDelLastSkillFunc	game.c	/^void PostDelLastSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostDelSkillFunc	game.c	/^void PostDelSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostDelSkillPDFunc	game.c	/^void PostDelSkillPDFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostDelSpellFunc	game.c	/^void PostDelSpellFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostEkwFunc	game.c	/^void PostEkwFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostGenHTMLFunc	game.c	/^void PostGenHTMLFunc(Wnd& wnd, void* ptr)$/;"	f
+PostGenderFunc	game.c	/^void PostGenderFunc(Wnd& wnd, void* ptr)$/;"	f
+PostMan	game.c	/^void PostMan(Wnd& w, void* for_the_glory_of_UNIX)$/;"	f
+PostModFunc	game.c	/^void PostModFunc(Wnd& wnd, void* for_the_glory_of_UNIX)$/;"	f
+PostModSkillFunc	game.c	/^void PostModSkillFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostProfFunc	game.c	/^void PostProfFunc(Wnd& wnd, void* ptr)$/;"	f
+PostRaceFunc	game.c	/^void PostRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+PostSkillFunc	game.c	/^void PostSkillFunc(Wnd& wnd, void* pyr)$/;"	f
+PostSpellFunc	game.c	/^void PostSpellFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostSpellPDFunc	game.c	/^void PostSpellPDFunc(Wnd& wnd, void* far_ptr)$/;"	f
+PostWoman	game.c	/^void PostWoman(Wnd& w, void* for_the_glory_of_UNIX)$/;"	f
+PrepareVoidReturn	xmwnd.h	/^void PrepareVoidReturn(Wnd& wnd, void* ptr)$/;"	f
+PrepareWndText	xmwnd.h	/^void Wnd :: PrepareWndText(char* txt, int nolets = LEAVE)  \/\/cut char* int parts of char**$/;"	f	class:Wnd
+PrevDefault	xmwnd.h	/^void Wnd :: PrevDefault()   \/\/select previous button (not CLICK but SELECT)$/;"	f	class:Wnd
+ProcFunc	xmwnd.h	/^ void* (*ProcFunc)(Wnd&, void*);                         \/\/functions ending on "XFunc" are called inside default$/;"	m	class:Wnd
+Protection	game.c	/^void Protection(int check, DATA* db, FILE* plik, Wnd& wnd)$/;"	f
+Protection	game.c	/^void Protection(int check, RPG* post,FILE* plik, Wnd& wnd)$/;"	f
+Q_MINUS	xmwnd.h	40;"	d
+Q_PLUS	xmwnd.h	39;"	d
+RASA	dbase.h	26;"	d
+REMOVE	xmwnd.h	35;"	d
+REQ	dbase.h	46;"	d
+RGB	xmwnd.h	/^inline unsigned long RGB(int r, int g, int b)  \/\/return color from R,G,B (this is version for 24-bit color display)$/;"	f
+RGB	xmwnd.h	/^unsigned long RGB(D rd, D gd, D bd)      \/\/the same but converts from double$/;"	f
+RPG	dbase.h	/^RPG :: RPG()$/;"	f	class:RPG
+RPG	dbase.h	/^struct RPG$/;"	s
+RandomAttFunc	game.c	/^void RandomAttFunc(Wnd& wnd, void* ptr)$/;"	f
+ReactOnKey	xmwnd.h	/^void Wbox :: ReactOnKey(int key)     \/\/main react function$/;"	f	class:Wbox
+ReadFolderToTable	game.c	/^char** ReadFolderToTable(int& n, char* kat)$/;"	f
+RealMM	game.c	/^void RealMM(RPG* post)$/;"	f
+RecountAll	game.c	/^void RecountAll()$/;"	f
+RecountSkills	game.c	/^void RecountSkills()$/;"	f
+RetBtn	xmwnd.h	/^Button*      Wnd :: RetBtn(int i)  const$/;"	f	class:Wnd
+RetBtnName	xmwnd.h	/^char* Wnd :: RetBtnName(int num) const$/;"	f	class:Wnd
+RetCCharsX	xmwnd.h	/^int ClipArea :: RetCCharsX() const$/;"	f	class:ClipArea
+RetCCharsY	xmwnd.h	/^int ClipArea :: RetCCharsY() const$/;"	f	class:ClipArea
+RetCaption	xmwnd.h	/^char*        Wnd :: RetCaption()   const$/;"	f	class:Wnd
+RetCharsX	xmwnd.h	/^int ClipArea :: RetCharsX() const$/;"	f	class:ClipArea
+RetCharsY	xmwnd.h	/^int ClipArea :: RetCharsY() const$/;"	f	class:ClipArea
+RetClientX	xmwnd.h	/^int      Dsp :: RetClientX() const$/;"	f	class:Dsp
+RetClientY	xmwnd.h	/^int      Dsp :: RetClientY() const$/;"	f	class:Dsp
+RetClipArea	xmwnd.h	/^ClipArea* Wnd :: RetClipArea() const$/;"	f	class:Wnd
+RetClipText	xmwnd.h	/^char** ClipArea :: RetClipText() const$/;"	f	class:ClipArea
+RetClippedText	xmwnd.h	/^char** ClipArea :: RetClippedText() const$/;"	f	class:ClipArea
+RetCurColor	xmwnd.h	/^ulong Wnd :: RetCurColor() const$/;"	f	class:Wnd
+RetCx	xmwnd.h	/^int          Wnd :: RetCx()        const$/;"	f	class:Wnd
+RetCy	xmwnd.h	/^int          Wnd :: RetCy()        const$/;"	f	class:Wnd
+RetDisp	xmwnd.h	/^Display*     Wnd :: RetDisp()      const$/;"	f	class:Wnd
+RetDrag	xmwnd.h	/^int          Wnd :: RetDrag()      const$/;"	f	class:Wnd
+RetDsp	xmwnd.h	/^Display* Dsp :: RetDsp()     const$/;"	f	class:Dsp
+RetDspStr	xmwnd.h	/^Dsp*         Wnd :: RetDspStr()    const$/;"	f	class:Wnd
+RetDta	xmwnd.h	/^Unused*      Wnd :: RetDta()       const$/;"	f	class:Wnd
+RetEvent	xmwnd.h	/^XEvent       Wnd :: RetEvent()     const  { out("Wnd::RetEvent ==>");return this->event;      }  \/\/Std Ret functions$/;"	f	class:Wnd
+RetEventData	xmwnd.h	/^void* Wnd :: RetEventData(int ev_num) const$/;"	f	class:Wnd
+RetEx	xmwnd.h	/^int   Button :: RetEx()   const$/;"	f	class:Button
+RetEx	xmwnd.h	/^int ClipArea :: RetEx() const$/;"	f	class:ClipArea
+RetEx	xmwnd.h	/^int Wbox :: RetEx()  const$/;"	f	class:Wbox
+RetEy	xmwnd.h	/^int   Button :: RetEy()   const$/;"	f	class:Button
+RetEy	xmwnd.h	/^int ClipArea :: RetEy() const$/;"	f	class:ClipArea
+RetEy	xmwnd.h	/^int Wbox :: RetEy()  const$/;"	f	class:Wbox
+RetFontH	xmwnd.h	/^int          Wnd :: RetFontH()     const$/;"	f	class:Wnd
+RetFontInfo	xmwnd.h	/^XFontStruct* Wnd :: RetFontInfo()  const$/;"	f	class:Wnd
+RetGC	xmwnd.h	/^GC           Wnd :: RetGC()        const$/;"	f	class:Wnd
+RetLen	xmwnd.h	/^int   Scroll :: RetLen()     const$/;"	f	class:Scroll
+RetLines	xmwnd.h	/^int          Wnd :: RetLines()     const$/;"	f	class:Wnd
+RetLx	xmwnd.h	/^int ClipArea :: RetLx() const$/;"	f	class:ClipArea
+RetLy	xmwnd.h	/^int ClipArea :: RetLy() const$/;"	f	class:ClipArea
+RetMaxPos	xmwnd.h	/^int   Scroll :: RetMaxPos()  const$/;"	f	class:Scroll
+RetName	xmwnd.h	/^char* CheckBox :: RetName(int n)  const {out("checkbox::retname(i)");    if ((data) && (data[n])) return data[n]; else {out("warning in checkbox:retname, returning NULL");return NULL;}}$/;"	f	class:CheckBox
+RetNumBtns	xmwnd.h	/^int          Wnd :: RetNumBtns()   const$/;"	f	class:Wnd
+RetNumScrl	xmwnd.h	/^int          Wnd :: RetNumScrl()   const$/;"	f	class:Wnd
+RetOwnNameFunc	xmwnd.h	/^void RetOwnNameFunc(Wnd& wnd, void* ptr)$/;"	f
+RetPartX	xmwnd.h	/^double ClipArea :: RetPartX()$/;"	f	class:ClipArea
+RetPartY	xmwnd.h	/^double ClipArea :: RetPartY()$/;"	f	class:ClipArea
+RetPos	xmwnd.h	/^int   Scroll :: RetPos()     const$/;"	f	class:Scroll
+RetPressed	xmwnd.h	/^int Wnd :: RetPressed() const$/;"	f	class:Wnd
+RetRx	xmwnd.h	/^int          Wnd :: RetRx()        const$/;"	f	class:Wnd
+RetRy	xmwnd.h	/^int          Wnd :: RetRy()        const$/;"	f	class:Wnd
+RetSNum	xmwnd.h	/^int      Dsp :: RetSNum()    const$/;"	f	class:Dsp
+RetScroll	xmwnd.h	/^Scroll* Wnd :: RetScroll(int par)   const$/;"	f	class:Wnd
+RetScrollDown	xmwnd.h	/^int   CheckBox :: RetScrollDown() const$/;"	f	class:CheckBox
+RetScrollPeak	xmwnd.h	/^int   CheckBox :: RetScrollPeak() const$/;"	f	class:CheckBox
+RetSelectedButtonName	xmwnd.h	/^char* Wnd :: RetSelectedButtonName() const$/;"	f	class:Wnd
+RetShiftState	xmwnd.h	/^bool Wbox:: RetShiftState() const$/;"	f	class:Wbox
+RetSx	xmwnd.h	/^int   Button :: RetSx()   const$/;"	f	class:Button
+RetSx	xmwnd.h	/^int   Scroll :: RetSx()      const$/;"	f	class:Scroll
+RetSx	xmwnd.h	/^int ClipArea :: RetSx() const$/;"	f	class:ClipArea
+RetSx	xmwnd.h	/^int Wbox :: RetSx()  const$/;"	f	class:Wbox
+RetSy	xmwnd.h	/^int   Button :: RetSy()   const$/;"	f	class:Button
+RetSy	xmwnd.h	/^int   Scroll :: RetSy()      const$/;"	f	class:Scroll
+RetSy	xmwnd.h	/^int ClipArea :: RetSy() const$/;"	f	class:ClipArea
+RetSy	xmwnd.h	/^int Wbox :: RetSy()  const$/;"	f	class:Wbox
+RetText	xmwnd.h	/^char* Button :: RetText() const$/;"	f	class:Button
+RetText	xmwnd.h	/^char* Wbox :: RetText()   const$/;"	f	class:Wbox
+RetTextLen	xmwnd.h	/^int Wbox :: RetTextLen()   const$/;"	f	class:Wbox
+RetVoid	xmwnd.h	/^void* Button :: RetVoid() const$/;"	f	class:Button
+RetVoid	xmwnd.h	/^void* Scroll :: RetVoid()    const$/;"	f	class:Scroll
+RetWin	xmwnd.h	/^Window       Wnd :: RetWin()       const$/;"	f	class:Wnd
+RetWndPixel	xmwnd.h	/^ulong Wnd :: RetWndPixel(int x, int y) const$/;"	f	class:Wnd
+RetWndText	xmwnd.h	/^char**       Wnd :: RetWndText()   const$/;"	f	class:Wnd
+RetX	xmwnd.h	/^int          Wnd :: RetX()         const$/;"	f	class:Wnd
+RetX	xmwnd.h	/^int      Dsp :: RetX()       const$/;"	f	class:Dsp
+RetX	xmwnd.h	/^int   Button :: RetX()    const$/;"	f	class:Button
+RetX	xmwnd.h	/^int ClipArea :: RetX() const$/;"	f	class:ClipArea
+RetX	xmwnd.h	/^int Wbox :: RetX()  const$/;"	f	class:Wbox
+RetY	xmwnd.h	/^int          Wnd :: RetY()         const$/;"	f	class:Wnd
+RetY	xmwnd.h	/^int      Dsp :: RetY()       const$/;"	f	class:Dsp
+RetY	xmwnd.h	/^int   Button :: RetY()    const$/;"	f	class:Button
+RetY	xmwnd.h	/^int ClipArea :: RetY() const$/;"	f	class:ClipArea
+RetY	xmwnd.h	/^int Wbox :: RetY()  const$/;"	f	class:Wbox
+ReturnBlue	xmwnd.h	/^int ReturnBlue(ulong col)$/;"	f
+ReturnCharPtr	xmwnd.h	/^char*        Wnd :: ReturnCharPtr()const$/;"	f	class:Wnd
+ReturnCharPtr	xmwnd.h	/^char* Unused :: ReturnCharPtr() const$/;"	f	class:Unused
+ReturnCheckBox	xmwnd.h	/^CheckBox*    Wnd :: ReturnCheckBox()const$/;"	f	class:Wnd
+ReturnChild	xmwnd.h	/^Wnd*         Wnd :: ReturnChild()   const$/;"	f	class:Wnd
+ReturnGreen	xmwnd.h	/^int ReturnGreen(ulong col)$/;"	f
+ReturnInt	xmwnd.h	/^int          Wnd :: ReturnInt()    const$/;"	f	class:Wnd
+ReturnInt	xmwnd.h	/^int Unused :: ReturnInt() const$/;"	f	class:Unused
+ReturnParent	xmwnd.h	/^Wnd* Wnd :: ReturnParent() const$/;"	f	class:Wnd
+ReturnRed	xmwnd.h	/^int ReturnRed(ulong col)                    \/\/at this time RetColor only for 24 bit display!$/;"	f
+ReturnVoid	xmwnd.h	/^void*        Wnd :: ReturnVoid()   const$/;"	f	class:Wnd
+ReturnVoid	xmwnd.h	/^void* Unused :: ReturnVoid() const$/;"	f	class:Unused
+ReturnWriteBox	xmwnd.h	/^Wbox*        Wnd :: ReturnWriteBox()const$/;"	f	class:Wnd
+RollAttributes	game.c	/^void RollAttributes(Wnd& wnd, void* far_ptr)$/;"	f
+SECRET	dbase.h	49;"	d
+SHIFT	mh.h	32;"	d
+SHIFT_L	xmwnd.h	61;"	d
+SHIFT_R	xmwnd.h	62;"	d
+SHORT_TXT	xmwnd.h	25;"	d
+SHSTR	dbase.h	41;"	d
+SRANDOM	mran.h	53;"	d
+STRING	mh.h	19;"	d
+S_ATTRIB	dbase.h	6;"	d
+SaradokMM	game.c	/^void SaradokMM()$/;"	f
+SaveBase	game.c	/^int SaveBase(Wnd& wnd)$/;"	f
+SaveChar	game.c	/^void SaveChar(FILE* plik)$/;"	f
+SaveDBToFile	game.c	/^void SaveDBToFile(DATA* db, FILE* plik, char* bnm)$/;"	f
+ScrlDispatchBPressed	xmwnd.h	/^void Wnd :: ScrlDispatchBPressed(int x, int y)$/;"	f	class:Wnd
+ScrlDispatchBReleased	xmwnd.h	/^void Wnd :: ScrlDispatchBReleased()$/;"	f	class:Wnd
+Scroll	xmwnd.h	/^Scroll :: Scroll(){out("scroll::scroll");call_std_init();}$/;"	f	class:Scroll
+Scroll	xmwnd.h	/^Scroll :: Scroll(int x, int y)$/;"	f	class:Scroll
+Scroll	xmwnd.h	/^Scroll :: Scroll(int xl, int yl, int lenl, int max_posl)$/;"	f	class:Scroll
+Scroll	xmwnd.h	/^class Scroll$/;"	c
+SelectButtonPressFunc	xmwnd.h	/^void Wnd :: SelectButtonPressFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectButtonPressXFunc	xmwnd.h	/^void Wnd :: SelectButtonPressXFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectButtonReleaseFunc	xmwnd.h	/^void Wnd :: SelectButtonReleaseFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectButtonReleaseXFunc	xmwnd.h	/^void Wnd :: SelectButtonReleaseXFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectConfigureFunc	xmwnd.h	/^void Wnd :: SelectConfigureFunc(void (*func)(Wnd&, int, int, void*))$/;"	f	class:Wnd
+SelectConfigureXFunc	xmwnd.h	/^void Wnd :: SelectConfigureXFunc(void (*func)(Wnd&, int, int, void*))$/;"	f	class:Wnd
+SelectDefaults	xmwnd.h	/^void Wnd :: SelectDefaults(char* capt, char* txt, int quit = Q_MINUS)   \/\/As You can see this uses !LOTS! defaults$/;"	f	class:Wnd
+SelectExposeFunc	xmwnd.h	/^void Wnd :: SelectExposeFunc(void (*func)(Wnd&, void*))$/;"	f	class:Wnd
+SelectExposeXFunc	xmwnd.h	/^void Wnd :: SelectExposeXFunc(void (*func)(Wnd&, void*))$/;"	f	class:Wnd
+SelectKeyPressFunc	xmwnd.h	/^void Wnd :: SelectKeyPressFunc(void (*func)(Wnd&, ulong, void*))$/;"	f	class:Wnd
+SelectKeyPressXFunc	xmwnd.h	/^void Wnd :: SelectKeyPressXFunc(void (*func)(Wnd&, ulong, void*))$/;"	f	class:Wnd
+SelectKeyReleaseFunc	xmwnd.h	/^void Wnd :: SelectKeyReleaseFunc(void (*func)(Wnd&, ulong, void*))$/;"	f	class:Wnd
+SelectKeyReleaseXFunc	xmwnd.h	/^void Wnd :: SelectKeyReleaseXFunc(void (*func)(Wnd&, ulong, void*))$/;"	f	class:Wnd
+SelectMotionNotifyFunc	xmwnd.h	/^void Wnd :: SelectMotionNotifyFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectMotionNotifyXFunc	xmwnd.h	/^void Wnd :: SelectMotionNotifyXFunc(void (*func)(Wnd&, int, int, int, void*))$/;"	f	class:Wnd
+SelectNextScroll	xmwnd.h	/^void Wnd :: SelectNextScroll()   \/\/select next button (not CLICK but SELECT)$/;"	f	class:Wnd
+SelectOtherEventFunc	xmwnd.h	/^void Wnd :: SelectOtherEventFunc(void (*func)(Wnd&, void*))$/;"	f	class:Wnd
+SelectProcFunction	xmwnd.h	/^void Wnd :: SelectProcFunction(void* (*procfunc)(Wnd&,void*))$/;"	f	class:Wnd
+SetBtn	xmwnd.h	/^void    Wnd :: SetBtn(Button* bt, int num)$/;"	f	class:Wnd
+SetBtnFocus	xmwnd.h	/^void Button :: SetBtnFocus(int par)$/;"	f	class:Button
+SetBtnFunc	xmwnd.h	/^void Button :: SetBtnFunc(void (*func)(Wnd&, void*))$/;"	f	class:Button
+SetBtnName	xmwnd.h	/^void Button :: SetBtnName(char* name)$/;"	f	class:Button
+SetBtnPos	xmwnd.h	/^void Button :: SetBtnPos(int x, int y)$/;"	f	class:Button
+SetBtnSize	xmwnd.h	/^void Button :: SetBtnSize(int xx, int yy)$/;"	f	class:Button
+SetButtonCtrl	xmwnd.h	/^void Wnd :: SetButtonCtrl(int num, void (*f)(Wnd&, void*), void* ptr)  \/\/quite funny declaration :-)$/;"	f	class:Wnd
+SetButtonName	xmwnd.h	/^void Wnd :: SetButtonName(int i, char* textii)$/;"	f	class:Wnd
+SetButtonsNumber	xmwnd.h	/^void Wnd :: SetButtonsNumber(int num)$/;"	f	class:Wnd
+SetCLines	xmwnd.h	/^void ClipArea :: SetCLines(int l)$/;"	f	class:ClipArea
+SetCMaxLen	xmwnd.h	/^void ClipArea :: SetCMaxLen(int l)$/;"	f	class:ClipArea
+SetCaption	xmwnd.h	/^void Wnd :: SetCaption(char* window_name)  \/\/window caption$/;"	f	class:Wnd
+SetCharPtr	xmwnd.h	/^void Unused :: SetCharPtr(char* par)$/;"	f	class:Unused
+SetCheckBox	xmwnd.h	/^void    Wnd :: SetCheckBox(CheckBox* w)$/;"	f	class:Wnd
+SetChild	xmwnd.h	/^void    Wnd :: SetChild(Wnd* w)$/;"	f	class:Wnd
+SetClipText	xmwnd.h	/^void ClipArea :: SetClipText(char** t, int l)$/;"	f	class:ClipArea
+SetClippedText	xmwnd.h	/^void ClipArea :: SetClippedText(char** t, int l)$/;"	f	class:ClipArea
+SetCurColor	xmwnd.h	/^void Wnd :: SetCurColor(ulong col)$/;"	f	class:Wnd
+SetCx	xmwnd.h	/^void     Dsp :: SetCx(int par)$/;"	f	class:Dsp
+SetCx	xmwnd.h	/^void    Wnd :: SetCx(int par)$/;"	f	class:Wnd
+SetCy	xmwnd.h	/^void     Dsp :: SetCy(int par)$/;"	f	class:Dsp
+SetCy	xmwnd.h	/^void    Wnd :: SetCy(int par)$/;"	f	class:Wnd
+SetDefault	xmwnd.h	/^void Button :: SetDefault(bool arg)$/;"	f	class:Button
+SetDefault	xmwnd.h	/^void Scroll :: SetDefault(bool par)$/;"	f	class:Scroll
+SetDefaultButton	xmwnd.h	/^void Wnd :: SetDefaultButton(int par)$/;"	f	class:Wnd
+SetDisplay	xmwnd.h	/^void    Wnd :: SetDisplay(Display* d)$/;"	f	class:Wnd
+SetDrag	xmwnd.h	/^void    Wnd :: SetDrag(int d)$/;"	f	class:Wnd
+SetDrawPosX	xmwnd.h	/^void Wnd :: SetDrawPosX(int par)$/;"	f	class:Wnd
+SetDrawPosY	xmwnd.h	/^void Wnd :: SetDrawPosY(int par)$/;"	f	class:Wnd
+SetDsp	xmwnd.h	/^void     Dsp :: SetDsp(Display* disp)$/;"	f	class:Dsp
+SetDsp	xmwnd.h	/^void    Wnd :: SetDsp(Dsp* d)$/;"	f	class:Wnd
+SetEventData	xmwnd.h	/^void Wnd ::SetEventData(int ev_num, void* ptr_data)$/;"	f	class:Wnd
+SetEx	xmwnd.h	/^void ClipArea :: SetEx(int p)$/;"	f	class:ClipArea
+SetExWriteBox	xmwnd.h	/^void Wnd :: SetExWriteBox(int mlen, bool hid, int msx, int msy, int mx, int my)$/;"	f	class:Wnd
+SetEy	xmwnd.h	/^void ClipArea :: SetEy(int p)$/;"	f	class:ClipArea
+SetFont	xmwnd.h	/^void Wnd :: SetFont(char* font_name)            \/\/if it fails PANIC$/;"	f	class:Wnd
+SetGC	xmwnd.h	/^void    Wnd :: SetGC(GC& g)$/;"	f	class:Wnd
+SetGraph	xmwnd.h	/^void Wnd :: SetGraph(ulong** graphics)$/;"	f	class:Wnd
+SetHidden	xmwnd.h	/^void Wbox :: SetHidden(int p)$/;"	f	class:Wbox
+SetInt	xmwnd.h	/^void Unused :: SetInt(int par)$/;"	f	class:Unused
+SetLevSpellsNum	game.c	/^void SetLevSpellsNum(Wnd& wnd, void* ptr)$/;"	f
+SetLines	xmwnd.h	/^void    Wnd :: SetLines(int par)$/;"	f	class:Wnd
+SetLines	xmwnd.h	/^void ClipArea :: SetLines(int l)$/;"	f	class:ClipArea
+SetLx	xmwnd.h	/^void ClipArea :: SetLx(int p)$/;"	f	class:ClipArea
+SetLy	xmwnd.h	/^void ClipArea :: SetLy(int p)$/;"	f	class:ClipArea
+SetMaxLen	xmwnd.h	/^void ClipArea :: SetMaxLen(int l)$/;"	f	class:ClipArea
+SetMaxLen	xmwnd.h	/^void Wbox :: SetMaxLen(int le)$/;"	f	class:Wbox
+SetMaxPos	xmwnd.h	/^void Scroll :: SetMaxPos(int par)$/;"	f	class:Scroll
+SetNamesCategFunc	game.c	/^void SetNamesCategFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNamesFunc	game.c	/^void SetNamesFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNamesPDFunc	game.c	/^void SetNamesPDFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNamesPUFunc	game.c	/^void SetNamesPUFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNumAttrFunc	game.c	/^void SetNumAttrFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNumBtns	xmwnd.h	/^void    Wnd :: SetNumBtns(int num)$/;"	f	class:Wnd
+SetNumCategFunc	game.c	/^void SetNumCategFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNumPDFunc	game.c	/^void SetNumPDFunc(Wnd& wnd, void* ptr)$/;"	f
+SetNumPUFunc	game.c	/^void SetNumPUFunc(Wnd& wnd, void* ptr)$/;"	f
+SetOthItemFunc	game.c	/^void SetOthItemFunc(Wnd& wnd, void* ptr)$/;"	f
+SetPaletteInfo	xmwnd.h	/^void Wnd :: SetPaletteInfo(bool arg)$/;"	f	class:Wnd
+SetParent	xmwnd.h	/^void Wnd :: SetParent(Wnd* par)$/;"	f	class:Wnd
+SetPos	xmwnd.h	/^void ClipArea :: SetPos(int xx, int yy, bool update=false)$/;"	f	class:ClipArea
+SetPressed	xmwnd.h	/^void Wnd :: SetPressed(int par)$/;"	f	class:Wnd
+SetPressedND	xmwnd.h	/^void Wnd :: SetPressedND(int par)$/;"	f	class:Wnd
+SetRx	xmwnd.h	/^void    Wnd :: SetRx(int par)$/;"	f	class:Wnd
+SetRy	xmwnd.h	/^void    Wnd :: SetRy(int par)$/;"	f	class:Wnd
+SetSNum	xmwnd.h	/^void     Dsp :: SetSNum(int num)$/;"	f	class:Dsp
+SetScrlFocus	xmwnd.h	/^void Scroll :: SetScrlFocus(bool parm)$/;"	f	class:Scroll
+SetScrlFunc	xmwnd.h	/^void Scroll :: SetScrlFunc(void (*f)(Wnd&, void*))$/;"	f	class:Scroll
+SetScrlLen	xmwnd.h	/^void Scroll :: SetScrlLen(int l)$/;"	f	class:Scroll
+SetScrlNumber	xmwnd.h	/^void Wnd :: SetScrlNumber(int num)$/;"	f	class:Wnd
+SetScrlPos	xmwnd.h	/^void Scroll :: SetScrlPos(int par)$/;"	f	class:Scroll
+SetScrlXY	xmwnd.h	/^void Scroll :: SetScrlXY(int x, int y)$/;"	f	class:Scroll
+SetShiftState	xmwnd.h	/^void Wbox :: SetShiftState(bool p)$/;"	f	class:Wbox
+SetSize	xmwnd.h	/^void    Wnd :: SetSize(int x, int y)$/;"	f	class:Wnd
+SetSx	xmwnd.h	/^void ClipArea :: SetSx(int p)$/;"	f	class:ClipArea
+SetSx	xmwnd.h	/^void Wbox :: SetSx(int par)$/;"	f	class:Wbox
+SetSy	xmwnd.h	/^void ClipArea :: SetSy(int p)$/;"	f	class:ClipArea
+SetSy	xmwnd.h	/^void Wbox :: SetSy(int par)$/;"	f	class:Wbox
+SetUnusedCharPtr	xmwnd.h	/^void Wnd :: SetUnusedCharPtr(char* par)$/;"	f	class:Wnd
+SetVoid	xmwnd.h	/^void Button :: SetVoid(void* ptr)$/;"	f	class:Button
+SetVoid	xmwnd.h	/^void Scroll :: SetVoid(void* ptr)$/;"	f	class:Scroll
+SetVoid	xmwnd.h	/^void Unused :: SetVoid(void* par)$/;"	f	class:Unused
+SetWin	xmwnd.h	/^void    Wnd :: SetWin(Window& w)$/;"	f	class:Wnd
+SetWndPixel	xmwnd.h	/^void Wnd :: SetWndPixel(ulong col, int x, int y)$/;"	f	class:Wnd
+SetWndText	xmwnd.h	/^void    Wnd :: SetWndText(char** t)$/;"	f	class:Wnd
+SetWriteBox	xmwnd.h	/^void    Wnd :: SetWriteBox(Wbox* w)$/;"	f	class:Wnd
+SetX	xmwnd.h	/^void     Dsp :: SetX(int par)$/;"	f	class:Dsp
+SetX	xmwnd.h	/^void    Wnd :: SetX(int par )$/;"	f	class:Wnd
+SetX	xmwnd.h	/^void ClipArea :: SetX(int p)$/;"	f	class:ClipArea
+SetX	xmwnd.h	/^void Wbox :: SetX(int par)$/;"	f	class:Wbox
+SetY	xmwnd.h	/^void     Dsp :: SetY(int par)$/;"	f	class:Dsp
+SetY	xmwnd.h	/^void    Wnd :: SetY(int par )$/;"	f	class:Wnd
+SetY	xmwnd.h	/^void ClipArea :: SetY(int p)$/;"	f	class:ClipArea
+SetY	xmwnd.h	/^void Wbox :: SetY(int par)$/;"	f	class:Wbox
+SetupFunc	xmwnd.h	/^ void (*SetupFunc)(Wnd&, void*);                         \/\/when default functions selected$/;"	m	class:Wnd
+Shift	xmwnd.h	/^ bool Shift;$/;"	m	class:Wbox
+ShowAttrFunc	game.c	/^void ShowAttrFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowCategFunc	game.c	/^void ShowCategFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowItemFunc	game.c	/^void ShowItemFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowItemNum	game.c	/^void ShowItemNum(Wnd& wnd, int num)$/;"	f
+ShowLevPDFunc	game.c	/^void ShowLevPDFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowLevPUFunc	game.c	/^void ShowLevPUFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowProfFunc	game.c	/^void ShowProfFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowProfNum	game.c	/^void ShowProfNum(Wnd& wnd, int num)$/;"	f
+ShowRaceFunc	game.c	/^void ShowRaceFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowRaceNum	game.c	/^void ShowRaceNum(Wnd& wnd, int num)$/;"	f
+ShowSkillFunc	game.c	/^void ShowSkillFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowSkillNum	game.c	/^void ShowSkillNum(Wnd& wnd, int num)$/;"	f
+ShowSpellFunc	game.c	/^void ShowSpellFunc(Wnd& wnd, void* ptr)$/;"	f
+ShowSpellNum	game.c	/^void ShowSpellNum(Wnd& wnd, int num, int poz)$/;"	f
+ShredSkills	game.c	/^void ShredSkills(Wnd& wnd, void* ptr)$/;"	f
+ShredSpells	game.c	/^void ShredSpells(Wnd& wnd, void* ptr)$/;"	f
+SortAll	game.c	/^void SortAll(Wnd& wnd, void* ptr)$/;"	f
+StartedDrawing	xmwnd.h	/^inline bool Wnd :: StartedDrawing() const$/;"	f	class:Wnd
+Statistics	game.c	/^void Statistics(RPG* post,char* db2)$/;"	f
+StdConfigureFunc	xmwnd.h	/^void StdConfigureFunc(Wnd& wnd, int x, int y, void* ptr)$/;"	f
+StdDownFunc	xmwnd.h	/^void StdDownFunc(Wnd& wnd, void* ptr)     \/\/this is strange Up func call downscroll but "up" on screen is to go down$/;"	f
+StdDownTenFunc	xmwnd.h	/^void StdDownTenFunc(Wnd& wnd, void* ptr)     \/\/this is strange Up func call downscroll but "up" on screen is to go down$/;"	f
+StdExposeFunc	xmwnd.h	/^void StdExposeFunc(Wnd& wnd, void* ptr)$/;"	f
+StdMotionNotifyFunc	xmwnd.h	/^void StdMotionNotifyFunc(Wnd& wnd, int bt, int x, int y, void* ptr)$/;"	f
+StdNoFunc	xmwnd.h	/^void StdNoFunc(Wnd& wnd, void* ptr)$/;"	f
+StdOKFunc	xmwnd.h	/^void StdOKFunc(Wnd& wnd, void* ptr)$/;"	f
+StdTextWrite	xmwnd.h	/^void Wnd :: StdTextWrite() \/\/ put char** data on Window using 'lines' variable as 'limiter' of table char**$/;"	f	class:Wnd
+StdUpFunc	xmwnd.h	/^void StdUpFunc(Wnd& wnd, void* ptr)$/;"	f
+StdUpTenFunc	xmwnd.h	/^void StdUpTenFunc(Wnd& wnd, void* ptr)$/;"	f
+StdYesFunc	xmwnd.h	/^void StdYesFunc(Wnd& wnd, void* ptr)$/;"	f
+Std_Init	xmwnd.h	/^void Wnd :: Std_Init()                  \/\/Guaranted SIGSEGV without this private function called by all constructors!$/;"	f	class:Wnd
+StopDrawingLines	xmwnd.h	/^inline void Wnd :: StopDrawingLines() { lx = -1; }$/;"	f	class:Wnd
+StrMore	mh.h	/^bool StrMore(char* str1, char* str2)$/;"	f
+SwapItem	game.c	/^void SwapItem(int i, int j)$/;"	f
+SwapSkill	game.c	/^void SwapSkill(int i, int j)$/;"	f
+SwapSpell	game.c	/^void SwapSpell(int lev, int i, int j)$/;"	f
+SwapTrial	game.c	/^void SwapTrial(int trial, int i, int j)$/;"	f
+SwitchIn	mh.h	/^void SwitchIn()$/;"	f
+TINY_TXT	xmwnd.h	27;"	d
+TRUE	dbase.h	10;"	d
+TRUE	mh.h	22;"	d
+ToBinary	mh.h	/^void ToBinary(FILE* in, FILE* out)$/;"	f
+TransformKey	mh.h	/^int TransformKey(unsigned long int code, int shift)$/;"	f
+Trap	mh.h	/^void Trap()$/;"	f
+URANDOM	mran.h	52;"	d
+USER	dbase.h	43;"	d
+Uncompress	game.c	/^void Uncompress(DATA* db)$/;"	f
+Uncompress	game.c	/^void Uncompress(RPG* post)$/;"	f
+UndoWoman	game.c	/^void UndoWoman()$/;"	f
+UnselectProf	game.c	/^void UnselectProf(int num)$/;"	f
+UnselectRace	game.c	/^void UnselectRace(int num)$/;"	f
+Unused	xmwnd.h	/^Unused :: Unused()$/;"	f	class:Unused
+Unused	xmwnd.h	/^struct Unused                          \/\/this struct is used to return value from Child-Window$/;"	s
+UpCheckBox	xmwnd.h	/^void Wnd :: UpCheckBox()         { out("wnd::upcheckbox");if (cbox) cbox->UpScroll();}$/;"	f	class:Wnd
+UpScroll	xmwnd.h	/^void CheckBox :: UpScroll()$/;"	f	class:CheckBox
+UpTenCheckBox	xmwnd.h	/^void Wnd :: UpTenCheckBox()      { out("wnd::up10checkbox");if (cbox) cbox->UpTenScroll();}$/;"	f	class:Wnd
+UpTenScroll	xmwnd.h	/^void CheckBox :: UpTenScroll()$/;"	f	class:CheckBox
+Update	xmwnd.h	/^int ClipArea :: Update()$/;"	f	class:ClipArea
+UserCheckBox	xmwnd.h	/^void Wnd :: UserCheckBox(char** data, int line, int scroll, int num, Button** tab)$/;"	f	class:Wnd
+VOID_PTR	xmwnd.h	33;"	d
+VoidPtrReturn	xmwnd.h	/^void Wnd :: VoidPtrReturn()           \/\/analogical for Int value cast (int) -> (void*) and then user$/;"	f	class:Wnd
+WAGA	dbase.h	33;"	d
+WIEK	dbase.h	35;"	d
+WLOSY	dbase.h	30;"	d
+WZROST	dbase.h	32;"	d
+WantPaletteInfo	xmwnd.h	/^bool Wnd :: WantPaletteInfo() const$/;"	f	class:Wnd
+Wbox	xmwnd.h	/^Wbox :: Wbox(int mlen, int xx, int yy, int xl, int yl)$/;"	f	class:Wbox
+Wbox	xmwnd.h	/^class Wbox$/;"	c
+WboxActivateShift	xmwnd.h	/^void Wnd :: WboxActivateShift(bool par)$/;"	f	class:Wnd
+WboxCreateReturnValue	xmwnd.h	/^void Wnd :: WboxCreateReturnValue()$/;"	f	class:Wnd
+WboxKeyAction	xmwnd.h	/^void Wnd :: WboxKeyAction(int key)$/;"	f	class:Wnd
+WboxShiftPressed	xmwnd.h	/^bool Wnd :: WboxShiftPressed()$/;"	f	class:Wnd
+WhatHappened	xmwnd.h	/^long         Wnd :: WhatHappened() const$/;"	f	class:Wnd
+WinDefaults	xmwnd.h	/^void Wnd :: WinDefaults(char* capt)   \/\/As You can see this uses !LOTS! defaults$/;"	f	class:Wnd
+WindowDies	xmwnd.h	/^void Wnd :: WindowDies()$/;"	f	class:Wnd
+Wnd	xmwnd.h	/^Wnd :: Wnd(Dsp* dsp)   \/\/this constructor do the least possible <user !MUST! continue init by (him-her)self>$/;"	f	class:Wnd
+Wnd	xmwnd.h	/^Wnd :: Wnd(Dsp* dsp, char* text, int btn = MB_OK)$/;"	f	class:Wnd
+Wnd	xmwnd.h	/^Wnd :: Wnd(Dsp* dsp, char* text, int btn, int xx, int yy, int bx, int by)$/;"	f	class:Wnd
+Wnd	xmwnd.h	/^Wnd :: Wnd(Dsp* dsp, int xx, int yy)$/;"	f	class:Wnd
+Wnd	xmwnd.h	/^class Wnd                                     \/\/great class Wnd$/;"	c
+WriteHTML	game.c	/^void WriteHTML(RPG* post, FILE* plik,char* fn)$/;"	f
+XFillA	mgraph.h	/^void XFillA(Display* dsp, Window& win, GC& gc, ulong col, int sx, int sy, int x, int y)$/;"	f
+YES_ID	xmwnd.h	37;"	d
+_MHH_HEEE_	mh.h	2;"	d
+__IllegalFunc__	game.c	/^void __IllegalFunc__(Wnd& wnd, ulong key_code, void* far_ptr)$/;"	f
+__IllegalPDFunc__	game.c	/^void __IllegalPDFunc__(Wnd& wnd, ulong key_code, void* far_ptr)$/;"	f
+__MRAN_H__	mran.h	33;"	d
+__SLOW_RND	mran.h	/^static int __SLOW_RND = 0;$/;"	v
+__URAN	mran.h	/^static int __URAN = 1;$/;"	v
+__unimp	game.c	/^inline void __unimp(Wnd& wnd)$/;"	f
+_ran_dev_name	mran.h	/^static char _ran_dev_name[30];$/;"	v
+_ran_device	mran.h	/^static FILE* _ran_device;$/;"	v
+_rval	mran.h	/^static int _rval = 1;$/;"	v
+apressed	xmwnd.h	/^ int apressed;$/;"	m	class:Wnd
+btn	xmwnd.h	/^ Button** btn;$/;"	m	class:Wnd
+btnFunc	xmwnd.h	/^ void (*btnFunc)(Wnd&, void*);                  \/\/own func you can add any param by cast to void*$/;"	m	class:Button
+bytecopy	mh.h	/^void bytecopy(char* a, char* b, int n)$/;"	f
+bytecopy	mh.h	/^void bytecopy(char* a, char* b, int n, int from)$/;"	f
+c_ekw	dbase.h	/^ int c_ekw[MAX_EKW];$/;"	m	struct:DATA
+c_name	dbase.h	/^ char c_name[MAX_CATEG][STRING];$/;"	m	struct:DATA
+ca	xmwnd.h	/^ ClipArea* ca;$/;"	m	class:Wnd
+call_std_init	xmwnd.h	/^void Button :: call_std_init()$/;"	f	class:Button
+call_std_init	xmwnd.h	/^void Scroll :: call_std_init()$/;"	f	class:Scroll
+caption	xmwnd.h	/^ char* caption;$/;"	m	class:Wnd
+cash	dbase.h	/^ int cash;$/;"	m	struct:RPG
+cbox	xmwnd.h	/^ CheckBox* cbox;$/;"	m	class:Wnd
+cecha	dbase.h	/^ int cecha[MAX_ATT];$/;"	m	struct:RPG
+ceum	dbase.h	/^ int ceum[MAX_UM];$/;"	m	struct:RPG
+char_ptr_val	xmwnd.h	/^ char* char_ptr_val;$/;"	m	struct:Unused
+child	xmwnd.h	/^ Wnd* child;$/;"	m	class:Wnd
+clines	xmwnd.h	/^ int clines;			\/\/number of clipped lines$/;"	m	class:ClipArea
+cmaxlen	xmwnd.h	/^ int cmaxlen;			\/\/maxlen of clipped text$/;"	m	class:ClipArea
+cost	dbase.h	/^ int cost[MAX_LEVELS];$/;"	m	struct:DATA
+countMI	game.c	/^int countMI(int* table, int len)$/;"	f
+countPL	game.c	/^int countPL(int* table, int len)$/;"	f
+cur_color	xmwnd.h	/^ ulong cur_color;$/;"	m	class:Wnd
+current	xmwnd.h	/^ int current;$/;"	m	class:Wbox
+cx	xmwnd.h	/^ int cx;$/;"	m	class:Wnd
+cy	xmwnd.h	/^ int cy;$/;"	m	class:Wnd
+dane	dbase.h	/^ char dane[DANE_POSTACI][STRING];$/;"	m	struct:RPG
+data	xmwnd.h	/^ char* data;$/;"	m	class:Wbox
+data	xmwnd.h	/^ char** data;$/;"	m	class:CheckBox
+data	xmwnd.h	/^ void* data;                            \/\/if set used by KeyPress func$/;"	m	class:Button
+data	xmwnd.h	/^ void* data;                            \/\/if set used by KeyPress func$/;"	m	class:Scroll
+db	game.c	/^static DATA* db = NULL;$/;"	v	file:
+dbase	game.c	/^static bool dbase = false;$/;"	v	file:
+dbname	dbase.h	/^ char dbname[STRING];$/;"	m	struct:DATA
+def	xmwnd.h	/^ bool def;$/;"	m	class:Button
+def	xmwnd.h	/^ bool def;$/;"	m	class:Scroll
+def_cash	dbase.h	/^ int def_cash;$/;"	m	struct:DATA
+deleted	xmwnd.h	/^ int deleted;$/;"	m	class:Wnd
+disp	xmwnd.h	/^ Display* disp;$/;"	m	class:Wnd
+do_mess	mran.h	/^void do_mess()$/;"	f
+done	xmwnd.h	/^ int done;$/;"	m	class:Wnd
+downcase	mh.h	/^inline void downcase(char& str)$/;"	f
+downcase	mh.h	/^void downcase(char* str)$/;"	f
+drag	xmwnd.h	/^ int drag;$/;"	m	class:Wnd
+dsp	xmwnd.h	/^ Display* dsp;                  \/\/variables are private. Access denied from outside, only class-methods$/;"	m	class:Dsp
+dta	xmwnd.h	/^ Unused* dta;$/;"	m	class:Wnd
+dtext	xmwnd.h	/^ char** dtext;			\/\/converted$/;"	m	class:ClipArea
+dx	xmwnd.h	/^ int dx,dy;$/;"	m	class:Dsp
+dy	xmwnd.h	/^ int dx,dy;$/;"	m	class:Dsp
+eXtendedButtonPress	xmwnd.h	/^void eXtendedButtonPress(Wnd& wnd, int key_n, int x, int y, void* ptr)$/;"	f
+eXtendedButtonRelease	xmwnd.h	/^void eXtendedButtonRelease(Wnd& wnd, int key_n, int x, int y, void* ptr)$/;"	f
+eXtendedButtonReleaseND	xmwnd.h	/^void eXtendedButtonReleaseND(Wnd& wnd, int key_n, int x, int y, void* ptr)$/;"	f
+eXtendedKeyPress	xmwnd.h	/^void eXtendedKeyPress(Wnd& wnd, ulong code, void* ptr)$/;"	f
+eXtendedKeyPressQ	xmwnd.h	/^void eXtendedKeyPressQ(Wnd& wnd, ulong code, void* ptr)$/;"	f
+eXtendedKeyRelease	xmwnd.h	/^void eXtendedKeyRelease(Wnd& wnd, ulong code, void* ptr)$/;"	f
+eXtendedKeyReleaseND	xmwnd.h	/^void eXtendedKeyReleaseND(Wnd& wnd, ulong code, void* ptr)$/;"	f
+ekw	dbase.h	/^ char ekw[MAX_EKW][STRING];$/;"	m	struct:DATA
+ekw	dbase.h	/^ char ekw[MAX_EKW_P][STRING];$/;"	m	struct:RPG
+event	xmwnd.h	/^ XEvent event;$/;"	m	class:Wnd
+event_ptr	xmwnd.h	/^ void** event_ptr;$/;"	m	class:Wnd
+ex	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+ey	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+flag_ctmp	mran.h	/^void flag_ctmp()$/;"	f
+flag_uran	mran.h	/^void flag_uran()$/;"	f
+focus	xmwnd.h	/^ bool focus;$/;"	m	class:Button
+focus	xmwnd.h	/^ bool focus;$/;"	m	class:Scroll
+font_h	xmwnd.h	/^ int font_h;$/;"	m	class:Wnd
+font_info	xmwnd.h	/^ XFontStruct* font_info;$/;"	m	class:Wnd
+gc	xmwnd.h	/^ GC gc;$/;"	m	class:Wnd
+graph	xmwnd.h	/^ ulong** graph;$/;"	m	class:Wnd
+gx	xmwnd.h	/^ int gx, gy;$/;"	m	class:Wnd
+gy	xmwnd.h	/^ int gx, gy;$/;"	m	class:Wnd
+have_ca	xmwnd.h	/^ bool have_ca;$/;"	m	class:Wnd
+have_frames	xmwnd.h	/^ bool have_frames;$/;"	m	class:Wnd
+have_graph	xmwnd.h	/^ bool have_graph;$/;"	m	class:Wnd
+have_palette	xmwnd.h	/^ bool have_palette;$/;"	m	class:Wnd
+hidden	xmwnd.h	/^ int hidden;$/;"	m	class:Wbox
+il_ekw	dbase.h	/^ int il_ekw;$/;"	m	struct:RPG
+il_spell	dbase.h	/^ int il_spell;$/;"	m	struct:RPG
+il_um	dbase.h	/^ int il_um;$/;"	m	struct:RPG
+ilosc	dbase.h	/^ int ilosc[ATTRIB];$/;"	m	struct:DATA
+ilosc_cech	dbase.h	/^ int ilosc_cech;$/;"	m	struct:RPG
+ilosc_czarow	dbase.h	/^ int ilosc_czarow[MAX_LEV_S];$/;"	m	struct:DATA
+ilosc_danych	dbase.h	/^ int ilosc_danych;$/;"	m	struct:RPG
+ilosc_ekw	dbase.h	/^ int ilosc_ekw;$/;"	m	struct:DATA
+ilosc_poziomow	dbase.h	/^ int ilosc_poziomow;$/;"	m	struct:DATA
+init_random	mran.h	/^bool init_random(int type = DEV_NULL)$/;"	f
+insideArea	xmwnd.h	/^bool  Button :: insideArea(int xx, int yy)  const$/;"	f	class:Button
+insideArea	xmwnd.h	/^bool Scroll :: insideArea(int x , int y)  const$/;"	f	class:Scroll
+int_val	xmwnd.h	/^ int int_val;$/;"	m	struct:Unused
+isDefault	xmwnd.h	/^bool Button :: isDefault() const$/;"	f	class:Button
+isDefault	xmwnd.h	/^bool Scroll :: isDefault() const$/;"	f	class:Scroll
+isDone	xmwnd.h	/^bool         Wnd :: isDone()       const$/;"	f	class:Wnd
+isHidden	xmwnd.h	/^bool Wbox :: isHidden() const$/;"	f	class:Wbox
+isLetter	mh.h	/^int isLetter(int zn)$/;"	f
+isSelected	xmwnd.h	/^bool  Scroll :: isSelected() const$/;"	f	class:Scroll
+isSelected	xmwnd.h	/^bool Button :: isSelected() const$/;"	f	class:Button
+kill_random	mran.h	/^void kill_random()$/;"	f
+len	xmwnd.h	/^ int len;           \/\/Shift tells whatever shift is pressed or not$/;"	m	class:Wbox
+len	xmwnd.h	/^ int len;$/;"	m	class:Scroll
+lev	dbase.h	/^ int lev;$/;"	m	struct:RPG
+lev_p	dbase.h	/^ int lev_p;$/;"	m	struct:RPG
+lines	xmwnd.h	/^ int lines;			\/\/num lines of original$/;"	m	class:ClipArea
+lines	xmwnd.h	/^ int lines;$/;"	m	class:Wnd
+ln	mh.h	/^inline void ln()$/;"	f
+lnf	mh.h	/^inline void lnf(FILE* i)$/;"	f
+lns	mh.h	/^void lns(int par)$/;"	f
+lr	dbase.h	/^ int lr;$/;"	m	struct:DATA
+lx	xmwnd.h	/^ int lx, ly;$/;"	m	class:ClipArea
+lx	xmwnd.h	/^ int lx,ly;$/;"	m	class:Wnd
+ly	xmwnd.h	/^ int lx, ly;$/;"	m	class:ClipArea
+ly	xmwnd.h	/^ int lx,ly;$/;"	m	class:Wnd
+mage	dbase.h	/^ int mage;$/;"	m	struct:RPG
+magum	dbase.h	/^ int magum[MAX_UM];$/;"	m	struct:RPG
+main	c.c	/^int main()$/;"	f
+main	game.c	/^int main(int lb, char** par)$/;"	f
+max_len	xmwnd.h	/^ int max_len;$/;"	m	class:Wbox
+max_lev	dbase.h	/^ int max_lev;$/;"	m	struct:RPG
+max_pos	xmwnd.h	/^ int max_pos;$/;"	m	class:Scroll
+maxlen	xmwnd.h	/^ int maxlen;			\/\/maxlen of not clipped text$/;"	m	class:ClipArea
+mgetch	mh.h	/^int mgetch()$/;"	f
+mm	dbase.h	/^ int mm;$/;"	m	struct:DATA
+mod	dbase.h	/^ int mod[COMMON][MAX_TYPE][MAX_ATT];$/;"	m	struct:DATA
+modAtt	dbase.h	/^ int modAtt;$/;"	m	struct:RPG
+modEkw	dbase.h	/^ int modEkw;$/;"	m	struct:RPG
+modSkill	dbase.h	/^ int modSkill;$/;"	m	struct:RPG
+modSpell	dbase.h	/^ int modSpell;$/;"	m	struct:RPG
+modum	dbase.h	/^ int modum[MAX_UM];$/;"	m	struct:RPG
+mulum	dbase.h	/^ int mulum[MAX_UM];$/;"	m	struct:RPG
+n_cechy	dbase.h	/^ char n_cechy[MAX_ATT][STRING];$/;"	m	struct:RPG
+name	dbase.h	/^ char name[COMMON][MAX_TYPE][STRING];$/;"	m	struct:DATA
+name_att	dbase.h	/^ char name_att[MAX_ATT][STRING];$/;"	m	struct:DATA
+num	xmwnd.h	/^ int num;$/;"	m	class:CheckBox
+numMM	dbase.h	/^ int numMM;$/;"	m	struct:RPG
+num_btns	xmwnd.h	/^ int num_btns;$/;"	m	class:Wnd
+num_scrl	xmwnd.h	/^ int num_scrl;$/;"	m	class:Wnd
+odsp	xmwnd.h	/^ Dsp* odsp;$/;"	m	class:Wnd
+operator !	xmwnd.h	/^bool Wnd :: operator!(void)$/;"	f	class:Wnd
+other	xmwnd.h	/^ void* other;                          \/\/not yet handled$/;"	m	struct:Unused
+out	xmwnd.h	/^void out(char* t)                    \/\/debug is written into console$/;"	f
+p_c	dbase.h	/^ int p_c[MAX_ATT];$/;"	m	struct:RPG
+p_mod	dbase.h	/^ int p_mod[MAX_ATT];$/;"	m	struct:DATA
+p_u	dbase.h	/^ int p_u[MAX_UM];$/;"	m	struct:RPG
+panic	xmwnd.h	/^void panic(char* why)                          \/\/called terminate program immaditely and writes PANIC!$/;"	f
+panic	xmwnd.h	/^void panic(char* why, int num, char* fil)                          \/\/called terminate program immaditely and writes PANIC!$/;"	f
+parent	xmwnd.h	/^ Wnd* parent;$/;"	m	class:Wnd
+pd_cost	dbase.h	/^ int pd_cost[MAX_LEVELS];$/;"	m	struct:DATA
+pname	dbase.h	/^ char pname[STRING];$/;"	m	struct:RPG
+pos	xmwnd.h	/^ int pos;$/;"	m	class:Scroll
+post	game.c	/^static RPG* post = NULL;$/;"	v	file:
+pozum	dbase.h	/^ int pozum[MAX_UM];$/;"	m	struct:RPG
+r_type	mran.h	/^static int r_type = 0;$/;"	v
+random	mran.h	/^int random(int lb)$/;"	f
+randomedAtt	dbase.h	/^ int randomedAtt;$/;"	m	struct:RPG
+randomize	mran.h	/^void randomize(int type = DEV_NULL)$/;"	f
+re	xmwnd.h	/^ bool re;			\/\/is redraw needed?$/;"	m	class:ClipArea
+reopen	mran.h	/^void reopen()$/;"	f
+req_magic	dbase.h	/^ char req_magic[MAX_LEV_S][MAX_SPELL][SHSTR];$/;"	m	struct:DATA
+rl	dbase.h	/^ int rl;$/;"	m	struct:RPG
+rx	xmwnd.h	/^ int rx, ry;$/;"	m	class:Wnd
+ry	xmwnd.h	/^ int rx, ry;$/;"	m	class:Wnd
+s_mod	dbase.h	/^ int s_mod[MAX_SKI][S_ATTRIB];$/;"	m	struct:DATA
+s_name	dbase.h	/^ char s_name[MAX_SKI][STRING];$/;"	m	struct:DATA
+s_num	xmwnd.h	/^ int s_num;                     \/\/methods do some addictional things to avid sending SIGSEGV by the kernel$/;"	m	class:Dsp
+scrl	xmwnd.h	/^ Scroll** scrl;$/;"	m	class:Wnd
+scrlFunc	xmwnd.h	/^ void (*scrlFunc)(Wnd&, void*);$/;"	m	class:Scroll
+scroll_max	xmwnd.h	/^ int scroll_max;                  \/\/how much display at the time$/;"	m	class:CheckBox
+scroll_pos	xmwnd.h	/^ int scroll_pos;                  \/\/actual scroll$/;"	m	class:CheckBox
+sp	dbase.h	/^ int sp;$/;"	m	struct:RPG
+spell	dbase.h	/^ char spell[MAX_SP][MEDSTR];$/;"	m	struct:RPG
+spell_cost	dbase.h	/^ int spell_cost[MAX_LEV_S][MAX_SPELL];$/;"	m	struct:DATA
+spell_cost	dbase.h	/^ int spell_cost[MAX_SP];$/;"	m	struct:RPG
+spell_level	dbase.h	/^ int spell_level[MAX_SP];$/;"	m	struct:RPG
+spt	dbase.h	/^ int spt;$/;"	m	struct:RPG
+st	dbase.h	/^ int st;$/;"	m	struct:DATA
+st	dbase.h	/^ int st;$/;"	m	struct:RPG
+stMM	dbase.h	/^ int stMM;$/;"	m	struct:RPG
+stop	mh.h	/^void stop(int* a)$/;"	f
+sv	dbase.h	/^ int sv;$/;"	m	struct:DATA
+sv	dbase.h	/^ int sv;$/;"	m	struct:RPG
+sx	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+sx	xmwnd.h	/^ int sx, sy;        \/\/wbox is all-key-press refreshed max_len is maximum text length$/;"	m	class:Wbox
+sx	xmwnd.h	/^ int sx, sy;$/;"	m	class:Button
+sx	xmwnd.h	/^ int sx, sy;$/;"	m	class:Scroll
+sy	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+sy	xmwnd.h	/^ int sx, sy;        \/\/wbox is all-key-press refreshed max_len is maximum text length$/;"	m	class:Wbox
+sy	xmwnd.h	/^ int sx, sy;$/;"	m	class:Button
+sy	xmwnd.h	/^ int sx, sy;$/;"	m	class:Scroll
+takechar	mh.h	/^void takechar(char& zn)$/;"	f
+takechar	mh.h	/^void takechar(char* zn)$/;"	f
+takeint	mh.h	/^void takeint(int& par)$/;"	f
+takeint	mh.h	/^void takeint(int* par)$/;"	f
+takeint	mh.h	/^void takeint(unsigned int& par)$/;"	f
+takeint	mh.h	/^void takeint(unsigned int* par)$/;"	f
+takestring	mh.h	/^void takestring(char* par, int sec = 0)$/;"	f
+tesum	dbase.h	/^ int tesum[MAX_UM];$/;"	m	struct:RPG
+text	xmwnd.h	/^ char* text;$/;"	m	class:Button
+text	xmwnd.h	/^ char** text;			\/\/not converted$/;"	m	class:ClipArea
+text	xmwnd.h	/^ char** text;$/;"	m	class:Wnd
+text_disabled	xmwnd.h	/^ bool text_disabled;$/;"	m	class:Wnd
+tout	xmwnd.h	/^void tout(char* t)                    \/\/used debug time$/;"	f
+trace	xmwnd.h	/^void trace(char* t)                    \/\/used debug time$/;"	f
+trum	dbase.h	/^ int trum[MAX_UM];$/;"	m	struct:RPG
+type	xmwnd.h	/^ int type;$/;"	m	struct:Unused
+type_ran	mran.h	/^int type_ran()$/;"	f
+uint	xmwnd.h	/^typedef unsigned int uint;$/;"	t
+ulong	mgraph.h	/^typedef unsigned long int ulong;$/;"	t
+ulong	xmwnd.h	/^typedef unsigned long int ulong;$/;"	t
+um	dbase.h	/^ char um[MAX_UM][STRING];$/;"	m	struct:RPG
+used_base	dbase.h	/^ char used_base[STRING];$/;"	m	struct:RPG
+validBtn	xmwnd.h	/^bool Wnd :: validBtn(int num) const$/;"	f	class:Wnd
+validScrl	xmwnd.h	/^bool Wnd :: validScrl(int num) const$/;"	f	class:Wnd
+value_att	dbase.h	/^ int value_att[MAX_ATT];$/;"	m	struct:DATA
+wBoxKeyPressFunc	xmwnd.h	/^void wBoxKeyPressFunc(Wnd& wnd, ulong code, void* ptr)$/;"	f
+wBoxKeyReleaseFunc	xmwnd.h	/^void wBoxKeyReleaseFunc(Wnd& wnd, ulong code, void* ptr)$/;"	f
+wait	mh.h	/^inline void wait()$/;"	f
+want_pinfo	xmwnd.h	/^ bool want_pinfo;$/;"	m	class:Wnd
+wbox	xmwnd.h	/^ Wbox* wbox;$/;"	m	class:Wnd
+win	xmwnd.h	/^ Window win;$/;"	m	class:Wnd
+window_name_property	xmwnd.h	/^ XTextProperty window_name_property;$/;"	m	class:Wnd
+x	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+x	xmwnd.h	/^ int x,y;           \/\/len is current length data is the text, current is current letter$/;"	m	class:Wbox
+x	xmwnd.h	/^ int x,y;$/;"	m	class:Button
+x	xmwnd.h	/^ int x,y;$/;"	m	class:Dsp
+x	xmwnd.h	/^ int x,y;$/;"	m	class:Wnd
+y	xmwnd.h	/^ int sx, sy, ex, ey, x, y;$/;"	m	class:ClipArea
+y	xmwnd.h	/^ int x,y;           \/\/len is current length data is the text, current is current letter$/;"	m	class:Wbox
+y	xmwnd.h	/^ int x,y;$/;"	m	class:Button
+y	xmwnd.h	/^ int x,y;$/;"	m	class:Dsp
+y	xmwnd.h	/^ int x,y;$/;"	m	class:Wnd
+zaklecie	dbase.h	/^ char zaklecie[MAX_LEV_S][MAX_SPELL][MEDSTR];$/;"	m	struct:DATA
+~Button	xmwnd.h	/^Button :: ~Button()$/;"	f	class:Button
+~CheckBox	xmwnd.h	/^CheckBox :: ~CheckBox()$/;"	f	class:CheckBox
+~ClipArea	xmwnd.h	/^ClipArea :: ~ClipArea()$/;"	f	class:ClipArea
+~DATA	dbase.h	/^DATA::~DATA()$/;"	f	class:DATA
+~RPG	dbase.h	/^RPG::~RPG()$/;"	f	class:RPG
+~Scroll	xmwnd.h	/^Scroll :: ~Scroll(){out("scroll::~scroll scrlFunc=NULL");scrlFunc = NULL;}$/;"	f	class:Scroll
+~Unused	xmwnd.h	/^Unused :: ~Unused()$/;"	f	class:Unused
+~Wbox	xmwnd.h	/^Wbox :: ~Wbox()$/;"	f	class:Wbox
+~Wnd	xmwnd.h	/^Wnd :: ~Wnd()$/;"	f	class:Wnd

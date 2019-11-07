@@ -1,0 +1,4 @@
+#!/bin/sh
+cd /data/cprogs/Koncerty
+./prg_bsd
+

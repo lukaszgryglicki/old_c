@@ -1,0 +1,11 @@
+CREATE VIEW vdivision AS
+SELECT (
+((SELECT count(ocena.ocena) 
+AS count 
+FROM ocena 
+WHERE (ocena.czyliczona = true)) * 100) 
+/ 
+(SELECT count(ocena.ocena) 
+AS count 
+FROM ocena)) 
+AS percent_computed_in_avg

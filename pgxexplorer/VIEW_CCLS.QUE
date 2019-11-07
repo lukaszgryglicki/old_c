@@ -1,0 +1,8 @@
+CREATE VIEW vcount_cls AS
+SELECT klasa.idklasy AS id, 
+klasa.nazwa AS class_name, 
+count(uczen.imie) AS count 
+FROM klasa, uczen 
+WHERE (klasa.idklasy = uczen.idklasy) 
+GROUP BY klasa.idklasy, klasa.nazwa 
+ORDER BY klasa.nazwa

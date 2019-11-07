@@ -1,0 +1,7 @@
+CREATE VIEW vlist AS
+SELECT uczen.imie AS stud_name, 
+uczen.nazwisko AS stud_surname, 
+klasa.nazwa AS "class" 
+FROM uczen, klasa 
+WHERE (klasa.idklasy = uczen.idklasy) 
+ORDER BY uczen.nazwisko

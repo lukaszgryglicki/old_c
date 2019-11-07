@@ -1,0 +1,9 @@
+CREATE VIEW vsrednie_kl AS
+SELECT klasa.idklasy 
+AS id, klasa.nazwa 
+AS "class", avg(vsrednie_uczniow.srednia) 
+AS avg 
+FROM vsrednie_uczniow, klasa 
+WHERE (vsrednie_uczniow.idklasy = klasa.idklasy) 
+GROUP BY klasa.idklasy, klasa.nazwa 
+ORDER BY klasa.nazwa

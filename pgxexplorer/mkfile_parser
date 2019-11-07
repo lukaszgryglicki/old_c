@@ -1,0 +1,9 @@
+all: genpardta
+# do not use optimizations!!!, asmqsort is written in ASSEMBLER
+genpardta: genpardta.o asmqsort.o
+	cc -g3 -Wall -std=c99 -pedantic -o genpardta asmqsort.o genpardta.o -lc
+genpardta.o: genpardta.c
+	cc -g3 -Wall -std=c99 -pedantic -c genpardta.c
+asmqsort.o: asmqsort.s
+	as -o asmqsort.o asmqsort.s
+

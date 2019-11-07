@@ -1,0 +1,6 @@
+CREATE VIEW division(percent_computed_in_avg)
+ AS SELECT 
+((SELECT count(ocena) FROM ocena
+WHERE ocena.czyliczona='t')*100)
+/
+(SELECT count(ocena) FROM ocena)
