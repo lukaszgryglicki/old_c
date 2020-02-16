@@ -1,3 +1,18 @@
 This is DIFUSER LOG FILE
 Working in PREVIEW mode, nothing will be erased
 End of SHRED LOG
+Sun Feb 16 15:07:52 CET 2020
+This is DIFUSER LOG FILE
+Working on path: /Users/lukasz/dev/lukaszgryglicki/old_c/Difuser
+Dir: .
+Files processed: 6
+list#: 6
+Max possible comparisions: 15 (0K, 0M, 0G)
+Working in PREVIEW mode, nothing will be erased/linked
+
+compared# 0
+Gain: 0 files		0b	0kb	0Mb	0Gb
+list#: 6
+Time: 27120us (0.027s, 0.0m, 0.0h, 0.0d), cmpps: 0.000000, avgcmp: infms
+End of LOG
+
