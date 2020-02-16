@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.3.1	//
+PATH_MAX	difuser.c	10;"	d	file:
+add_element	difuser.c	/^void add_element(char* elem, int siz)$/;"	f
+catch_int	difuser.c	/^void catch_int(int signo)$/;"	f
+close_log	difuser.c	/^void close_log()$/;"	f
+do_compare	difuser.c	/^int do_compare(struct mflist* p1, struct mflist* p2)$/;"	f
+flist	difuser.c	/^static struct mflist* flist=NULL;$/;"	v	file:
+free_list	difuser.c	/^void free_list()$/;"	f
+fsize	difuser.c	/^ int fsize;$/;"	m	struct:mflist	file:
+generate_flist	difuser.c	/^int generate_flist(char* fname)$/;"	f
+help	difuser.c	/^void help()$/;"	f
+is_regfile	difuser.c	/^int is_regfile(char* file)$/;"	f
+last	difuser.c	/^static struct mflist* last=NULL;$/;"	v	file:
+list_count	difuser.c	/^void list_count()$/;"	f
+logf	difuser.c	/^static FILE*  logf = NULL;$/;"	v	file:
+logfail	difuser.c	/^void logfail(char* fn, char* dup)$/;"	f
+logsucc	difuser.c	/^void logsucc(char* fn, char* dup)$/;"	f
+logwish	difuser.c	/^void logwish(char* fn, char* dup)$/;"	f
+main	difuser.c	/^int main(int lb, char** par)$/;"	f
+mflist	difuser.c	/^struct mflist$/;"	s	file:
+name	difuser.c	/^ char* name;$/;"	m	struct:mflist	file:
+next	difuser.c	/^ struct mflist* next;$/;"	m	struct:mflist	file:
+open_log	difuser.c	/^void open_log()$/;"	f
+shmode	difuser.c	/^int shmode = 0;$/;"	v
+shred_list	difuser.c	/^void shred_list()$/;"	f
+signal_setup	difuser.c	/^void signal_setup()$/;"	f
